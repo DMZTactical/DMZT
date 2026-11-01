@@ -4,8 +4,8 @@
 
 Go into Hajin with your route already in mind. **DMZ Tactical** puts the map, key locations, weapon loadouts and raid checklist in one Windows app, ready for your next DMZ run.
 
-<p align="center"><a href="https://discord.gg/fFdxr654nJ"><img src="media/discord-en.svg" width="320" alt="Join the DMZ Tactical Discord community"></a> &nbsp; <a href="https://github.com/DMZTactical/DMZT/releases/download/v1.2.1/DMZTactical-Installer.exe"><img src="media/download-en.svg" width="320" alt="Download DMZTactical-Installer.exe for Windows"></a></p>
-<p align="center">Windows x64 &nbsp; · &nbsp; English and Lithuanian &nbsp; · &nbsp; 1.2.1</p>
+<p align="center"><a href="https://discord.gg/fFdxr654nJ"><img src="media/discord-en.svg" width="320" alt="Join the DMZ Tactical Discord community"></a> &nbsp; <a href="https://github.com/DMZTactical/DMZT/releases/download/v1.3.0/DMZTactical-Installer.exe"><img src="media/download-en.svg" width="320" alt="Download DMZTactical-Installer.exe for Windows"></a></p>
+<p align="center">Windows x64 &nbsp; · &nbsp; English and Lithuanian &nbsp; · &nbsp; 1.3.0</p>
 
 [![Hajin map with key locations and rarity filters](media/keys-en-1.0.4.jpg)](media/keys-en-1.0.4.jpg)
 
@@ -24,6 +24,14 @@ Start a raid to focus the map on your stops and key destinations, with possible 
 Your existing route and checklist become your first preparation. Everything stays on your computer. Duplicate a preparation for another run or export your plans for backup.
 
 [![An active raid preparation with a focused Hajin map and material checklist](media/raid-preparation-en-1.1.0.png)](media/raid-preparation-en-1.1.0.png)
+
+## Every raid has an objective
+
+Open **DMZ Orders** inside **My plan** to browse **72 Orders and 6 story missions**. Choose the missions for your next run, follow each step and keep partial progress, such as 17 of 30 materials, between raids.
+
+See required items and rewards, add linked materials to your checklist and open mission areas on the map. Your tracked objectives also appear in the pinned raid window. You mark progress yourself; no game connection is needed.
+
+[![DMZ Orders with mission steps, persistent progress and required materials](media/orders-en-1.3.0.png)](media/orders-en-1.3.0.png)
 
 ## Your raid plan, always within reach
 
@@ -69,14 +77,14 @@ In **Settings**, select **Check for updates** beside **Done**. Your saved places
 <details>
 <summary><strong>Before you install</strong></summary>
 
-- **Current release:** 1.2.1. Settings now includes a direct Discord link, with Reset display moved beside Close. Existing plans and progress stay on your device. No account is required.
+- **Current release:** 1.3.0. DMZ Orders brings mission objectives, persistent progress and linked requirements to My plan and the pinned raid window. Existing plans and preferences stay on your device. No account is required.
 - **Requirements:** Windows x64, administrator approval for installation and internet for map imagery. The installer downloads WebView2 when needed.
 - **Coming from 1.0 or a Preview?** Uninstall the earlier per-user edition through Windows Settings before running the new installer. Your saved plans and preferences are kept.
 - **Windows notice:** the installer is not code-signed. Windows may display Unknown Publisher or a SmartScreen warning.
 - **Map data:** the bundled catalog is included. Catalog updates arrive with application releases. Spawn locations and community loadout recommendations can change with the game.
 - **Download:** you only need **DMZTactical-Installer.exe**. The NUPKG file supports in-app updates. GitHub's Source code archives contain this download page, not an installer.
 
-[Release details](https://github.com/DMZTactical/DMZT/releases/tag/v1.2.1)
+[Release details](https://github.com/DMZTactical/DMZT/releases/tag/v1.3.0)
 
 </details>
 

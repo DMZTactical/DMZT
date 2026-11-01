@@ -4,8 +4,8 @@
 
 Į Hajin leiskis jau žinodamas, kur keliausi. **DMZ Tactical** sujungia žemėlapį, raktų vietas, ginklų komplektus ir reido sąrašą vienoje Windows programoje, kad kitam DMZ reidui pasiruoštum iš anksto.
 
-<p align="center"><a href="https://discord.gg/fFdxr654nJ"><img src="media/discord-lt.svg" width="320" alt="Prisijungti prie DMZ Tactical Discord bendruomenės"></a> &nbsp; <a href="https://github.com/DMZTactical/DMZT/releases/download/v1.2.1/DMZTactical-Installer.exe"><img src="media/download-lt.svg" width="320" alt="Atsisiųsti DMZTactical-Installer.exe Windows kompiuteriui"></a></p>
-<p align="center">Windows x64 &nbsp; · &nbsp; Lietuvių ir anglų kalbos &nbsp; · &nbsp; 1.2.1 versija</p>
+<p align="center"><a href="https://discord.gg/fFdxr654nJ"><img src="media/discord-lt.svg" width="320" alt="Prisijungti prie DMZ Tactical Discord bendruomenės"></a> &nbsp; <a href="https://github.com/DMZTactical/DMZT/releases/download/v1.3.0/DMZTactical-Installer.exe"><img src="media/download-lt.svg" width="320" alt="Atsisiųsti DMZTactical-Installer.exe Windows kompiuteriui"></a></p>
+<p align="center">Windows x64 &nbsp; · &nbsp; Lietuvių ir anglų kalbos &nbsp; · &nbsp; 1.3.0 versija</p>
 
 [![Hajin žemėlapis, raktų vietos ir retumo filtrai](media/keys-lt-1.0.4.jpg)](media/keys-lt-1.0.4.jpg)
 
@@ -24,6 +24,14 @@ Pradėjus reidą, žemėlapyje lieka tavo sustojimai, raktų vietos ir pasirinkt
 Esamas maršrutas ir daiktų sąrašas tampa pirmuoju pasiruošimu. Viskas lieka tavo kompiuteryje. Planą gali kopijuoti kitam reidui arba eksportuoti atsarginei kopijai.
 
 [![Pradėtas reidas su atrinktomis Hajin vietomis ir medžiagų sąrašu](media/raid-preparation-lt-1.1.0.png)](media/raid-preparation-lt-1.1.0.png)
+
+## Kiekvienas reidas turi tikslą
+
+Skiltyje **Mano planas** atverk **DMZ Orders** ir rinkis iš **72 Orders užduočių bei 6 istorijos misijų**. Pasirink, ką vykdysi kitame reide, žymėk atliktus žingsnius ir išsaugok dalinę pažangą, pavyzdžiui, 17 iš 30 medžiagų.
+
+Matyk reikalingus daiktus ir atlygį, pridėk susietas medžiagas į sąrašą ir atverk misijų vietoves žemėlapyje. Pasirinktų užduočių tikslai rodomi ir prisegamame reido lange. Pažangą žymi pats, ryšio su žaidimu nereikia.
+
+[![DMZ Orders su užduoties eiga, išsaugoma pažanga ir reikalingais daiktais](media/orders-lt-1.3.0.png)](media/orders-lt-1.3.0.png)
 
 ## Reido planas visada po ranka
 
@@ -68,14 +76,14 @@ Tamsi taktinė sąsaja, pažįstamos retumo spalvos ir permatomas šoninis skyde
 <details>
 <summary><strong>Prieš diegiant</strong></summary>
 
-- **Dabartinė versija:** 1.2.1. Nustatymuose rasi tiesioginę Discord nuorodą, o „Atkurti vaizdą“ perkeltas šalia uždarymo. Esami planai ir pažanga išsaugomi tavo kompiuteryje. Paskyra nereikalinga.
+- **Dabartinė versija:** 1.3.0. DMZ Orders papildo Mano planą ir prisegamą reido langą misijų tikslais, išsaugoma pažanga bei susietais reikalavimais. Esami planai ir pasirinkimai lieka tavo kompiuteryje. Paskyra nereikalinga.
 - **Reikalavimai:** Windows x64, administratoriaus patvirtinimas diegimui ir internetas žemėlapio vaizdui. Prireikus diegiklis atsisiunčia WebView2.
 - **Naudoji 1.0 ar Preview?** Prieš paleisdamas naują diegiklį pašalink ankstesnę vienam vartotojui skirtą versiją per Windows nustatymus. Išsaugoti planai ir pasirinkimai išliks.
 - **Windows pranešimas:** diegiklis neturi kodo pasirašymo sertifikato. Windows gali rodyti nežinomą leidėją arba SmartScreen įspėjimą.
 - **Žemėlapio duomenys:** vietų katalogas įtrauktas į programą. Katalogas atnaujinamas kartu su programos versijomis. Atsiradimo vietos ir bendruomenės rekomenduojami ginklų komplektai gali keistis kartu su žaidimu.
 - **Atsisiuntimas:** diegimui reikia tik **DMZTactical-Installer.exe**. NUPKG failas skirtas atnaujinimams pačioje programoje. GitHub Source code archyvuose yra šio atsisiuntimo puslapio failai, ne diegiklis.
 
-[Versijos informacija](https://github.com/DMZTactical/DMZT/releases/tag/v1.2.1)
+[Versijos informacija](https://github.com/DMZTactical/DMZT/releases/tag/v1.3.0)
 
 </details>
 
