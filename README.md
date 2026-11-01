@@ -2,10 +2,10 @@
 
 <p align="center"><strong>English</strong> &nbsp; | &nbsp; <a href="README.lt.md">Lietuvių</a></p>
 
-Go into Hajin with your route already in mind. **DMZ Tactical** puts the map, key locations and weapon loadouts in one Windows app, ready for your next DMZ run.
+Go into Hajin with your route already in mind. **DMZ Tactical** puts the map, key locations, weapon loadouts and raid checklist in one Windows app, ready for your next DMZ run.
 
-<p align="center"><a href="https://github.com/DMZTactical/DMZT/releases/download/v1.0.0-preview.6/DMZTactical-Installer.exe"><img src="media/download-en.svg" width="320" alt="Download DMZTactical-Installer.exe for Windows"></a></p>
-<p align="center">Windows x64 &nbsp; · &nbsp; English and Lithuanian &nbsp; · &nbsp; 1.0 Preview</p>
+<p align="center"><a href="https://github.com/DMZTactical/DMZT/releases/download/v1.0.0/DMZTactical-Installer.exe"><img src="media/download-en.svg" width="320" alt="Download DMZTactical-Installer.exe for Windows"></a></p>
+<p align="center">Windows x64 &nbsp; · &nbsp; English and Lithuanian &nbsp; · &nbsp; 1.0</p>
 
 [![Hajin map with key locations and rarity filters](media/keys-en.jpg)](media/keys-en.jpg)
 
@@ -25,6 +25,14 @@ Browse **Weapon Meta** from META through D Tier. Compare long-range and close-ra
 
 [![Weapon Meta with tier filters, weapon builds and balance-change labels](media/weapon-meta-en.jpg)](media/weapon-meta-en.jpg)
 
+## Know what to bring back
+
+Build a **Raid Checklist** before you deploy. Choose the items you need or select a 3D Printer recipe, then keep the required materials in one place. Shared ingredients are added together, and you can mark each item collected during your run.
+
+Browse **95 printer recipes** and **34 FOB upgrade tiers**. See what an upgrade gives you, what it unlocks and where to look for its materials. Your checklist stays on your computer. No account, game connection or inventory access is required.
+
+[![FOB upgrade benefits and material requirements](media/fob-upgrade-en.png)](media/fob-upgrade-en.png)
+
 ## Built to sit beside your game
 
 A dark tactical interface, familiar rarity colours and a transparent side panel keep the focus on Hajin. Choose English or Lithuanian in Settings. Move from planning a route to checking a key or picking a build in the same workspace.
@@ -34,7 +42,7 @@ A dark tactical interface, familiar rarity colours and a transparent side panel 
 ## Ready for your next run?
 
 1. Download **DMZTactical-Installer.exe** using the button above.
-2. Run the installer and open **DMZ Tactical**.
+2. Choose the installation folder, finish setup and open **DMZ Tactical**.
 3. Choose your language in Settings and start building your plan.
 
 Updates are available inside **Settings**, under **Application updates**. Your saved places, plans and preferences carry over.
@@ -42,13 +50,13 @@ Updates are available inside **Settings**, under **Application updates**. Your s
 <details>
 <summary><strong>Before you install</strong></summary>
 
-- **Current release:** 1.0.0-preview.6. This is a preview; testing for the stable 1.0 release is still in progress.
+- **Current release:** 1.0.0. The first stable release. No account is required.
 - **Requirements:** Windows x64 and an internet connection for map imagery. The installer handles WebView2 when needed.
 - **Windows notice:** the installer is not code-signed. Windows may display Unknown Publisher or a SmartScreen warning.
-- **Map data:** the bundled catalog is included. Public live-data synchronization is not available in this preview. Spawn locations and community loadout recommendations can change with the game.
-- **Download:** you only need **DMZTactical-Installer.exe**. The other release files support the updater or file verification. GitHub's Source code archives contain this download page, not an installer.
+- **Map data:** the bundled catalog is included. Catalog updates arrive with application releases. Spawn locations and community loadout recommendations can change with the game.
+- **Download:** you only need **DMZTactical-Installer.exe**. The NUPKG file supports in-app updates. GitHub's Source code archives contain this download page, not an installer.
 
-[Release details and file checksums](https://github.com/DMZTactical/DMZT/releases/tag/v1.0.0-preview.6)
+[Release details](https://github.com/DMZTactical/DMZT/releases/tag/v1.0.0)
 
 </details>
 
