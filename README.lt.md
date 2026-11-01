@@ -4,8 +4,8 @@
 
 Į Hajin leiskis jau žinodamas, kur keliausi. **DMZ Tactical** sujungia žemėlapį, raktų vietas, ginklų komplektus ir reido sąrašą vienoje Windows programoje, kad kitam DMZ reidui pasiruoštum iš anksto.
 
-<p align="center"><a href="https://github.com/DMZTactical/DMZT/releases/download/v1.0.1/DMZTactical-Installer.exe"><img src="media/download-lt.svg" width="320" alt="Atsisiųsti DMZTactical-Installer.exe Windows kompiuteriui"></a></p>
-<p align="center">Windows x64 &nbsp; · &nbsp; Lietuvių ir anglų kalbos &nbsp; · &nbsp; 1.0.1 versija</p>
+<p align="center"><a href="https://github.com/DMZTactical/DMZT/releases/download/v1.0.2/DMZTactical-Installer.exe"><img src="media/download-lt.svg" width="320" alt="Atsisiųsti DMZTactical-Installer.exe Windows kompiuteriui"></a></p>
+<p align="center">Windows x64 &nbsp; · &nbsp; Lietuvių ir anglų kalbos &nbsp; · &nbsp; 1.0.2 versija</p>
 
 [![Hajin žemėlapis, raktų vietos ir retumo filtrai](media/keys-en.jpg)](media/keys-en.jpg)
 
@@ -35,7 +35,7 @@ Rinkis iš **95 spausdintuvo receptų** ir **34 bazės patobulinimų pakopų**. 
 
 ## Sukurta naudoti šalia žaidimo
 
-Tamsi taktinė sąsaja, pažįstamos retumo spalvos ir permatomas šoninis skydelis išlaiko dėmesį žemėlapyje. Nustatymuose pasirink lietuvių arba anglų kalbą. Planuok maršrutą, tikrink raktus ir rinkis ginklo komplektą vienoje vietoje.
+Tamsi taktinė sąsaja, pažįstamos retumo spalvos ir permatomas šoninis skydelis išlaiko dėmesį žemėlapyje. Nustatymuose pasirink lietuvių arba anglų kalbą. Planuok maršrutą, tikrink raktus ir rinkis ginklo komplektą vienoje vietoje. Programa įsimena lango dydį ir padėtį kitam kartui.
 
 [![DMZ Tactical Windows programa su žemėlapio sluoksniais ir išėjimo vietomis](media/hajin-map-en.jpg)](media/hajin-map-en.jpg)
 
@@ -50,14 +50,14 @@ Tamsi taktinė sąsaja, pažįstamos retumo spalvos ir permatomas šoninis skyde
 <details>
 <summary><strong>Prieš diegiant</strong></summary>
 
-- **Dabartinė versija:** 1.0.1. Patobulintas diegimas ir lengviau pasiekiami atnaujinimai. Paskyra nereikalinga.
+- **Dabartinė versija:** 1.0.2. Naujas paleidimo ekranas, įsimenama lango padėtis ir versija Nustatymuose. Paskyra nereikalinga.
 - **Reikalavimai:** Windows x64, administratoriaus patvirtinimas diegimui ir internetas žemėlapio vaizdui. Prireikus diegiklis atsisiunčia WebView2.
 - **Naudoji 1.0 ar Preview?** Prieš paleisdamas naują diegiklį pašalink ankstesnę vienam vartotojui skirtą versiją per Windows nustatymus. Išsaugoti planai ir pasirinkimai išliks.
 - **Windows pranešimas:** diegiklis neturi kodo pasirašymo sertifikato. Windows gali rodyti nežinomą leidėją arba SmartScreen įspėjimą.
 - **Žemėlapio duomenys:** vietų katalogas įtrauktas į programą. Katalogas atnaujinamas kartu su programos versijomis. Atsiradimo vietos ir bendruomenės rekomenduojami ginklų komplektai gali keistis kartu su žaidimu.
 - **Atsisiuntimas:** diegimui reikia tik **DMZTactical-Installer.exe**. NUPKG failas skirtas atnaujinimams pačioje programoje. GitHub Source code archyvuose yra šio atsisiuntimo puslapio failai, ne diegiklis.
 
-[Versijos informacija](https://github.com/DMZTactical/DMZT/releases/tag/v1.0.1)
+[Versijos informacija](https://github.com/DMZTactical/DMZT/releases/tag/v1.0.2)
 
 </details>
 
