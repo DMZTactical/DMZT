@@ -4,7 +4,7 @@
 
 Go into Hajin with your route already in mind. **DMZ Tactical** puts the map, key locations and weapon loadouts in one Windows app, ready for your next DMZ run.
 
-<p align="center"><a href="https://github.com/Liftoop/DMZT/releases/download/v1.0.0-preview.4/DMZTactical-Installer.exe"><img src="media/download-en.svg" width="320" alt="Download DMZTactical-Installer.exe for Windows"></a></p>
+<p align="center"><a href="https://github.com/Liftoop/DMZT/releases/download/v1.0.0-preview.5/DMZTactical-Installer.exe"><img src="media/download-en.svg" width="320" alt="Download DMZTactical-Installer.exe for Windows"></a></p>
 <p align="center">Windows x64 &nbsp; · &nbsp; English and Lithuanian &nbsp; · &nbsp; 1.0 Preview</p>
 
 [![Hajin map with key locations and rarity filters](media/keys-en.jpg)](media/keys-en.jpg)
@@ -48,7 +48,7 @@ Updates are available inside **Settings**, under **Application updates**. Your s
 - **Map data:** the bundled catalog is included. Public live-data synchronization is not available in this preview. Spawn locations and community loadout recommendations can change with the game.
 - **Download:** you only need **DMZTactical-Installer.exe**. The other release files support the updater or file verification. GitHub's Source code archives contain this download page, not an installer.
 
-[Release details and file checksums](https://github.com/Liftoop/DMZT/releases/tag/v1.0.0-preview.4)
+[Release details and file checksums](https://github.com/Liftoop/DMZT/releases/tag/v1.0.0-preview.5)
 
 </details>
 
