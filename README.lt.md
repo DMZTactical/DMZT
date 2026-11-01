@@ -4,8 +4,8 @@
 
 Į Hajin leiskis jau žinodamas, kur keliausi. **DMZ Tactical** sujungia žemėlapį, raktų vietas, ginklų komplektus ir reido sąrašą vienoje Windows programoje, kad kitam DMZ reidui pasiruoštum iš anksto.
 
-<p align="center"><a href="https://github.com/DMZTactical/DMZT/releases/download/v1.1.0/DMZTactical-Installer.exe"><img src="media/download-lt.svg" width="320" alt="Atsisiųsti DMZTactical-Installer.exe Windows kompiuteriui"></a></p>
-<p align="center">Windows x64 &nbsp; · &nbsp; Lietuvių ir anglų kalbos &nbsp; · &nbsp; 1.1.0 versija</p>
+<p align="center"><a href="https://github.com/DMZTactical/DMZT/releases/download/v1.2.0/DMZTactical-Installer.exe"><img src="media/download-lt.svg" width="320" alt="Atsisiųsti DMZTactical-Installer.exe Windows kompiuteriui"></a></p>
+<p align="center">Windows x64 &nbsp; · &nbsp; Lietuvių ir anglų kalbos &nbsp; · &nbsp; 1.2.0 versija</p>
 
 [![Hajin žemėlapis, raktų vietos ir retumo filtrai](media/keys-lt-1.0.4.jpg)](media/keys-lt-1.0.4.jpg)
 
@@ -24,6 +24,16 @@ Pradėjus reidą, žemėlapyje lieka tavo sustojimai, raktų vietos ir pasirinkt
 Esamas maršrutas ir daiktų sąrašas tampa pirmuoju pasiruošimu. Viskas lieka tavo kompiuteryje. Planą gali kopijuoti kitam reidui arba eksportuoti atsarginei kopijai.
 
 [![Pradėtas reidas su atrinktomis Hajin vietomis ir medžiagų sąrašu](media/raid-preparation-lt-1.1.0.png)](media/raid-preparation-lt-1.1.0.png)
+
+## Reido planas visada po ranka
+
+Skiltyje **Mano planas** atverk **Prisegamą reido langą**. Mažame lange šalia žaidimo matysi tikslus, reikalingus daiktus, jų kiekius ir suplanuotas vietas. Žymėk pažangą arba įjunk **Tik likę**. Pagrindinis planas atsinaujina kartu.
+
+Prisek langą virš kitų programų, perkelk į kitą monitorių, pakeisk dydį arba sutrauk iki mažos pažangos antraštės. Jis lieka matomas sumažinus žemėlapį ir įsimena padėtį, dydį bei prisegimą. Raktus ir pasirinktą ginklo komplektą gali peržiūrėti tame pačiame lange.
+
+<p align="center"><img src="media/raid-window-lt-1.2.0.png" width="320" alt="Prisegamas reido langas su reikalingais kiekiais ir surinktų daiktų žymėjimu"></p>
+
+Naudodamas langą palik DMZ Tactical įjungtą. Šalia žaidimo rinkis lango arba lango be rėmelių režimą, arba naudok kitą monitorių. Išskirtinis viso ekrano režimas gali uždengti reido langą.
 
 ## Pasirink komplektą savo kovai
 
@@ -58,14 +68,14 @@ Tamsi taktinė sąsaja, pažįstamos retumo spalvos ir permatomas šoninis skyde
 <details>
 <summary><strong>Prieš diegiant</strong></summary>
 
-- **Dabartinė versija:** 1.1.0. Reido pasiruošimas sujungia tikslus, medžiagas, raktus, maršrutą ir ginklo komplektą skiltyje Mano planas. Paskyra nereikalinga.
+- **Dabartinė versija:** 1.2.0. Naujame prisegamame reido lange tikslai, reikalingi daiktai ir suplanuotos vietos lieka po ranka. Esami planai ir pažanga išsaugomi tavo kompiuteryje. Paskyra nereikalinga.
 - **Reikalavimai:** Windows x64, administratoriaus patvirtinimas diegimui ir internetas žemėlapio vaizdui. Prireikus diegiklis atsisiunčia WebView2.
 - **Naudoji 1.0 ar Preview?** Prieš paleisdamas naują diegiklį pašalink ankstesnę vienam vartotojui skirtą versiją per Windows nustatymus. Išsaugoti planai ir pasirinkimai išliks.
 - **Windows pranešimas:** diegiklis neturi kodo pasirašymo sertifikato. Windows gali rodyti nežinomą leidėją arba SmartScreen įspėjimą.
 - **Žemėlapio duomenys:** vietų katalogas įtrauktas į programą. Katalogas atnaujinamas kartu su programos versijomis. Atsiradimo vietos ir bendruomenės rekomenduojami ginklų komplektai gali keistis kartu su žaidimu.
 - **Atsisiuntimas:** diegimui reikia tik **DMZTactical-Installer.exe**. NUPKG failas skirtas atnaujinimams pačioje programoje. GitHub Source code archyvuose yra šio atsisiuntimo puslapio failai, ne diegiklis.
 
-[Versijos informacija](https://github.com/DMZTactical/DMZT/releases/tag/v1.1.0)
+[Versijos informacija](https://github.com/DMZTactical/DMZT/releases/tag/v1.2.0)
 
 </details>
 
