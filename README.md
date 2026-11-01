@@ -1,4 +1,4 @@
-<p align="center"><img src="media/hero-en.svg" width="100%" alt="DMZ Tactical. Your raid. Your plan."></p>
+<p align="center"><img src="media/hero-en.svg" width="100%" alt="DMZ Tactical. Your Tactical Companion."></p>
 
 <p align="center"><strong>English</strong> &nbsp; | &nbsp; <a href="README.lt.md">Lietuvių</a></p>
 

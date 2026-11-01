@@ -1,4 +1,4 @@
-<p align="center"><img src="media/hero-lt.svg" width="100%" alt="DMZ Tactical. Tavo reidas. Tavo planas."></p>
+<p align="center"><img src="media/hero-lt.svg" width="100%" alt="DMZ Tactical. Tavo taktinis pagalbininkas."></p>
 
 <p align="center"><a href="README.md">English</a> &nbsp; | &nbsp; <strong>Lietuvių</strong></p>
 
