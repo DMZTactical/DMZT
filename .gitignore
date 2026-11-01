@@ -1,0 +1,9 @@
+*.pfx
+*.p12
+*.pem
+*.key
+.env*
+*.exe
+*.msi
+*.nupkg
+*.zip
