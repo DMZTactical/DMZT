@@ -4,8 +4,8 @@
 
 Go into Hajin with your route already in mind. **DMZ Tactical** puts the map, key locations, weapon loadouts and raid checklist in one Windows app, ready for your next DMZ run.
 
-<p align="center"><a href="https://github.com/DMZTactical/DMZT/releases/download/v1.2.0/DMZTactical-Installer.exe"><img src="media/download-en.svg" width="320" alt="Download DMZTactical-Installer.exe for Windows"></a></p>
-<p align="center">Windows x64 &nbsp; · &nbsp; English and Lithuanian &nbsp; · &nbsp; 1.2.0</p>
+<p align="center"><a href="https://github.com/DMZTactical/DMZT/releases/download/v1.2.1/DMZTactical-Installer.exe"><img src="media/download-en.svg" width="320" alt="Download DMZTactical-Installer.exe for Windows"></a></p>
+<p align="center">Windows x64 &nbsp; · &nbsp; English and Lithuanian &nbsp; · &nbsp; 1.2.1</p>
 
 [![Hajin map with key locations and rarity filters](media/keys-en-1.0.4.jpg)](media/keys-en-1.0.4.jpg)
 
@@ -56,7 +56,7 @@ A dark tactical interface, familiar rarity colours and a transparent side panel 
 
 [![DMZ Tactical on Windows with map layers and exfil locations](media/hajin-map-en-1.0.4.jpg)](media/hajin-map-en-1.0.4.jpg)
 
-[![Settings with icon backgrounds and English or Lithuanian language selection](media/settings-en-1.0.5.jpg)](media/settings-en-1.0.5.jpg)
+[![Settings with icon backgrounds and English or Lithuanian language selection](media/settings-en-1.2.1.png)](media/settings-en-1.2.1.png)
 
 ## Ready for your next run?
 
@@ -69,14 +69,14 @@ In **Settings**, select **Check for updates** beside **Done**. Your saved places
 <details>
 <summary><strong>Before you install</strong></summary>
 
-- **Current release:** 1.2.0. The new pinned raid window keeps objectives, required items and planned stops within reach. Existing plans and progress stay on your device. No account is required.
+- **Current release:** 1.2.1. Settings now includes a direct Discord link, with Reset display moved beside Close. Existing plans and progress stay on your device. No account is required.
 - **Requirements:** Windows x64, administrator approval for installation and internet for map imagery. The installer downloads WebView2 when needed.
 - **Coming from 1.0 or a Preview?** Uninstall the earlier per-user edition through Windows Settings before running the new installer. Your saved plans and preferences are kept.
 - **Windows notice:** the installer is not code-signed. Windows may display Unknown Publisher or a SmartScreen warning.
 - **Map data:** the bundled catalog is included. Catalog updates arrive with application releases. Spawn locations and community loadout recommendations can change with the game.
 - **Download:** you only need **DMZTactical-Installer.exe**. The NUPKG file supports in-app updates. GitHub's Source code archives contain this download page, not an installer.
 
-[Release details](https://github.com/DMZTactical/DMZT/releases/tag/v1.2.0)
+[Release details](https://github.com/DMZTactical/DMZT/releases/tag/v1.2.1)
 
 </details>
 
