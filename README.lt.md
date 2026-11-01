@@ -4,8 +4,8 @@
 
 Į Hajin leiskis jau žinodamas, kur keliausi. **DMZ Tactical** sujungia žemėlapį, raktų vietas, ginklų komplektus ir reido sąrašą vienoje Windows programoje, kad kitam DMZ reidui pasiruoštum iš anksto.
 
-<p align="center"><a href="https://discord.gg/fFdxr654nJ"><img src="media/discord-lt.svg" width="320" alt="Prisijungti prie DMZ Tactical Discord bendruomenės"></a> &nbsp; <a href="https://github.com/DMZTactical/DMZT/releases/download/v1.3.0/DMZTactical-Installer.exe"><img src="media/download-lt.svg" width="320" alt="Atsisiųsti DMZTactical-Installer.exe Windows kompiuteriui"></a></p>
-<p align="center">Windows x64 &nbsp; · &nbsp; Lietuvių ir anglų kalbos &nbsp; · &nbsp; 1.3.0 versija</p>
+<p align="center"><a href="https://discord.gg/PzCZNqmybB"><img src="media/discord-lt.svg" width="320" alt="Prisijungti prie DMZ Tactical Discord bendruomenės"></a> &nbsp; <a href="https://github.com/DMZTactical/DMZT/releases/download/v1.3.1/DMZTactical-Installer.exe"><img src="media/download-lt.svg" width="320" alt="Atsisiųsti DMZTactical-Installer.exe Windows kompiuteriui"></a></p>
+<p align="center">Windows x64 &nbsp; · &nbsp; Lietuvių ir anglų kalbos &nbsp; · &nbsp; 1.3.1 versija</p>
 
 [![Hajin žemėlapis, raktų vietos ir retumo filtrai](media/keys-lt-1.0.4.jpg)](media/keys-lt-1.0.4.jpg)
 
@@ -76,14 +76,14 @@ Tamsi taktinė sąsaja, pažįstamos retumo spalvos ir permatomas šoninis skyde
 <details>
 <summary><strong>Prieš diegiant</strong></summary>
 
-- **Dabartinė versija:** 1.3.0. DMZ Orders papildo Mano planą ir prisegamą reido langą misijų tikslais, išsaugoma pažanga bei susietais reikalavimais. Esami planai ir pasirinkimai lieka tavo kompiuteryje. Paskyra nereikalinga.
+- **Dabartinė versija:** 1.3.1. Discord mygtukas dabar atveria naują bendruomenės kvietimą. Tavo planai, pažanga ir nustatymai išlieka. Programai naudoti paskyra nereikalinga.
 - **Reikalavimai:** Windows x64, administratoriaus patvirtinimas diegimui ir internetas žemėlapio vaizdui. Prireikus diegiklis atsisiunčia WebView2.
 - **Naudoji 1.0 ar Preview?** Prieš paleisdamas naują diegiklį pašalink ankstesnę vienam vartotojui skirtą versiją per Windows nustatymus. Išsaugoti planai ir pasirinkimai išliks.
 - **Windows pranešimas:** diegiklis neturi kodo pasirašymo sertifikato. Windows gali rodyti nežinomą leidėją arba SmartScreen įspėjimą.
 - **Žemėlapio duomenys:** vietų katalogas įtrauktas į programą. Katalogas atnaujinamas kartu su programos versijomis. Atsiradimo vietos ir bendruomenės rekomenduojami ginklų komplektai gali keistis kartu su žaidimu.
 - **Atsisiuntimas:** diegimui reikia tik **DMZTactical-Installer.exe**. NUPKG failas skirtas atnaujinimams pačioje programoje. GitHub Source code archyvuose yra šio atsisiuntimo puslapio failai, ne diegiklis.
 
-[Versijos informacija](https://github.com/DMZTactical/DMZT/releases/tag/v1.3.0)
+[Versijos informacija](https://github.com/DMZTactical/DMZT/releases/tag/v1.3.1)
 
 </details>
 
