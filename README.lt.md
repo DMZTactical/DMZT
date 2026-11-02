@@ -88,8 +88,8 @@ Bendra **HAJIN sąsaja** sujungia žemėlapio kategorijas, planus, ginklų kompl
 <details>
 <summary><strong>Prieš diegiant</strong></summary>
 
-- **Dabartinė versija:** 1.4.50. Vienas atnaujinimo mygtukas nustatymuose: patikra, atsisiuntimas, procentai ir paleidimas iš naujo lieka toje pačioje vietoje. HAJIN stilius be rėmelių lietuviškai ir angliškai. Profiliai, turimi kiekiai ir planai išlieka. Internetinė žaidėjų paieška dar neveikia.
-- **Reikalavimai:** Windows x64, administratoriaus patvirtinimas diegimui ir internetas žemėlapio vaizdui. Prireikus diegiklis atsisiunčia WebView2. Jei WebView2 įdiegtas nepilnai arba pažeistas, prieš paleidžiant programą gali reikėti sutvarkyti jo diegimą.
+- **Dabartinė versija:** 1.4.50. 8192 × 8192 palydovinis žemėlapis su animuotomis reaktoriaus radiacijos zonomis bei „critical“ zonomis The Grid ir Chang-san oro bazėje. Pavojaus punktyras išlieka aiškus keičiant mastelį ir pasukant vaizdą. Profiliai, rinkimo sąrašas ir planai išlieka. Internetinė žaidėjų paieška dar neveikia.
+- **Reikalavimai:** Windows x64, administratoriaus patvirtinimas diegimui; visas žemėlapis veikia be interneto. Interneto reikia atsisiuntimams, paskyros funkcijoms ir programos atnaujinimams. Prireikus diegiklis atsisiunčia WebView2. Jei WebView2 įdiegtas nepilnai arba pažeistas, prieš paleidžiant programą gali reikėti sutvarkyti jo diegimą.
 - **Naudoji 1.0 ar Preview?** Prieš paleisdamas naują diegiklį pašalink ankstesnę vienam vartotojui skirtą versiją per Windows nustatymus. Išsaugoti planai ir pasirinkimai išliks.
 - **Windows pranešimas:** diegiklis neturi kodo pasirašymo sertifikato. Windows gali rodyti nežinomą leidėją arba SmartScreen įspėjimą.
 - **Žemėlapio duomenys:** vietų katalogas įtrauktas į programą. Katalogas atnaujinamas kartu su programos versijomis. Atsiradimo vietos ir bendruomenės rekomenduojami ginklų komplektai gali keistis kartu su žaidimu.

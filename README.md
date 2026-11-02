@@ -89,8 +89,8 @@ In **Settings**, select **Check for updates** beside **Done**. Your saved places
 <details>
 <summary><strong>Before you install</strong></summary>
 
-- **Current release:** 1.4.50. One compact update button in settings: check, download, percentage and restart stay in the same place. Borderless HAJIN controls in English and Lithuanian. Profiles, Loot List and plans stay saved. Online player search is not available yet.
-- **Requirements:** Windows x64, administrator approval for installation and internet for map imagery. The installer downloads WebView2 when needed. A damaged or incomplete WebView2 installation may need repair before the app can start.
+- **Current release:** 1.4.50. An 8192 × 8192 satellite map with animated Reactor radiation zones and matching critical zones at The Grid and Chang-san Air Base. Warning dashes stay readable while zooming and rotating. Existing profiles, Loot List and plans are retained. Online player search is not available yet.
+- **Requirements:** Windows x64, administrator approval for installation; the complete map works offline. Internet is needed for downloads, account features and app updates. The installer downloads WebView2 when needed. A damaged or incomplete WebView2 installation may need repair before the app can start.
 - **Coming from 1.0 or a Preview?** Uninstall the earlier per-user edition through Windows Settings before running the new installer. Your saved plans and preferences are kept.
 - **Windows notice:** the installer is not code-signed. Windows may display Unknown Publisher or a SmartScreen warning.
 - **Map data:** the bundled catalog is included. Catalog updates arrive with application releases. Spawn locations and community loadout recommendations can change with the game.
