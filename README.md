@@ -2,10 +2,10 @@
 
 <p align="center"><strong>English</strong> &nbsp; | &nbsp; <a href="README.lt.md">Lietuvių</a></p>
 
-Go into Hajin with your route already in mind. **DMZ Tactical** puts the map, key locations, weapon loadouts and raid checklist in one Windows app, ready for your next DMZ run.
+Go into Hajin with your route already in mind. **DMZ Tactical** puts the map, key locations, weapon loadouts and a persistent loot list in one Windows app, ready for your next DMZ run.
 
-<p align="center"><a href="https://discord.gg/PzCZNqmybB"><img src="media/discord-en.svg" width="320" alt="Join the DMZ Tactical Discord community"></a> &nbsp; <a href="https://github.com/DMZTactical/DMZT/releases/download/v1.4.46/DMZTactical-Installer.exe"><img src="media/download-en.svg" width="320" alt="Download DMZTactical-Installer.exe for Windows"></a></p>
-<p align="center">Windows x64 &nbsp; · &nbsp; English and Lithuanian &nbsp; · &nbsp; 1.4.46</p>
+<p align="center"><a href="https://discord.gg/PzCZNqmybB"><img src="media/discord-en.svg" width="320" alt="Join the DMZ Tactical Discord community"></a> &nbsp; <a href="https://github.com/DMZTactical/DMZT/releases/download/v1.4.47/DMZTactical-Installer.exe"><img src="media/download-en.svg" width="320" alt="Download DMZTactical-Installer.exe for Windows"></a></p>
+<p align="center">Windows x64 &nbsp; · &nbsp; English and Lithuanian &nbsp; · &nbsp; 1.4.47</p>
 
 [![Hajin map with key locations and rarity filters](media/keys-en-1.0.4.jpg)](media/keys-en-1.0.4.jpg)
 
@@ -17,11 +17,11 @@ A key in your inventory should give you a destination. Browse keys by rarity, se
 
 ## Prepare once. Stay focused during the raid.
 
-Build a preparation in **My plan** with your objectives, required items, keys to bring, route and weapon loadout. Keep separate plans for gathering materials, visiting locked locations or hunting commanders.
+Build a preparation in **My plan** with your objectives, keys to bring, route and weapon loadout. Keep separate plans for gathering materials, visiting locked locations or hunting commanders.
 
 Start a raid to focus the map on your stops and key destinations, with possible exfils when you need them. Mark objectives, collected items and visited places as you go. Reopen the app to continue an unfinished raid, or start a new run with fresh progress and the same preparation.
 
-Your existing route and checklist become your first preparation. Everything stays on your computer. Duplicate a preparation for another run or export your plans for backup.
+Your saved preparations stay on your computer. Duplicate a preparation for another run or export your plans for backup.
 
 [![An active raid preparation with a focused Hajin map and material checklist](media/raid-preparation-en-1.1.0.png)](media/raid-preparation-en-1.1.0.png)
 
@@ -52,9 +52,9 @@ Browse **Weapon Meta** from META through D Tier. Choose a weapon type and tier, 
 
 ## Know what to bring back
 
-Build a **Raid Checklist** before you deploy. Choose the items you need or select a 3D Printer recipe, then keep the required materials in one place. Shared ingredients are added together, and you can mark each item collected during your run.
+Use **Loot List** to track what you still need across raids. Add several items, 3D Printer crafts or FOB upgrade tiers. Shared material requirements are added together. Enter your owned quantities manually to see **Need / Have / Still need**, and expand a material to see which goals require it.
 
-Browse **95 printer recipes** and **34 FOB upgrade tiers**. See what an upgrade gives you, what it unlocks and where to look for its materials. Your checklist stays on your computer. No account, game connection or inventory access is required.
+Browse **95 printer recipes** and **34 FOB upgrade tiers**. See what an upgrade gives you, what it unlocks and where to look for its materials. Your Loot List stays on your computer independently of raid plans. Starting a raid or removing a goal keeps your owned quantities. Update those amounts after using materials in game. Older checklists remain saved and can be copied as goals. No account, game connection or inventory access is required.
 
 [![Raid Checklist item catalog with original-colour artwork](media/items-en-1.0.4.jpg)](media/items-en-1.0.4.jpg)
 
@@ -64,7 +64,7 @@ Save your full Activision ID in the DMZ Tactical Discord community with `/activi
 
 Your activated ID is read-only in the app. To change it, use the Discord command, then sign in again to refresh it. Avatar, playstyle, region, communication language and microphone settings remain editable. Saving preferences or importing an older local profile preserves your activated ID.
 
-Choose from **four portraits, 17 regions and 84 communication languages**. An illustrated in-game guide helps you find and copy your Activision ID. Your map, plans and checklists still work without an account.
+Choose from **33 operator avatars, 17 regions and 84 communication languages**. An illustrated in-game guide helps you find and copy your Activision ID. Your map, plans and checklists still work without an account.
 
 The gold **Continue with Discord** button signs you in. The blue **Discord** button beside it opens the community.
 
@@ -89,14 +89,14 @@ In **Settings**, select **Check for updates** beside **Done**. Your saved places
 <details>
 <summary><strong>Before you install</strong></summary>
 
-- **Current release:** 1.4.46. The Weapon Meta checked date is neatly aligned at the top right of its heading. Your operator, saved loadouts and raid plans carry over. Online player search is not available yet.
+- **Current release:** 1.4.47. Loot List combines collection goals across raids with manual owned quantities and automatic remaining totals. Existing checklists stay saved; copy their goals when ready. Docked HAJIN list actions and the DMZ Cash symbol are included. Online player search is not available yet.
 - **Requirements:** Windows x64, administrator approval for installation and internet for map imagery. The installer downloads WebView2 when needed. A damaged or incomplete WebView2 installation may need repair before the app can start.
 - **Coming from 1.0 or a Preview?** Uninstall the earlier per-user edition through Windows Settings before running the new installer. Your saved plans and preferences are kept.
 - **Windows notice:** the installer is not code-signed. Windows may display Unknown Publisher or a SmartScreen warning.
 - **Map data:** the bundled catalog is included. Catalog updates arrive with application releases. Spawn locations and community loadout recommendations can change with the game.
 - **Download:** you only need **DMZTactical-Installer.exe**. The NUPKG file supports in-app updates. GitHub's Source code archives contain this download page, not an installer.
 
-[Release details](https://github.com/DMZTactical/DMZT/releases/tag/v1.4.46)
+[Release details](https://github.com/DMZTactical/DMZT/releases/tag/v1.4.47)
 
 </details>
 
