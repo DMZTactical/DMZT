@@ -4,8 +4,8 @@
 
 Go into Hajin with your route already in mind. **DMZ Tactical** puts the map, key locations, weapon loadouts and raid checklist in one Windows app, ready for your next DMZ run.
 
-<p align="center"><a href="https://discord.gg/PzCZNqmybB"><img src="media/discord-en.svg" width="320" alt="Join the DMZ Tactical Discord community"></a> &nbsp; <a href="https://github.com/DMZTactical/DMZT/releases/download/v1.4.0/DMZTactical-Installer.exe"><img src="media/download-en.svg" width="320" alt="Download DMZTactical-Installer.exe for Windows"></a></p>
-<p align="center">Windows x64 &nbsp; · &nbsp; English and Lithuanian &nbsp; · &nbsp; 1.4.0</p>
+<p align="center"><a href="https://discord.gg/PzCZNqmybB"><img src="media/discord-en.svg" width="320" alt="Join the DMZ Tactical Discord community"></a> &nbsp; <a href="https://github.com/DMZTactical/DMZT/releases/download/v1.4.1/DMZTactical-Installer.exe"><img src="media/download-en.svg" width="320" alt="Download DMZTactical-Installer.exe for Windows"></a></p>
+<p align="center">Windows x64 &nbsp; · &nbsp; English and Lithuanian &nbsp; · &nbsp; 1.4.1</p>
 
 [![Hajin map with key locations and rarity filters](media/keys-en-1.0.4.jpg)](media/keys-en-1.0.4.jpg)
 
@@ -62,19 +62,17 @@ Browse **95 printer recipes** and **34 FOB upgrade tiers**. See what an upgrade 
 
 Create your **DMZT operator profile** with your Activision ID and one of four portraits. Set your playstyle, region, communication language and microphone preference, then change them whenever your next raid calls for something different.
 
-Choose from **17 regions and 84 communication languages**. An illustrated in-game guide helps you find and copy your Activision ID. Your profile stays on your computer, with no account required.
+Choose from **17 regions and 84 communication languages**. An illustrated in-game guide helps you find and copy your Activision ID. Sign in with Discord in the Windows app to create your DMZT account profile. Existing local profiles remain separate, and your map, plans and checklists work without signing in.
 
-[![DMZT operator profile with avatar and playstyle preferences](media/operator-en-1.4.0.png)](media/operator-en-1.4.0.png)
-
-**Online player search is not available yet.** The new matchmaking screen is included, but START remains disabled until online search is ready.
+**Online player search and the Discord `/activisionid` link are not available yet.** The matchmaking screen is included, but START remains disabled until online search is ready.
 
 ## Built to sit beside your game
 
-A dark tactical interface, familiar rarity colours and a transparent side panel keep the focus on Hajin. Choose English or Lithuanian in Settings. Move from planning a route to checking a key or picking a build in the same workspace. The app remembers your window size and position, ready for next time.
+A single **HAJIN interface** brings map categories, plans, loadouts, Settings and your operator into the same right-side workspace. Its translucent surface fades into the map, keeping Hajin in view. Choose English or Lithuanian, enlarge icons to suit your display and check them against the new preview grid. The app remembers your window size and position, ready for next time.
 
 [![DMZ Tactical on Windows with map layers and exfil locations](media/hajin-map-en-1.0.4.jpg)](media/hajin-map-en-1.0.4.jpg)
 
-[![Settings with icon backgrounds and English or Lithuanian language selection](media/settings-en-1.2.1.png)](media/settings-en-1.2.1.png)
+[![HAJIN Settings with a gridded icon preview and English or Lithuanian language selection](media/settings-en-1.4.1.png)](media/settings-en-1.4.1.png)
 
 ## Ready for your next run?
 
@@ -87,14 +85,14 @@ In **Settings**, select **Check for updates** beside **Done**. Your saved places
 <details>
 <summary><strong>Before you install</strong></summary>
 
-- **Current release:** 1.4.0. Create a local operator profile, choose your playstyle and follow the illustrated Activision ID guide. Online player search is not available yet. Your plans, progress and preferences stay in place.
+- **Current release:** 1.4.1. A shared HAJIN workspace, optional Discord account sign-in, larger icons and refined headings. Online player search is not available yet. Your plans, progress and preferences stay in place.
 - **Requirements:** Windows x64, administrator approval for installation and internet for map imagery. The installer downloads WebView2 when needed.
 - **Coming from 1.0 or a Preview?** Uninstall the earlier per-user edition through Windows Settings before running the new installer. Your saved plans and preferences are kept.
 - **Windows notice:** the installer is not code-signed. Windows may display Unknown Publisher or a SmartScreen warning.
 - **Map data:** the bundled catalog is included. Catalog updates arrive with application releases. Spawn locations and community loadout recommendations can change with the game.
 - **Download:** you only need **DMZTactical-Installer.exe**. The NUPKG file supports in-app updates. GitHub's Source code archives contain this download page, not an installer.
 
-[Release details](https://github.com/DMZTactical/DMZT/releases/tag/v1.4.0)
+[Release details](https://github.com/DMZTactical/DMZT/releases/tag/v1.4.1)
 
 </details>
 
