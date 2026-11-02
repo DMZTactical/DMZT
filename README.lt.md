@@ -4,8 +4,8 @@
 
 Į Hajin leiskis jau žinodamas, kur keliausi. **DMZ Tactical** sujungia žemėlapį, raktų vietas, ginklų komplektus ir tęstinį rinkimo sąrašą vienoje Windows programoje, kad kitam DMZ reidui pasiruoštum iš anksto.
 
-<p align="center"><a href="https://discord.gg/PzCZNqmybB"><img src="media/discord-lt.svg" width="320" alt="Prisijungti prie DMZ Tactical Discord bendruomenės"></a> &nbsp; <a href="https://github.com/DMZTactical/DMZT/releases/download/v1.5.52/DMZTactical-Installer.exe"><img src="media/download-lt.svg" width="320" alt="Atsisiųsti DMZTactical-Installer.exe Windows kompiuteriui"></a></p>
-<p align="center">Windows x64 &nbsp; · &nbsp; Lietuvių ir anglų kalbos &nbsp; · &nbsp; 1.5.52 versija</p>
+<p align="center"><a href="https://discord.gg/PzCZNqmybB"><img src="media/discord-lt.svg" width="320" alt="Prisijungti prie DMZ Tactical Discord bendruomenės"></a> &nbsp; <a href="https://github.com/DMZTactical/DMZT/releases/download/v1.5.53/DMZTactical-Installer.exe"><img src="media/download-lt.svg" width="320" alt="Atsisiųsti DMZTactical-Installer.exe Windows kompiuteriui"></a></p>
+<p align="center">Windows x64 &nbsp; · &nbsp; Lietuvių ir anglų kalbos &nbsp; · &nbsp; 1.5.53 versija</p>
 
 [![Hajin žemėlapis, raktų vietos ir retumo filtrai](media/keys-lt-1.0.4.jpg)](media/keys-lt-1.0.4.jpg)
 
@@ -13,7 +13,7 @@
 
 Raktas kuprinėje turi reikšti aiškų tikslą. Atrink raktus pagal retumą, ieškok pagal pavadinimą ar žemėlapio langelį ir priartink reikiamą vietą. Keičiantis planui, persijunk į vadų, seifų, spintelių, išėjimų ar kitą kategoriją.
 
-**Žemėlapį prisitaikyk sau.** Rodyk tik reikalingus sluoksnius, pasuk vaizdą ir pasirink savo ekranui tinkamą ikonų dydį, ryškumą bei skaidrumą. Palik ikonų fonus aiškesniam kontrastui arba išjunk juos lengvesniam vaizdui. Vadų ir leitenantų portretai išlieka tokie patys.
+**Žemėlapį prisitaikyk sau.** Rodyk tik reikalingus sluoksnius, pasuk vaizdą ir pasirink savo ekranui tinkamą ikonų dydį, ryškumą bei skaidrumą. Palik ikonų fonus aiškesniam kontrastui arba išjunk juos lengvesniam vaizdui. Originalūs vadų ir leitenantų portretai išsaugoti naujuose HAJIN rėmeliuose.
 
 ## Pasiruošk iš anksto. Reide susitelk į tikslą.
 
@@ -88,14 +88,14 @@ Bendra **HAJIN sąsaja** sujungia žemėlapio kategorijas, planus, ginklų kompl
 <details>
 <summary><strong>Prieš diegiant</strong></summary>
 
-- **Dabartinė versija:** 1.5.52. Pridėtos šešios su reljefo vaizdu sulygintos šachtos, keturi orientyrų ir veiklų katalogo įrašai su aprašymais bei tikslumo pastabomis, „Events“ su pulsuojančia X01 žvaigžde ir UTC laikmačiu. Tikslūs bunkerių įėjimai ir nepažymėtų orientyrų koordinatės dar nepatvirtinti. Išlieka planai, užduočių pažanga ir atskiras rinkimo sąrašas. Internetinė žaidėjų paieška dar neveikia.
+- **Dabartinė versija:** 1.5.53. Įdiegtos HAJIN žemėlapio ikonos su grafito rėmeliais, aiškiais simboliais ir retumo spalvomis, taip pat naujas Silo simbolis. Išsaugotos originalios evakuacijos ir taikinių iliustracijos, X01 auksinė žvaigždė bei jos animacija. Veikia vaizdas su fonais ir be jų. Išlieka vietų koordinatės, žemėlapis, planai, užduočių pažanga ir atskiras rinkimo sąrašas. Internetinė žaidėjų paieška dar neveikia.
 - **Reikalavimai:** Windows x64, administratoriaus patvirtinimas diegimui; visas žemėlapis veikia be interneto. Interneto reikia atsisiuntimams, paskyros funkcijoms ir programos atnaujinimams. Prireikus diegiklis atsisiunčia WebView2. Jei WebView2 įdiegtas nepilnai arba pažeistas, prieš paleidžiant programą gali reikėti sutvarkyti jo diegimą.
 - **Naudoji 1.0 ar Preview?** Prieš paleisdamas naują diegiklį pašalink ankstesnę vienam vartotojui skirtą versiją per Windows nustatymus. Išsaugoti planai ir pasirinkimai išliks.
 - **Windows pranešimas:** diegiklis neturi kodo pasirašymo sertifikato. Windows gali rodyti nežinomą leidėją arba SmartScreen įspėjimą.
 - **Žemėlapio duomenys:** vietų katalogas įtrauktas į programą. Katalogas atnaujinamas kartu su programos versijomis. Atsiradimo vietos ir bendruomenės rekomenduojami ginklų komplektai gali keistis kartu su žaidimu.
 - **Atsisiuntimas:** diegimui reikia tik **DMZTactical-Installer.exe**. NUPKG failas skirtas atnaujinimams pačioje programoje. GitHub Source code archyvuose yra šio atsisiuntimo puslapio failai, ne diegiklis.
 
-[Versijos informacija](https://github.com/DMZTactical/DMZT/releases/tag/v1.5.52)
+[Versijos informacija](https://github.com/DMZTactical/DMZT/releases/tag/v1.5.53)
 
 </details>
 

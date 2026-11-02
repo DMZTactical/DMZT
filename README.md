@@ -4,8 +4,8 @@
 
 Go into Hajin with your route already in mind. **DMZ Tactical** puts the map, key locations, weapon loadouts and a persistent loot list in one Windows app, ready for your next DMZ run.
 
-<p align="center"><a href="https://discord.gg/PzCZNqmybB"><img src="media/discord-en.svg" width="320" alt="Join the DMZ Tactical Discord community"></a> &nbsp; <a href="https://github.com/DMZTactical/DMZT/releases/download/v1.5.52/DMZTactical-Installer.exe"><img src="media/download-en.svg" width="320" alt="Download DMZTactical-Installer.exe for Windows"></a></p>
-<p align="center">Windows x64 &nbsp; · &nbsp; English and Lithuanian &nbsp; · &nbsp; 1.5.52</p>
+<p align="center"><a href="https://discord.gg/PzCZNqmybB"><img src="media/discord-en.svg" width="320" alt="Join the DMZ Tactical Discord community"></a> &nbsp; <a href="https://github.com/DMZTactical/DMZT/releases/download/v1.5.53/DMZTactical-Installer.exe"><img src="media/download-en.svg" width="320" alt="Download DMZTactical-Installer.exe for Windows"></a></p>
+<p align="center">Windows x64 &nbsp; · &nbsp; English and Lithuanian &nbsp; · &nbsp; 1.5.53</p>
 
 [![Hajin map with key locations and rarity filters](media/keys-en-1.0.4.jpg)](media/keys-en-1.0.4.jpg)
 
@@ -13,7 +13,7 @@ Go into Hajin with your route already in mind. **DMZ Tactical** puts the map, ke
 
 A key in your inventory should give you a destination. Browse keys by rarity, search by name or grid square, and focus the map on the location you need. Switch between commanders, safes, lockers, exfils and other categories as your priorities change.
 
-**Keep the map useful.** Show the layers you need, rotate the view and adjust icon size, brightness and transparency to suit your screen. Keep icon backgrounds for contrast, or switch them off for a lighter view. Commander and lieutenant portraits stay unchanged.
+**Keep the map useful.** Show the layers you need, rotate the view and adjust icon size, brightness and transparency to suit your screen. Keep icon backgrounds for contrast, or switch them off for a lighter view. Original commander and lieutenant portraits are retained in the new HAJIN frames.
 
 ## Prepare once. Stay focused during the raid.
 
@@ -89,14 +89,14 @@ In **Settings**, select **Check for updates** beside **Done**. Your saved places
 <details>
 <summary><strong>Before you install</strong></summary>
 
-- **Current release:** 1.5.52. Adds six terrain-matched silo structures, four searchable landmark/activity references with guidance and precision notes, and Events with a pulsing X01 announcement star and UTC launch countdown. Exact bunker entrances and unplotted reference positions remain unconfirmed. Keeps saved plans, mission progress and the independent Loot List. Online player search is not available yet.
+- **Current release:** 1.5.53. Introduces the HAJIN map icon family with graphite frames, clear silhouettes and rarity colours, including the new Silo symbol. Original evacuation and target artwork are preserved; the X01 gold star and animation stay unchanged. Supports framed and background-free views. Keeps map locations, terrain, saved plans, mission progress and the independent Loot List. Online player search is not available yet.
 - **Requirements:** Windows x64, administrator approval for installation; the complete map works offline. Internet is needed for downloads, account features and app updates. The installer downloads WebView2 when needed. A damaged or incomplete WebView2 installation may need repair before the app can start.
 - **Coming from 1.0 or a Preview?** Uninstall the earlier per-user edition through Windows Settings before running the new installer. Your saved plans and preferences are kept.
 - **Windows notice:** the installer is not code-signed. Windows may display Unknown Publisher or a SmartScreen warning.
 - **Map data:** the bundled catalog is included. Catalog updates arrive with application releases. Spawn locations and community loadout recommendations can change with the game.
 - **Download:** you only need **DMZTactical-Installer.exe**. The NUPKG file supports in-app updates. GitHub's Source code archives contain this download page, not an installer.
 
-[Release details](https://github.com/DMZTactical/DMZT/releases/tag/v1.5.52)
+[Release details](https://github.com/DMZTactical/DMZT/releases/tag/v1.5.53)
 
 </details>
 
