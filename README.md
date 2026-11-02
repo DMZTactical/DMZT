@@ -4,8 +4,8 @@
 
 Go into Hajin with your route already in mind. **DMZ Tactical** puts the map, key locations, weapon loadouts and raid checklist in one Windows app, ready for your next DMZ run.
 
-<p align="center"><a href="https://discord.gg/PzCZNqmybB"><img src="media/discord-en.svg" width="320" alt="Join the DMZ Tactical Discord community"></a> &nbsp; <a href="https://github.com/DMZTactical/DMZT/releases/download/v1.4.2/DMZTactical-Installer.exe"><img src="media/download-en.svg" width="320" alt="Download DMZTactical-Installer.exe for Windows"></a></p>
-<p align="center">Windows x64 &nbsp; · &nbsp; English and Lithuanian &nbsp; · &nbsp; 1.4.2</p>
+<p align="center"><a href="https://discord.gg/PzCZNqmybB"><img src="media/discord-en.svg" width="320" alt="Join the DMZ Tactical Discord community"></a> &nbsp; <a href="https://github.com/DMZTactical/DMZT/releases/download/v1.4.3/DMZTactical-Installer.exe"><img src="media/download-en.svg" width="320" alt="Download DMZTactical-Installer.exe for Windows"></a></p>
+<p align="center">Windows x64 &nbsp; · &nbsp; English and Lithuanian &nbsp; · &nbsp; 1.4.3</p>
 
 [![Hajin map with key locations and rarity filters](media/keys-en-1.0.4.jpg)](media/keys-en-1.0.4.jpg)
 
@@ -60,13 +60,15 @@ Browse **95 printer recipes** and **34 FOB upgrade tiers**. See what an upgrade 
 
 ## Make it your operator
 
-Create your **DMZT operator profile** with your Activision ID and one of four portraits. Set your playstyle, region, communication language and microphone preference, then change them whenever your next raid calls for something different.
+Save your full Activision ID in the DMZ Tactical Discord community with `/activisionid id:Callsign#1234567`, then sign in to the Windows app with the same Discord account. Your ID fills automatically when you create your **DMZT operator profile**.
 
-Choose from **17 regions and 84 communication languages**. An illustrated in-game guide helps you find and copy your Activision ID. Activate your DMZT account through Discord, return to the app and create your operator. Three short steps guide you through it. You can import a previously saved local profile after signing in; your map, plans and checklists still work without an account.
+Your activated ID is read-only in the app. To change it, use the Discord command, then sign in again to refresh it. Avatar, playstyle, region, communication language and microphone settings remain editable. Saving preferences or importing an older local profile preserves your activated ID.
+
+Choose from **four portraits, 17 regions and 84 communication languages**. An illustrated in-game guide helps you find and copy your Activision ID. Your map, plans and checklists still work without an account.
 
 The gold **Continue with Discord** button signs you in. The blue **Discord** button beside it opens the community.
 
-**Online player search and the Discord `/activisionid` link are not available yet.** The matchmaking screen is included, but START remains disabled until online search is ready.
+**Online player search in the Windows app is not available yet.** START remains disabled until online search is ready. Discord squad matchmaking remains available separately.
 
 ## Built to sit beside your game
 
@@ -87,14 +89,14 @@ In **Settings**, select **Check for updates** beside **Done**. Your saved places
 <details>
 <summary><strong>Before you install</strong></summary>
 
-- **Current release:** 1.4.2. Slimmer HAJIN panels, a three-step account guide and a separate Discord community button. Operator profiles require Discord sign-in. Online player search is not available yet. Your plans, progress and preferences stay in place.
-- **Requirements:** Windows x64, administrator approval for installation and internet for map imagery. The installer downloads WebView2 when needed.
+- **Current release:** 1.4.3. Activision ID linking through Discord, automatic ID fill and protection of your activated identity. Profile preferences remain editable. Online player search is not available yet. Your plans, progress and preferences stay in place.
+- **Requirements:** Windows x64, administrator approval for installation and internet for map imagery. The installer downloads WebView2 when needed. A damaged or incomplete WebView2 installation may need repair before the app can start.
 - **Coming from 1.0 or a Preview?** Uninstall the earlier per-user edition through Windows Settings before running the new installer. Your saved plans and preferences are kept.
 - **Windows notice:** the installer is not code-signed. Windows may display Unknown Publisher or a SmartScreen warning.
 - **Map data:** the bundled catalog is included. Catalog updates arrive with application releases. Spawn locations and community loadout recommendations can change with the game.
 - **Download:** you only need **DMZTactical-Installer.exe**. The NUPKG file supports in-app updates. GitHub's Source code archives contain this download page, not an installer.
 
-[Release details](https://github.com/DMZTactical/DMZT/releases/tag/v1.4.2)
+[Release details](https://github.com/DMZTactical/DMZT/releases/tag/v1.4.3)
 
 </details>
 

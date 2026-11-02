@@ -4,8 +4,8 @@
 
 Į Hajin leiskis jau žinodamas, kur keliausi. **DMZ Tactical** sujungia žemėlapį, raktų vietas, ginklų komplektus ir reido sąrašą vienoje Windows programoje, kad kitam DMZ reidui pasiruoštum iš anksto.
 
-<p align="center"><a href="https://discord.gg/PzCZNqmybB"><img src="media/discord-lt.svg" width="320" alt="Prisijungti prie DMZ Tactical Discord bendruomenės"></a> &nbsp; <a href="https://github.com/DMZTactical/DMZT/releases/download/v1.4.2/DMZTactical-Installer.exe"><img src="media/download-lt.svg" width="320" alt="Atsisiųsti DMZTactical-Installer.exe Windows kompiuteriui"></a></p>
-<p align="center">Windows x64 &nbsp; · &nbsp; Lietuvių ir anglų kalbos &nbsp; · &nbsp; 1.4.2 versija</p>
+<p align="center"><a href="https://discord.gg/PzCZNqmybB"><img src="media/discord-lt.svg" width="320" alt="Prisijungti prie DMZ Tactical Discord bendruomenės"></a> &nbsp; <a href="https://github.com/DMZTactical/DMZT/releases/download/v1.4.3/DMZTactical-Installer.exe"><img src="media/download-lt.svg" width="320" alt="Atsisiųsti DMZTactical-Installer.exe Windows kompiuteriui"></a></p>
+<p align="center">Windows x64 &nbsp; · &nbsp; Lietuvių ir anglų kalbos &nbsp; · &nbsp; 1.4.3 versija</p>
 
 [![Hajin žemėlapis, raktų vietos ir retumo filtrai](media/keys-lt-1.0.4.jpg)](media/keys-lt-1.0.4.jpg)
 
@@ -59,13 +59,15 @@ Rinkis iš **95 spausdintuvo receptų** ir **34 bazės patobulinimų pakopų**. 
 
 ## Tavo operatorius. Tavo žaidimo stilius.
 
-Susikurk **DMZT operatoriaus profilį** su savo Activision ID ir vienu iš keturių portretų. Pasirink žaidimo stilių, regioną, bendravimo kalbą bei mikrofono nustatymą. Pasikeitus kito reido planams, bet kada pakeisk savo pasirinkimus.
+DMZ Tactical Discord bendruomenėje išsaugok visą Activision ID komanda `/activisionid id:Callsign#1234567`, tada Windows programoje prisijunk ta pačia Discord paskyra. Kuriant **DMZT operatoriaus profilį**, ID užpildomas automatiškai.
 
-Rinkis iš **17 regionų ir 84 bendravimo kalbų**. Instrukcija su žaidimo nuotraukomis padės rasti ir nukopijuoti savo Activision ID. Aktyvuok DMZT paskyrą per Discord, grįžk į programą ir susikurk operatorių. Trys trumpi žingsniai padės tai padaryti. Prisijungęs galėsi perkelti anksčiau išsaugotą vietinį profilį. Žemėlapiu, planais ir sąrašais toliau gali naudotis be paskyros.
+Aktyvuoto ID programoje keisti negalima. Norėdamas jį atnaujinti, naudok Discord komandą ir iš naujo prisijunk programoje. Portretą, žaidimo stilių, regioną, bendravimo kalbą bei mikrofono nustatymą gali keisti. Išsaugant nustatymus ar perkeliant senesnį vietinį profilį, aktyvuotas ID išlieka.
+
+Rinkis iš **keturių portretų, 17 regionų ir 84 bendravimo kalbų**. Instrukcija su žaidimo nuotraukomis padės rasti ir nukopijuoti Activision ID. Žemėlapiu, planais ir sąrašais toliau gali naudotis be paskyros.
 
 Auksinis **Prisijungti per Discord** mygtukas skirtas prisijungimui. Šalia esantis mėlynas **Discord** mygtukas atveria bendruomenę.
 
-**Internetinė žaidėjų paieška ir susiejimas per Discord `/activisionid` dar neveikia.** Paieškos langą jau gali atverti, tačiau START mygtukas liks neaktyvus, kol bus paruošta internetinė paieška.
+**Internetinė žaidėjų paieška Windows programoje dar neveikia.** START mygtukas liks neaktyvus, kol bus paruošta internetinė paieška. Komandos paieška Discord bendruomenėje veikia atskirai.
 
 ## Sukurta naudoti šalia žaidimo
 
@@ -86,14 +88,14 @@ Bendra **HAJIN sąsaja** sujungia žemėlapio kategorijas, planus, ginklų kompl
 <details>
 <summary><strong>Prieš diegiant</strong></summary>
 
-- **Dabartinė versija:** 1.4.2. Siauresni HAJIN skydeliai, trijų žingsnių paskyros vedlys ir atskiras Discord bendruomenės mygtukas. Operatoriaus profiliui reikia prisijungti per Discord. Internetinė žaidėjų paieška dar neveikia. Tavo planai, pažanga ir nustatymai išlieka.
-- **Reikalavimai:** Windows x64, administratoriaus patvirtinimas diegimui ir internetas žemėlapio vaizdui. Prireikus diegiklis atsisiunčia WebView2.
+- **Dabartinė versija:** 1.4.3. Activision ID susiejimas per Discord, automatinis ID užpildymas ir aktyvuoto ID apsauga. Profilio nustatymus galima keisti. Internetinė žaidėjų paieška dar neveikia. Tavo planai, pažanga ir nustatymai išlieka.
+- **Reikalavimai:** Windows x64, administratoriaus patvirtinimas diegimui ir internetas žemėlapio vaizdui. Prireikus diegiklis atsisiunčia WebView2. Jei WebView2 įdiegtas nepilnai arba pažeistas, prieš paleidžiant programą gali reikėti sutvarkyti jo diegimą.
 - **Naudoji 1.0 ar Preview?** Prieš paleisdamas naują diegiklį pašalink ankstesnę vienam vartotojui skirtą versiją per Windows nustatymus. Išsaugoti planai ir pasirinkimai išliks.
 - **Windows pranešimas:** diegiklis neturi kodo pasirašymo sertifikato. Windows gali rodyti nežinomą leidėją arba SmartScreen įspėjimą.
 - **Žemėlapio duomenys:** vietų katalogas įtrauktas į programą. Katalogas atnaujinamas kartu su programos versijomis. Atsiradimo vietos ir bendruomenės rekomenduojami ginklų komplektai gali keistis kartu su žaidimu.
 - **Atsisiuntimas:** diegimui reikia tik **DMZTactical-Installer.exe**. NUPKG failas skirtas atnaujinimams pačioje programoje. GitHub Source code archyvuose yra šio atsisiuntimo puslapio failai, ne diegiklis.
 
-[Versijos informacija](https://github.com/DMZTactical/DMZT/releases/tag/v1.4.2)
+[Versijos informacija](https://github.com/DMZTactical/DMZT/releases/tag/v1.4.3)
 
 </details>
 
