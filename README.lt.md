@@ -4,8 +4,8 @@
 
 Į Hajin leiskis jau žinodamas, kur keliausi. **DMZ Tactical** sujungia žemėlapį, raktų vietas, ginklų komplektus ir tęstinį rinkimo sąrašą vienoje Windows programoje, kad kitam DMZ reidui pasiruoštum iš anksto.
 
-<p align="center"><a href="https://discord.gg/PzCZNqmybB"><img src="media/discord-lt.svg" width="320" alt="Prisijungti prie DMZ Tactical Discord bendruomenės"></a> &nbsp; <a href="https://github.com/DMZTactical/DMZT/releases/download/v1.4.47/DMZTactical-Installer.exe"><img src="media/download-lt.svg" width="320" alt="Atsisiųsti DMZTactical-Installer.exe Windows kompiuteriui"></a></p>
-<p align="center">Windows x64 &nbsp; · &nbsp; Lietuvių ir anglų kalbos &nbsp; · &nbsp; 1.4.47 versija</p>
+<p align="center"><a href="https://discord.gg/PzCZNqmybB"><img src="media/discord-lt.svg" width="320" alt="Prisijungti prie DMZ Tactical Discord bendruomenės"></a> &nbsp; <a href="https://github.com/DMZTactical/DMZT/releases/download/v1.4.48/DMZTactical-Installer.exe"><img src="media/download-lt.svg" width="320" alt="Atsisiųsti DMZTactical-Installer.exe Windows kompiuteriui"></a></p>
+<p align="center">Windows x64 &nbsp; · &nbsp; Lietuvių ir anglų kalbos &nbsp; · &nbsp; 1.4.48 versija</p>
 
 [![Hajin žemėlapis, raktų vietos ir retumo filtrai](media/keys-lt-1.0.4.jpg)](media/keys-lt-1.0.4.jpg)
 
@@ -88,14 +88,14 @@ Bendra **HAJIN sąsaja** sujungia žemėlapio kategorijas, planus, ginklų kompl
 <details>
 <summary><strong>Prieš diegiant</strong></summary>
 
-- **Dabartinė versija:** 1.4.47. „Ką surinkti“ sujungia rinkimo tikslus per kelis reidus: turimus kiekius įrašai pats, trūkumas perskaičiuojamas automatiškai. Seni sąrašai lieka išsaugoti; jų tikslus gali perkelti. Įtrauktas apatinis HAJIN veiksmų meniu ir DMZ Cash simbolis. Internetinė žaidėjų paieška dar neveikia.
+- **Dabartinė versija:** 1.4.48. Aiškesnė „Ką surinkti“ navigacija: HAJIN grįžimo mygtukai prie antraščių, nebenukerpamas tekstas ir paprastesni katalogai. Pašalintas savo daikto kūrimas, operatoriaus aprašymas perkeltas po avataru. Tikslai, turimi kiekiai ir planai išlieka. Internetinė žaidėjų paieška dar neveikia.
 - **Reikalavimai:** Windows x64, administratoriaus patvirtinimas diegimui ir internetas žemėlapio vaizdui. Prireikus diegiklis atsisiunčia WebView2. Jei WebView2 įdiegtas nepilnai arba pažeistas, prieš paleidžiant programą gali reikėti sutvarkyti jo diegimą.
 - **Naudoji 1.0 ar Preview?** Prieš paleisdamas naują diegiklį pašalink ankstesnę vienam vartotojui skirtą versiją per Windows nustatymus. Išsaugoti planai ir pasirinkimai išliks.
 - **Windows pranešimas:** diegiklis neturi kodo pasirašymo sertifikato. Windows gali rodyti nežinomą leidėją arba SmartScreen įspėjimą.
 - **Žemėlapio duomenys:** vietų katalogas įtrauktas į programą. Katalogas atnaujinamas kartu su programos versijomis. Atsiradimo vietos ir bendruomenės rekomenduojami ginklų komplektai gali keistis kartu su žaidimu.
 - **Atsisiuntimas:** diegimui reikia tik **DMZTactical-Installer.exe**. NUPKG failas skirtas atnaujinimams pačioje programoje. GitHub Source code archyvuose yra šio atsisiuntimo puslapio failai, ne diegiklis.
 
-[Versijos informacija](https://github.com/DMZTactical/DMZT/releases/tag/v1.4.47)
+[Versijos informacija](https://github.com/DMZTactical/DMZT/releases/tag/v1.4.48)
 
 </details>
 
