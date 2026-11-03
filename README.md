@@ -1,4 +1,4 @@
-<p align="center"><img src="media/reveal-hero.svg" width="100%" alt="DMZ Tactical. Before the drop. Public beta 0.9."></p>
+<p align="center"><img src="media/reveal-hero.svg" width="100%" alt="DMZ Tactical. Tactical intel for Hajin. Public beta 0.9."></p>
 
 <p align="center"><strong>English</strong> &nbsp; · &nbsp; <a href="README.lt.md">Lietuvių</a></p>
 

@@ -1,4 +1,4 @@
-<p align="center"><img src="media/reveal-hero.svg" width="100%" alt="DMZ Tactical. Pasiruošk prieš išvykdamas. Vieša beta 0.9."></p>
+<p align="center"><img src="media/reveal-hero.svg" width="100%" alt="DMZ Tactical. Taktinė informacija Hajin žemėlapiui. Vieša beta 0.9."></p>
 
 <p align="center"><a href="README.md">English</a> &nbsp; · &nbsp; <strong>Lietuvių</strong></p>
 
