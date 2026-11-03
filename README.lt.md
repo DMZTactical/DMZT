@@ -4,8 +4,8 @@
 
 Į Hajin leiskis jau žinodamas, kur keliausi. **DMZ Tactical** sujungia žemėlapį, raktų vietas, ginklų komplektus ir tęstinį rinkimo sąrašą vienoje Windows programoje, kad kitam DMZ reidui pasiruoštum iš anksto.
 
-<p align="center"><a href="https://discord.gg/PzCZNqmybB"><img src="media/discord-lt.svg" width="320" alt="Prisijungti prie DMZ Tactical Discord bendruomenės"></a> &nbsp; <a href="https://github.com/DMZTactical/DMZT/releases/download/v1.5.59/DMZTactical-Installer.exe"><img src="media/download-lt.svg" width="320" alt="Atsisiųsti DMZTactical-Installer.exe Windows kompiuteriui"></a></p>
-<p align="center">Windows x64 &nbsp; · &nbsp; Lietuvių ir anglų kalbos &nbsp; · &nbsp; 1.5.59 versija</p>
+<p align="center"><a href="https://discord.gg/PzCZNqmybB"><img src="media/discord-lt.svg" width="320" alt="Prisijungti prie DMZ Tactical Discord bendruomenės"></a> &nbsp; <a href="https://github.com/DMZTactical/DMZT/releases/download/v1.5.60/DMZTactical-Installer.exe"><img src="media/download-lt.svg" width="320" alt="Atsisiųsti DMZTactical-Installer.exe Windows kompiuteriui"></a></p>
+<p align="center">Windows x64 &nbsp; · &nbsp; Lietuvių ir anglų kalbos &nbsp; · &nbsp; 1.5.60 versija</p>
 
 [![Hajin žemėlapis, raktų vietos ir retumo filtrai](media/keys-lt-1.0.4.jpg)](media/keys-lt-1.0.4.jpg)
 
@@ -88,14 +88,14 @@ Bendra **HAJIN sąsaja** sujungia žemėlapio kategorijas, planus, ginklų kompl
 <details>
 <summary><strong>Prieš diegiant</strong></summary>
 
-- **Dabartinė versija:** 1.5.59. Visos 13 pagrindinių vietovių turi švytinčius 24 px auksinius žymeklius su nukirptais kampais, juodais numeriais ir oranžiniais DMZ pavadinimais be fono. Išlieka 8K žemėlapis, pavojaus zonos, HAJIN ikonos, X01 žvaigždė ir 1.5.55 valdymo patobulinimai. Išsaugoti planai bei pažanga išlieka. Internetinė žaidėjų paieška dar neveikia.
+- **Dabartinė versija:** 1.5.60. Visos 13 pagrindinių vietovių turi švytinčius 24 px auksinius žymeklius su nukirptais kampais, juodais numeriais ir oranžiniais DMZ pavadinimais be fono. Išlieka 8K žemėlapis, pavojaus zonos, HAJIN ikonos, X01 žvaigždė ir 1.5.55 valdymo patobulinimai. Išsaugoti planai bei pažanga išlieka. Internetinė žaidėjų paieška dar neveikia.
 - **Reikalavimai:** Windows x64, administratoriaus patvirtinimas diegimui; visas žemėlapis veikia be interneto. Interneto reikia atsisiuntimams, paskyros funkcijoms ir programos atnaujinimams. Prireikus diegiklis atsisiunčia WebView2. Jei WebView2 įdiegtas nepilnai arba pažeistas, prieš paleidžiant programą gali reikėti sutvarkyti jo diegimą.
 - **Naudoji 1.0 ar Preview?** Prieš paleisdamas naują diegiklį pašalink ankstesnę vienam vartotojui skirtą versiją per Windows nustatymus. Išsaugoti planai ir pasirinkimai išliks.
 - **Windows pranešimas:** diegiklis neturi kodo pasirašymo sertifikato. Windows gali rodyti nežinomą leidėją arba SmartScreen įspėjimą.
 - **Žemėlapio duomenys:** vietų katalogas įtrauktas į programą. Katalogas atnaujinamas kartu su programos versijomis. Atsiradimo vietos ir bendruomenės rekomenduojami ginklų komplektai gali keistis kartu su žaidimu.
 - **Atsisiuntimas:** diegimui reikia tik **DMZTactical-Installer.exe**. NUPKG failas skirtas atnaujinimams pačioje programoje. GitHub Source code archyvuose yra šio atsisiuntimo puslapio failai, ne diegiklis.
 
-[Versijos informacija](https://github.com/DMZTactical/DMZT/releases/tag/v1.5.59)
+[Versijos informacija](https://github.com/DMZTactical/DMZT/releases/tag/v1.5.60)
 
 </details>
 
