@@ -46,8 +46,7 @@ Open an item for acquisition advice, location links and available reference phot
 
 ## See the app in action
 
-<!-- REVEAL_VIDEO: replace the image below with [![Watch the reveal](media/reveal-film.svg)](the actual YouTube URL) when the video is published. -->
-![The DMZ Tactical reveal film is coming to YouTube](media/reveal-film.svg)
+[![Watch the DMZ Tactical beta reveal on YouTube](media/reveal-film.svg)](https://www.youtube.com/watch?v=TBih6NpHspg)
 
 ## Install the beta
 

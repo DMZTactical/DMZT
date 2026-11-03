@@ -46,8 +46,7 @@ Atvėręs daiktą rasi gavimo patarimus, vietų nuorodas ir turimas pavyzdines n
 
 ## Pamatyk, kaip veikia
 
-<!-- REVEAL_VIDEO: paskelbus filmą šį vaizdą paversti nuoroda į tikrą YouTube įrašą. -->
-![DMZ Tactical pristatymo filmas netrukus pasirodys YouTube](media/reveal-film.svg)
+[![Žiūrėti DMZ Tactical beta pristatymą YouTube](media/reveal-film.svg)](https://www.youtube.com/watch?v=TBih6NpHspg)
 
 ## Įsidiek beta versiją
 
