@@ -58,7 +58,7 @@ Download **DMZTactical-Installer.exe**, close DMZ Tactical if it is running, and
 <details>
 <summary><strong>Requirements and beta details</strong></summary>
 
-Windows x64 and administrator approval are required for installation. Setup installs Microsoft Edge WebView2 if needed. Internet is required for downloads, account features and updates. The installer is not Authenticode signed, so Windows may show an Unknown Publisher notice.
+Windows x64 and administrator approval are required for installation. Microsoft Edge WebView2 is required. Setup attempts to install it if it is missing; a working runtime must be available before the app can open. Internet is required for downloads, account features and updates. The installer is not Authenticode signed, so Windows may show an Unknown Publisher notice.
 
 This is a pre-release. The custom **Build your own** weapon editor is temporarily hidden; previously saved custom loadouts are retained. In-app player search is temporarily hidden until live testing with two accounts is complete. Use the Discord community to arrange a squad.
 

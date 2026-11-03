@@ -58,7 +58,7 @@ Atsisiųsk **DMZTactical-Installer.exe**, uždaryk veikiančią DMZ Tactical ir 
 <details>
 <summary><strong>Reikalavimai ir beta informacija</strong></summary>
 
-Diegimui reikia Windows x64 ir administratoriaus patvirtinimo. Jei trūksta Microsoft Edge WebView2, diegimo programa jį įdiegia. Interneto reikia atsisiuntimams, paskyros funkcijoms ir atnaujinimams. Diegiklis neturi Authenticode parašo, todėl Windows gali rodyti nežinomo leidėjo pranešimą.
+Diegimui reikia Windows x64 ir administratoriaus patvirtinimo. Būtinas veikiantis Microsoft Edge WebView2. Jei jo trūksta, diegimo programa bando jį įdiegti; be šio komponento programėlė neatsidarys. Interneto reikia atsisiuntimams, paskyros funkcijoms ir atnaujinimams. Diegiklis neturi Authenticode parašo, todėl Windows gali rodyti nežinomo leidėjo pranešimą.
 
 Tai išankstinis leidimas. Ginklų redaktorius **Susidėk pats** laikinai paslėptas; anksčiau išsaugoti komplektai palikti. Žaidėjų paieška programoje laikinai paslėpta, kol bus atliktas tikras bandymas su dviem paskyromis. Komandą galima susirasti Discord bendruomenėje.
 
