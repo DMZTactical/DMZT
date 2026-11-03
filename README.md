@@ -4,7 +4,11 @@
 
 **DMZ Tactical is a Windows companion for Hajin.** Plan a route around the things you need, keep mission steps close at hand and carry your preparation into the next raid.
 
-<p align="center"><a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.0-beta.1/DMZTactical-Installer.exe"><strong>Download for Windows</strong></a> &nbsp; · &nbsp; <a href="https://discord.gg/PzCZNqmybB">Join the community</a> &nbsp; · &nbsp; <a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.0-beta.1">Beta release notes</a></p>
+<p align="center">
+<a href="https://discord.gg/PzCZNqmybB"><img src="media/discord-en.svg" width="288" alt="Join the DMZ Tactical Discord community"></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.0-beta.1/DMZTactical-Installer.exe"><img src="media/download-en.svg" width="288" alt="Download DMZTactical-Installer.exe for Windows"></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.0-beta.1"><img src="media/release-notes-en.svg" width="288" alt="Read the 0.9.0-beta.1 release notes"></a>
+</p>
 <p align="center"><sub>0.9.0-beta.1 · Windows x64 · English and Lithuanian</sub></p>
 
 ## Hajin, in detail

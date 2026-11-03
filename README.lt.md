@@ -4,7 +4,11 @@
 
 **DMZ Tactical yra Windows programėlė Hajin reidams.** Susidėk maršrutą pagal tai, ko ieškai, turėk užduočių žingsnius po ranka ir pradėk kitą reidą su paruoštu planu.
 
-<p align="center"><a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.0-beta.1/DMZTactical-Installer.exe"><strong>Atsisiųsti Windows programėlę</strong></a> &nbsp; · &nbsp; <a href="https://discord.gg/PzCZNqmybB">Prisijungti prie bendruomenės</a> &nbsp; · &nbsp; <a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.0-beta.1">Beta leidimo aprašas</a></p>
+<p align="center">
+<a href="https://discord.gg/PzCZNqmybB"><img src="media/discord-lt.svg" width="288" alt="Prisijunk prie DMZ Tactical Discord bendruomenės"></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.0-beta.1/DMZTactical-Installer.exe"><img src="media/download-lt.svg" width="288" alt="Atsisiųsk DMZTactical-Installer.exe Windows programėlę"></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.0-beta.1"><img src="media/release-notes-lt.svg" width="288" alt="Skaityk 0.9.0-beta.1 leidimo aprašą"></a>
+</p>
 <p align="center"><sub>0.9.0-beta.1 · Windows x64 · Lietuvių ir anglų kalbos</sub></p>
 
 ## Hajin iš arčiau
