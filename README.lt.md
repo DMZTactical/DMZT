@@ -6,10 +6,10 @@
 
 <p align="center">
 <a href="https://discord.gg/PzCZNqmybB"><img src="media/discord-lt.svg" width="288" alt="Prisijunk prie DMZ Tactical Discord bendruomenės"></a>
-<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.0-beta.1/DMZTactical-Installer.exe"><img src="media/download-lt.svg" width="288" alt="Atsisiųsk DMZTactical-Installer.exe Windows programėlę"></a>
-<a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.0-beta.1"><img src="media/release-notes-lt.svg" width="288" alt="Skaityk 0.9.0-beta.1 leidimo aprašą"></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.1-beta.1/DMZTactical-Installer.exe"><img src="media/download-lt.svg" width="288" alt="Atsisiųsk DMZTactical-Installer.exe Windows programėlę"></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.1-beta.1"><img src="media/release-notes-lt.svg" width="288" alt="Skaityk 0.9.1-beta.1 leidimo aprašą"></a>
 </p>
-<p align="center"><sub>0.9.0-beta.1 · Windows x64 · Lietuvių ir anglų kalbos</sub></p>
+<p align="center"><sub>0.9.1-beta.1 · Windows x64 · Lietuvių ir anglų kalbos</sub></p>
 
 ## Hajin iš arčiau
 
@@ -52,14 +52,16 @@ Atvėręs daiktą rasi gavimo patarimus, vietų nuorodas ir turimas pavyzdines n
 
 Atsisiųsk **DMZTactical-Installer.exe**, uždaryk veikiančią DMZ Tactical ir atlik Windows diegimo žingsnius. Kalbą pasirink Nustatymuose. Žemėlapis, rinkimo sąrašas ir reido planavimas veikia be paskyros.
 
-**Jau naudoji 1.x kūrimo versiją?** Šis leidimas pradeda naują viešą numeravimo seką. Eksportuok planus atsarginei kopijai, pašalink seną programos versiją per Windows nustatymus ir įdiek 0.9.0-beta.1. Palik esamą programos duomenų aplanką, kad išliktų planai ir pasirinkimai. Senasis atnaujinimas mažesnio numerio versijos neįdiegs.
+**Jau turi 0.9.0-beta.1?** Atverk Nustatymus ir spausk **Patikrinti atnaujinimą**.
+
+**Jau naudoji 1.x kūrimo versiją?** Šis leidimas pradeda naują viešą numeravimo seką. Eksportuok planus atsarginei kopijai, pašalink seną programos versiją per Windows nustatymus ir įdiek 0.9.1-beta.1. Palik esamą programos duomenų aplanką, kad išliktų planai ir pasirinkimai. Senasis atnaujinimas mažesnio numerio versijos neįdiegs.
 
 <details>
 <summary><strong>Reikalavimai ir beta informacija</strong></summary>
 
 Diegimui reikia Windows x64 ir administratoriaus patvirtinimo. Būtinas veikiantis Microsoft Edge WebView2. Jei jo trūksta, diegimo programa bando jį įdiegti; be šio komponento programėlė neatsidarys. Interneto reikia atsisiuntimams, paskyros funkcijoms ir atnaujinimams. Diegiklis neturi Authenticode parašo, todėl Windows gali rodyti nežinomo leidėjo pranešimą.
 
-Tai išankstinis leidimas. Ginklų redaktorius **Susidėk pats** laikinai paslėptas; anksčiau išsaugoti komplektai palikti. Žaidėjų paieška programoje laikinai paslėpta, kol bus atliktas tikras bandymas su dviem paskyromis. Komandą galima susirasti Discord bendruomenėje.
+Tai išankstinis leidimas. Ginklų redaktorius **Susidėk pats** laikinai paslėptas; anksčiau išsaugoti komplektai palikti. **Komandos paieška** veikia prisijungus per Discord ir įrašius Activision ID. Kitus ieškančiuosius mato tik patys ieškantys žaidėjai. Tikrinamas ID formatas, bet ne paskyros nuosavybė.
 
 Reido langui naudok kitą monitorių arba žaidimą lange ar be rėmelių. Išskirtinis viso ekrano režimas gali jį uždengti. Naudodamas šį langą palik DMZ Tactical veikti.
 
