@@ -99,7 +99,6 @@ Atvėręs daiktą rasi **gavimo patarimus**, **nuorodas į žemėlapį** ir turi
 - Diegiklis neturi Authenticode parašo, todėl Windows gali rodyti *nežinomo leidėjo* pranešimą. Atnaujinimai tikrinami pagal pasirašytą programos manifestą ir failų kontrolines sumas.
 - Prisegtam reido langui naudok kitą monitorių arba žaisk lange ar be rėmelių. Išskirtinis viso ekrano režimas gali jį uždengti.
 - Ginklų redaktorius **Susidėk pats** laikinai paslėptas. Anksčiau išsaugoti komplektai palikti.
-- Vis dar turi seną 1.x versiją? Pašalink ją per Windows nustatymus, palikdamas duomenis, ir įdiek beta versiją. Planai išliks.
 - DMZ Tactical skirta planavimui. Ji neskaito žaidimo proceso, neseka gyvų žaidėjų pozicijų ir nekeičia bruožų žaidime. Žemėlapio pastabos ir bendruomenės patarimai gali keistis kartu su žaidimu.
 - Naujam diegimui užtenka **DMZTactical-Installer.exe**. NUPKG failas naudojamas atnaujinimams programoje. GitHub *Source code* archyvuose yra tik šis atsisiuntimo puslapis; programos kodas laikomas privačiai.
 

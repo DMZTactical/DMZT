@@ -99,7 +99,6 @@ The map, loot list and raid planning work **without an account**. Squad search n
 - The installer is not Authenticode signed, so Windows may show an *Unknown Publisher* notice. Updates are checked against the app's signed manifest and file hashes.
 - For the pinned raid window, use a second monitor or play in windowed or borderless mode. Exclusive fullscreen may cover it.
 - The **Build your own** weapon editor is temporarily hidden. Previously saved custom loadouts are kept.
-- Still on an old 1.x build? Uninstall it in Windows Settings, keeping its app data, then install the beta. Your plans stay.
 - DMZ Tactical is a planning companion. It does not read the game process, track live player positions or change in-game traits. Map notes and community advice can change as the game does.
 - For a fresh install you only need **DMZTactical-Installer.exe**. The NUPKG file is used for in-app updates. GitHub's *Source code* archives contain this download page only; the application source is kept private.
 
