@@ -50,7 +50,7 @@ Atvėręs daiktą rasi gavimo patarimus, vietų nuorodas ir turimas pavyzdines n
 
 Atsisiųsk **DMZTactical-Installer.exe**, uždaryk veikiančią DMZ Tactical ir atlik Windows diegimo žingsnius. Kalbą pasirink Nustatymuose. Žemėlapis, rinkimo sąrašas ir reido planavimas veikia be paskyros.
 
-**Jau turi 0.9.0-beta.1?** Atverk Nustatymus ir spausk **Patikrinti atnaujinimą**.
+**Jau turi beta versiją?** Atverk Nustatymus ir spausk **Patikrinti atnaujinimą**.
 
 **Jau naudoji 1.x kūrimo versiją?** Šis leidimas pradeda naują viešą numeravimo seką. Eksportuok planus atsarginei kopijai, pašalink seną programos versiją per Windows nustatymus ir įdiek 0.9.1-beta.1. Palik esamą programos duomenų aplanką, kad išliktų planai ir pasirinkimai. Senasis atnaujinimas mažesnio numerio versijos neįdiegs.
 

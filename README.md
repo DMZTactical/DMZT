@@ -50,7 +50,7 @@ Open an item for acquisition advice, location links and available reference phot
 
 Download **DMZTactical-Installer.exe**, close DMZ Tactical if it is running, and follow Windows Setup. Choose English or Lithuanian in Settings. The map, loot list and raid planning work without an account.
 
-**Already on 0.9.0-beta.1?** Open Settings and choose **Check for updates**.
+**Already have the beta?** Open Settings and choose **Check for updates**.
 
 **Already using a 1.x development build?** This release starts a new public version sequence. Export your plans as a backup, uninstall the older app through Windows Settings, then install 0.9.1-beta.1. Keep the existing app-data folder so your saved plans and preferences remain available. The old updater will not install a lower version number.
 
