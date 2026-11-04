@@ -9,8 +9,6 @@
 <a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.1-beta.1/DMZTactical-Installer.exe"><img src="media/download-lt.svg" width="288" alt="Atsisiųsk DMZTactical-Installer.exe Windows programėlę"></a>
 <a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.1-beta.1"><img src="media/release-notes-lt.svg" width="288" alt="Skaityk 0.9.1-beta.1 leidimo aprašą"></a>
 </p>
-<p align="center"><sub>0.9.1-beta.1 · Windows x64 · Lietuvių ir anglų kalbos</sub></p>
-
 ## Hajin iš arčiau
 
 Ieškok rakto, vietovės ar žemėlapio langelio. Įjunk reikiamus sluoksnius, peržiūrėk vadus ir svarbias vietas, pažymėk būsimus sustojimus. Visas žemėlapis įtrauktas į programėlę ir veikia be interneto.

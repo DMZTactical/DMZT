@@ -9,8 +9,6 @@
 <a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.1-beta.1/DMZTactical-Installer.exe"><img src="media/download-en.svg" width="288" alt="Download DMZTactical-Installer.exe for Windows"></a>
 <a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.1-beta.1"><img src="media/release-notes-en.svg" width="288" alt="Read the 0.9.1-beta.1 release notes"></a>
 </p>
-<p align="center"><sub>0.9.1-beta.1 · Windows x64 · English and Lithuanian</sub></p>
-
 ## Hajin, in detail
 
 Search a key, a location or a grid square. Bring the relevant layers into view, inspect commanders and points of interest, then mark the places you intend to visit. The full map is bundled with the app and works offline.
