@@ -8,11 +8,13 @@
 <p align="center"><strong>English</strong> · <a href="README.lt.md">Lietuvių</a></p>
 
 <p align="center">
-<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.18-beta.1/DMZTactical-Installer.exe"><img src="media/hajin-install-0-9-18-en.svg" width="330" alt="Download DMZTactical-Installer.exe. Beta 0.9.16-beta.1 for Windows x64."></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.18-beta.1/DMZTactical-Installer.exe"><img src="media/hajin-install-0-9-18-en.svg" width="330" alt="Download DMZTactical-Installer.exe. Beta 0.9.18-beta.1 for Windows x64."></a>
 <a href="https://discord.gg/PzCZNqmybB"><img src="media/hajin-community-en.svg" width="330" alt="Join Discord for feedback, updates and squad search."></a>
 <br>
 <a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.18-beta.1"><img src="media/hajin-github-notes-en.svg" width="330" alt="Read the beta release notes."></a>
 <a href="https://developer.microsoft.com/microsoft-edge/webview2/#download"><img src="media/hajin-webview2-en.svg" width="330" alt="Map not loading? Install Microsoft WebView2."></a>
+<br>
+<a href="#faq"><img src="media/hajin-faq-button-en.svg" width="330" alt="FAQ: ban risk, price, consoles and more."></a>
 </p>
 
 ## Your raid, in one place
@@ -50,51 +52,9 @@ Plan on **Hajin**. Press **F8** in raid. Works **offline, no account needed**.
 ## FAQ
 
 <picture>
-<source media="(max-width: 600px)" srcset="media/hajin-facts-mobile-en.jpg">
-<img src="media/hajin-facts-en.jpg" width="100%" alt="Outside the game: no game memory reading, no code injection, no automated input.">
+<source media="(max-width: 600px)" srcset="media/hajin-faq-mobile-en.jpg">
+<img src="media/hajin-faq-en.jpg" width="100%" alt="FAQ. Can I get banned for using it? DMZ Tactical never touches the game: no memory reading, no code injection, no automated input; the overlay is its own window and F8 is a standard Windows hotkey; only Activision rules on it. Is it free? Yes. PlayStation or Xbox? Map, loot list and plans work on a PC next to your console; the F8 overlay needs the game on the same PC. Does it read my inventory? No; Hot Zones are estimates. Windows shows Unknown Publisher? The installer is not code-signed yet; updates are checked against a signed manifest. Mac? Work starts on Nov 10.">
 </picture>
-
-<details open>
-<summary><strong>Can I get banned for using it?</strong></summary>
-
-DMZ Tactical never touches the game. It does not read game memory, inject code or press keys for you. The overlay is its own window on top of the game, and F8 is a standard Windows hotkey. Only Activision decides what it allows, but the app has nothing to do with the game process.
-
-</details>
-
-<details>
-<summary><strong>Is it free?</strong></summary>
-
-Yes. Download it at the top of this page.
-
-</details>
-
-<details>
-<summary><strong>Does it work with PlayStation or Xbox?</strong></summary>
-
-The app runs on Windows. Map, loot list and raid plans work on a PC next to your console. The F8 overlay needs the game on the same PC.
-
-</details>
-
-<details>
-<summary><strong>Does it read my inventory or track other players?</strong></summary>
-
-No. You update your counts yourself. Hot Zones are estimates, not live positions.
-
-</details>
-
-<details>
-<summary><strong>Windows says Unknown Publisher. Is it safe?</strong></summary>
-
-The installer is not code-signed yet, so Windows shows that notice. In-app updates are checked against a signed manifest and file hashes.
-
-</details>
-
-<details>
-<summary><strong>Is there a Mac version?</strong></summary>
-
-Work on the macOS app starts on Nov 10. Phones and web come later.
-
-</details>
 
 <details>
 <summary><strong>What's inside</strong></summary>
