@@ -8,9 +8,11 @@
 <p align="center"><a href="README.md">English</a> · <strong>Lietuvių</strong></p>
 
 <p align="center">
-<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.16-beta.1/DMZTactical-Installer.exe"><img src="media/hajin-download-lt.svg" width="252" alt="Atsisiųsti DMZTactical-Installer.exe. Beta 0.9.16-beta.1, Windows x64."></a>
-<a href="https://discord.gg/PzCZNqmybB"><img src="media/hajin-discord-lt.svg" width="252" alt="Prisijungti prie Discord: pasiūlymai, naujienos ir komandos paieška."></a>
-<a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.16-beta.1"><img src="media/hajin-notes-lt.svg" width="252" alt="Skaityti beta leidimo aprašą."></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.16-beta.1/DMZTactical-Installer.exe"><img src="media/hajin-download-lt.svg" width="330" alt="Atsisiųsti DMZTactical-Installer.exe. Beta 0.9.16-beta.1, Windows x64."></a>
+<a href="https://discord.gg/PzCZNqmybB"><img src="media/hajin-discord-lt.svg" width="330" alt="Prisijungti prie Discord: pasiūlymai, naujienos ir komandos paieška."></a>
+<br>
+<a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.16-beta.1"><img src="media/hajin-notes-lt.svg" width="330" alt="Skaityti beta leidimo aprašą."></a>
+<a href="https://developer.microsoft.com/microsoft-edge/webview2/#download"><img src="media/hajin-webview2-lt.svg" width="330" alt="Žemėlapis neįsikelia? Įdiek Microsoft WebView2."></a>
 </p>
 
 ## Viskas tavo reidui
@@ -44,7 +46,7 @@ Planuok **Hajin** žemėlapyje. Reide spausk **F8**. Veikia **be interneto ir be
 
 Jei programa atsidaro, bet žemėlapis lieka tuščias, Windows trūksta Microsoft WebView2.
 
-<a href="https://developer.microsoft.com/microsoft-edge/webview2/#download"><img src="media/webview2-lt.svg" width="252" alt="Žemėlapis neįsikelia? Įdiek Microsoft WebView2"></a>
+<a href="https://developer.microsoft.com/microsoft-edge/webview2/#download"><img src="media/hajin-webview2-lt.svg" width="330" alt="Žemėlapis neįsikelia? Įdiek Microsoft WebView2"></a>
 
 <details>
 <summary><strong>Žemėlapis, daiktai ir įranga</strong></summary>
