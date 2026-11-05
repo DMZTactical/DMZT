@@ -6,8 +6,8 @@
 
 <p align="center">
 <a href="https://discord.gg/PzCZNqmybB"><img src="media/discord-en.svg" width="288" alt="Join the DMZ Tactical Discord community"></a>
-<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.13-beta.1/DMZTactical-Installer.exe"><img src="media/download-en.svg" width="288" alt="Download DMZTactical-Installer.exe for Windows"></a>
-<a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.13-beta.1"><img src="media/release-notes-en.svg" width="288" alt="Read the beta release notes"></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.14-beta.1/DMZTactical-Installer.exe"><img src="media/download-en.svg" width="288" alt="Download DMZTactical-Installer.exe for Windows"></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.14-beta.1"><img src="media/release-notes-en.svg" width="288" alt="Read the beta release notes"></a>
 </p>
 
 ## What it does
