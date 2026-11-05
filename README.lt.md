@@ -52,13 +52,13 @@ Planuok **Hajin** žemėlapyje. Reide spausk **F8**. Veikia **be interneto ir be
 ## DUK
 
 <picture>
-<source media="(max-width: 600px)" srcset="media/hajin-faq-mobile-lt.jpg">
-<img src="media/hajin-faq-lt.jpg" width="100%" alt="DUK. Ar gali užblokuoti paskyrą? DMZ Tactical žaidimo neliečia: neskaito atminties, nieko neįterpia, nespaudžia klavišų už tave; overlay yra atskiras langas, F8 – įprastas Windows klavišas; sprendžia tik Activision. Ar nemokama? Taip. PlayStation ar Xbox? Žemėlapis, sąrašas ir planai veikia kompiuteryje šalia konsolės; F8 overlay reikia žaidimo tame pačiame kompiuteryje. Ar skaito inventorių? Ne; Hot Zones yra numanoma rizika. Windows įspėja? Diegiklis kol kas neturi kodo parašo; atnaujinimai tikrinami pagal pasirašytą manifestą. Mac? Kuriame nuo lapkričio 10 d.">
+<source media="(max-width: 600px)" srcset="media/hajin-faq-large-mobile-lt.jpg">
+<img src="media/hajin-faq-large-lt.jpg" width="100%" alt="DUK. Ar gali užblokuoti paskyrą? DMZ Tactical žaidimo neliečia: neskaito atminties, nieko neįterpia, nespaudžia klavišų už tave; overlay yra atskiras langas, F8 – įprastas Windows klavišas; sprendžia tik Activision. Ar nemokama? Taip. PlayStation ar Xbox? Žemėlapis, sąrašas ir planai veikia kompiuteryje šalia konsolės; F8 overlay reikia žaidimo tame pačiame kompiuteryje. Ar skaito inventorių? Ne; Hot Zones yra numanoma rizika. Windows įspėja? Diegiklis kol kas neturi kodo parašo; atnaujinimai tikrinami pagal pasirašytą manifestą. Mac? Kuriame nuo lapkričio 10 d.">
 </picture>
 
 <picture>
-<source media="(max-width: 600px)" srcset="media/hajin-details-mobile-lt.jpg">
-<img src="media/hajin-details-lt.jpg" width="100%" alt="Informacija. Programoje: Hajin žemėlapis su vietomis, raktais, vadais ir objektais, veikia be interneto; Hot Zones rodo numanomą PvP riziką; reido planai su sustojimais ir DMZ Orders pažanga, prisegamas reido langas; rinkimo sąrašai išsaugomi tarp reidų; Weapon Meta ir Operator Traits. Komanda ir privatumas: prisijunk per Discord, įrašyk Activision ID, ieškok savo kalba; ieškančius mato tik ieškantys; iš sąrašo dingsti per 60 sekundžių; tikrinamas ID formatas, ne nuosavybė; žaidimas neskaitomas. Reikalavimai: Windows x64 su administratoriaus patvirtinimu, Microsoft Edge WebView2, internetas atsisiuntimams, paieškai ir atnaujinimams, overlay – Borderless arba Windowed, užtenka DMZTactical-Installer.exe.">
+<source media="(max-width: 600px)" srcset="media/hajin-details-large-mobile-lt.jpg">
+<img src="media/hajin-details-large-lt.jpg" width="100%" alt="Informacija. Programoje: Hajin žemėlapis su vietomis, raktais, vadais ir objektais, veikia be interneto; Hot Zones rodo numanomą PvP riziką; reido planai su sustojimais ir DMZ Orders pažanga, prisegamas reido langas; rinkimo sąrašai išsaugomi tarp reidų; Weapon Meta ir Operator Traits. Komanda ir privatumas: prisijunk per Discord, įrašyk Activision ID, ieškok savo kalba; ieškančius mato tik ieškantys; iš sąrašo dingsti per 60 sekundžių; tikrinamas ID formatas, ne nuosavybė; žaidimas neskaitomas. Reikalavimai: Windows x64 su administratoriaus patvirtinimu, Microsoft Edge WebView2, internetas atsisiuntimams, paieškai ir atnaujinimams, overlay – Borderless arba Windowed, užtenka DMZTactical-Installer.exe.">
 </picture>
 
 <sub>Nepriklausomas bendruomenės įrankis. Nesusijęs su Activision ar Infinity Ward ir nėra jų patvirtintas. Žaidimų pavadinimai, žemėlapio vaizdai ir žaidimo grafika priklauso jų savininkams.</sub>

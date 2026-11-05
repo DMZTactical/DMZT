@@ -52,13 +52,13 @@ Plan on **Hajin**. Press **F8** in raid. Works **offline, no account needed**.
 ## FAQ
 
 <picture>
-<source media="(max-width: 600px)" srcset="media/hajin-faq-mobile-en.jpg">
-<img src="media/hajin-faq-en.jpg" width="100%" alt="FAQ. Can I get banned for using it? DMZ Tactical never touches the game: no memory reading, no code injection, no automated input; the overlay is its own window and F8 is a standard Windows hotkey; only Activision rules on it. Is it free? Yes. PlayStation or Xbox? Map, loot list and plans work on a PC next to your console; the F8 overlay needs the game on the same PC. Does it read my inventory? No; Hot Zones are estimates. Windows shows Unknown Publisher? The installer is not code-signed yet; updates are checked against a signed manifest. Mac? Work starts on Nov 10.">
+<source media="(max-width: 600px)" srcset="media/hajin-faq-large-mobile-en.jpg">
+<img src="media/hajin-faq-large-en.jpg" width="100%" alt="FAQ. Can I get banned for using it? DMZ Tactical never touches the game: no memory reading, no code injection, no automated input; the overlay is its own window and F8 is a standard Windows hotkey; only Activision rules on it. Is it free? Yes. PlayStation or Xbox? Map, loot list and plans work on a PC next to your console; the F8 overlay needs the game on the same PC. Does it read my inventory? No; Hot Zones are estimates. Windows shows Unknown Publisher? The installer is not code-signed yet; updates are checked against a signed manifest. Mac? Work starts on Nov 10.">
 </picture>
 
 <picture>
-<source media="(max-width: 600px)" srcset="media/hajin-details-mobile-en.jpg">
-<img src="media/hajin-details-en.jpg" width="100%" alt="Details. Inside the app: Hajin map with locations, keys, commanders and points of interest, offline; Hot Zones show estimated PvP risk; raid plans with stops and DMZ Orders progress, pinned raid window; loot lists saved between raids; Weapon Meta and Operator Traits. Squad and privacy: sign in with Discord, add your Activision ID, search in your language; only searchers see each other; you leave the list within 60 seconds; the ID format is checked, not ownership; the game is never read. Requirements: Windows x64 with admin approval, Microsoft Edge WebView2, internet for downloads, squad search and updates, Borderless or Windowed for the overlay, only DMZTactical-Installer.exe is needed.">
+<source media="(max-width: 600px)" srcset="media/hajin-details-large-mobile-en.jpg">
+<img src="media/hajin-details-large-en.jpg" width="100%" alt="Details. Inside the app: Hajin map with locations, keys, commanders and points of interest, offline; Hot Zones show estimated PvP risk; raid plans with stops and DMZ Orders progress, pinned raid window; loot lists saved between raids; Weapon Meta and Operator Traits. Squad and privacy: sign in with Discord, add your Activision ID, search in your language; only searchers see each other; you leave the list within 60 seconds; the ID format is checked, not ownership; the game is never read. Requirements: Windows x64 with admin approval, Microsoft Edge WebView2, internet for downloads, squad search and updates, Borderless or Windowed for the overlay, only DMZTactical-Installer.exe is needed.">
 </picture>
 
 <sub>Independent community companion. Not affiliated with or endorsed by Activision or Infinity Ward. Game names, map imagery and game artwork belong to their respective owners.</sub>
