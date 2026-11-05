@@ -6,8 +6,8 @@
 
 <p align="center">
 <a href="https://discord.gg/PzCZNqmybB"><img src="media/discord-lt.svg" width="288" alt="Prisijunk prie DMZ Tactical Discord bendruomenės"></a>
-<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.11-beta.1/DMZTactical-Installer.exe"><img src="media/download-lt.svg" width="288" alt="Atsisiųsk DMZTactical-Installer.exe Windows programėlę"></a>
-<a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.11-beta.1"><img src="media/release-notes-lt.svg" width="288" alt="Skaityk beta leidimo aprašą"></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.12-beta.1/DMZTactical-Installer.exe"><img src="media/download-lt.svg" width="288" alt="Atsisiųsk DMZTactical-Installer.exe Windows programėlę"></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.12-beta.1"><img src="media/release-notes-lt.svg" width="288" alt="Skaityk beta leidimo aprašą"></a>
 </p>
 
 ## Ką ji daro
@@ -19,6 +19,7 @@
 | **Ką surinkti** | Daiktai, receptai ir bazės patobulinimai; bendros medžiagos susumuojamos. |
 | **Įranga** | Ginklų meta reitingai ir komplektai bei Operator Traits planavimas. |
 | **Komandos paieška** | Rask žaidėjų, kalbančių tavo kalba, ir pakviesk juos žaidime. |
+| **Overlay žaidime** | Paspausk F8 ir matyk rinkimo sąrašą, žemėlapį bei komandos paiešką virš žaidimo. |
 
 ## Hajin iš arčiau
 
@@ -37,6 +38,7 @@ Skiltyje **Mano planas** prieš reidą sudėk užduotis, vietas, raktus ir ginkl
 
 - **DMZ Orders** saugo užduočių žingsnius ir dalinę pažangą.
 - **Prisegtas reido langas** laiko sąrašą šalia žaidimo arba kitame monitoriuje. Pažangą žymi pats, o pakeitimai grįžta į pagrindinį planą.
+- **Overlay žaidime** atsiveria paspaudus F8, kai žaidimas veikia Borderless arba Windowed režimu. Paspaudus dar kartą, kampe lieka mažas sekiklis, o pelė lieka žaidime.
 
 ## Rask ir parsinešk
 

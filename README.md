@@ -6,8 +6,8 @@
 
 <p align="center">
 <a href="https://discord.gg/PzCZNqmybB"><img src="media/discord-en.svg" width="288" alt="Join the DMZ Tactical Discord community"></a>
-<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.11-beta.1/DMZTactical-Installer.exe"><img src="media/download-en.svg" width="288" alt="Download DMZTactical-Installer.exe for Windows"></a>
-<a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.11-beta.1"><img src="media/release-notes-en.svg" width="288" alt="Read the beta release notes"></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.12-beta.1/DMZTactical-Installer.exe"><img src="media/download-en.svg" width="288" alt="Download DMZTactical-Installer.exe for Windows"></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.12-beta.1"><img src="media/release-notes-en.svg" width="288" alt="Read the beta release notes"></a>
 </p>
 
 ## What it does
@@ -19,6 +19,7 @@
 | **Loot list** | Items, recipes and base upgrades with shared ingredients added up for you. |
 | **Equipment** | Weapon Meta rankings and builds, plus Operator Traits planning. |
 | **Squad search** | Find players in your language and invite them in the game. |
+| **In-game overlay** | Press F8 to see your loot list, map and squad search on top of the game. |
 
 ## Hajin, in detail
 
@@ -37,6 +38,7 @@ Both can be switched off. *Hot Zones is an estimate; it does not track players o
 
 - **DMZ Orders** keeps mission steps and partial progress together.
 - The **pinned raid window** puts your checklist beside the game or on a second monitor. You mark the progress; changes are carried back to the main plan.
+- The **in-game overlay** opens with F8 over a Borderless or Windowed game. A second press leaves a small tracker in the corner while the mouse stays in the game.
 
 ## Find it. Bring it back.
 
