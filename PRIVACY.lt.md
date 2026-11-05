@@ -1,4 +1,16 @@
-# DMZ Tactical privatumo politika
+<p align="center"><picture>
+<source media="(max-width: 600px)" srcset="media/hajin-privacy-hero-mobile-lt.jpg">
+<img src="media/hajin-privacy-hero-lt.jpg" width="100%" alt="DMZ Tactical privatumas. Ką saugome, kur ir kaip tai ištrinti. Kontaktas: dmztacticaltool@gmail.com.">
+</picture></p>
+
+<p align="center"><picture>
+<source media="(max-width: 600px)" srcset="media/hajin-privacy-cards-mobile-lt.jpg">
+<img src="media/hajin-privacy-cards-lt.jpg" width="100%" alt="Trumpai. Kompiuteryje: paskyros nereikia; žemėlapis, planai, sąrašai ir nustatymai lieka tavo kompiuteryje; nėra analitikos ir reklamos. Komandos paieška: kiti mato tavo Activision ID, žaidimo stilių ir portretą tik kol abu ieškote ta pačia kalba; iš rezultatų dingsti per 60 sekundžių. Tavo paskyra: Discord ID, vardas, avataras ir el. paštas bei operatoriaus profilis; el. pašto niekam nerodome ir laiškų juo nesiunčiame. Žaidimas: žaidimo failų, atminties ir inventoriaus neliečiame; Activision ID tikriname tik pagal formatą. Discord botas: /activisionid, mainų skelbimai, pranešimai ir uždaryti pokalbiai; archyvai ištrinami po 12 mėnesių. Ištrynimas: profilyje pasirink „Ištrinti paskyrą“, atidaryk /ticket arba parašyk mums; atsakome per 30 dienų.">
+</picture></p>
+
+<p align="center"><a href="README.lt.md">Atsisiuntimo puslapis</a> · <a href="https://discord.gg/PzCZNqmybB">Discord</a></p>
+
+## DMZ Tactical privatumo politika
 
 Atnaujinta: 2026 m. lapkričio 6 d. · [English](PRIVACY.md)
 

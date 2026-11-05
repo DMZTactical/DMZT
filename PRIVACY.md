@@ -1,4 +1,16 @@
-# DMZ Tactical privacy policy
+<p align="center"><picture>
+<source media="(max-width: 600px)" srcset="media/hajin-privacy-hero-mobile-en.jpg">
+<img src="media/hajin-privacy-hero-en.jpg" width="100%" alt="DMZ Tactical privacy. What we store, where, and how to delete it. Contact: dmztacticaltool@gmail.com.">
+</picture></p>
+
+<p align="center"><picture>
+<source media="(max-width: 600px)" srcset="media/hajin-privacy-cards-mobile-en.jpg">
+<img src="media/hajin-privacy-cards-en.jpg" width="100%" alt="Plain summary. On your PC: no account needed; the map, plans, loot lists and settings stay on your PC; no analytics or ads. Squad search: others see your Activision ID, playstyle and portrait only while you both search in the same language; you leave their results within 60 seconds. Your account: Discord ID, name, avatar and email plus your operator profile; the email is never shown or used to contact you. The game: no game files, memory or inventory; Activision ID format check only. Discord bot: /activisionid, trade listings, trade alerts and closed tickets; ticket archives are deleted after 12 months. Delete: choose Delete account in your profile, or open /ticket or email us; we answer within 30 days.">
+</picture></p>
+
+<p align="center"><a href="README.md">Download page</a> · <a href="https://discord.gg/PzCZNqmybB">Discord</a></p>
+
+## DMZ Tactical privacy policy
 
 Last updated: 6 November 2026 · [Lietuviškai](PRIVACY.lt.md)
 
