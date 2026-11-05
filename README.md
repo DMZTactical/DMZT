@@ -1,15 +1,14 @@
 <p align="center">
 <picture>
-<source media="(max-width: 600px)" srcset="media/hajin-hero-mobile-en.svg">
-<source media="(prefers-reduced-motion: reduce)" srcset="media/hajin-hero-en.svg">
-<img src="media/hajin-hero-en.gif" width="100%" alt="DMZ Tactical. A Windows companion for Call of Duty DMZ on Hajin. Map, loot lists and raid planning. Public beta. English and Lithuanian.">
+<source media="(max-width: 600px)" srcset="media/hajin-hero-mobile-en.jpg">
+<img src="media/hajin-hero-en.jpg" width="100%" alt="DMZ Tactical. A Windows companion for DMZ on Hajin. Map, loot and raid planning. Public beta in English and Lithuanian.">
 </picture>
 </p>
 
 <p align="center"><strong>English</strong> · <a href="README.lt.md">Lietuvių</a></p>
 
 <p align="center">
-<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.16-beta.1/DMZTactical-Installer.exe"><img src="media/hajin-download-en.svg" width="252" alt="Download DMZTactical-Installer.exe. Beta 0.9.15-beta.1 for Windows x64."></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.16-beta.1/DMZTactical-Installer.exe"><img src="media/hajin-download-en.svg" width="252" alt="Download DMZTactical-Installer.exe. Beta 0.9.16-beta.1 for Windows x64."></a>
 <a href="https://discord.gg/PzCZNqmybB"><img src="media/hajin-discord-en.svg" width="252" alt="Join Discord for feedback, updates and squad search."></a>
 <a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.16-beta.1"><img src="media/hajin-notes-en.svg" width="252" alt="Read the beta release notes."></a>
 </p>
@@ -19,16 +18,12 @@
 Plan on **Hajin**. Press **F8** in raid. Works **offline, no account needed**.
 
 <picture>
-<source media="(max-width: 600px)" srcset="media/hajin-features-mobile-en.svg">
-<img src="media/hajin-features-en.svg" width="100%" alt="Six tools: offline Hajin map; F8 overlay; saved raid plans and DMZ Orders progress; loot lists with shared ingredients; Weapon Meta and Operator Traits; Discord squad search with Activision ID invites.">
+<source media="(max-width: 600px)" srcset="media/hajin-features-mobile-en.jpg">
+<img src="media/hajin-features-en.jpg" width="100%" alt="Six tools: Hajin map, offline; F8 overlay over the game; raid planning with a route of stops; loot list with item counts; equipment with Weapon Meta and Operator Traits; squad search in your language.">
 </picture>
 
-<table>
-<tr><td width="50%"><img src="media/reveal-map.jpg" alt="The Hajin map inside DMZ Tactical."></td><td width="50%"><img src="media/reveal-overlay.jpg" alt="The F8 overlay over a DMZ raid."></td></tr>
-<tr><td align="center"><sub>Explore Hajin</sub></td><td align="center"><sub>Keep the plan in view with F8</sub></td></tr>
-</table>
 
-<p align="center"><a href="https://www.youtube.com/watch?v=TBih6NpHspg">Watch the beta in action</a></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=TBih6NpHspg"><img src="media/reveal-film.svg" width="100%" alt="Watch the DMZ Tactical beta reveal on YouTube"></a></p>
 
 ## What's next
 

@@ -1,15 +1,14 @@
 <p align="center">
 <picture>
-<source media="(max-width: 600px)" srcset="media/hajin-hero-mobile-lt.svg">
-<source media="(prefers-reduced-motion: reduce)" srcset="media/hajin-hero-lt.svg">
-<img src="media/hajin-hero-lt.gif" width="100%" alt="DMZ Tactical. Windows įrankis Call of Duty DMZ žaidėjams Hajin žemėlapyje. Žemėlapis, rinkimo sąrašai ir reido planavimas. Vieša beta. Lietuvių ir anglų kalbos.">
+<source media="(max-width: 600px)" srcset="media/hajin-hero-mobile-lt.jpg">
+<img src="media/hajin-hero-lt.jpg" width="100%" alt="DMZ Tactical. Windows pagalbininkas DMZ žaidėjams Hajin žemėlapyje. Žemėlapis, grobis ir reido planas. Vieša beta lietuvių ir anglų kalbomis.">
 </picture>
 </p>
 
 <p align="center"><a href="README.md">English</a> · <strong>Lietuvių</strong></p>
 
 <p align="center">
-<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.16-beta.1/DMZTactical-Installer.exe"><img src="media/hajin-download-lt.svg" width="252" alt="Atsisiųsti DMZTactical-Installer.exe. Beta 0.9.15-beta.1, Windows x64."></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.16-beta.1/DMZTactical-Installer.exe"><img src="media/hajin-download-lt.svg" width="252" alt="Atsisiųsti DMZTactical-Installer.exe. Beta 0.9.16-beta.1, Windows x64."></a>
 <a href="https://discord.gg/PzCZNqmybB"><img src="media/hajin-discord-lt.svg" width="252" alt="Prisijungti prie Discord: pasiūlymai, naujienos ir komandos paieška."></a>
 <a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.16-beta.1"><img src="media/hajin-notes-lt.svg" width="252" alt="Skaityti beta leidimo aprašą."></a>
 </p>
@@ -19,16 +18,12 @@
 Planuok **Hajin** žemėlapyje. Reide spausk **F8**. Veikia **be interneto ir be paskyros**.
 
 <picture>
-<source media="(max-width: 600px)" srcset="media/hajin-features-mobile-lt.svg">
-<img src="media/hajin-features-lt.svg" width="100%" alt="Šeši įrankiai: Hajin žemėlapis be interneto; F8 overlay; išsaugoti reido planai ir DMZ Orders pažanga; rinkimo sąrašai su bendromis medžiagomis; Weapon Meta ir Operator Traits; komandos paieška per Discord su Activision ID kvietimais.">
+<source media="(max-width: 600px)" srcset="media/hajin-features-mobile-lt.jpg">
+<img src="media/hajin-features-lt.jpg" width="100%" alt="Šeši įrankiai: Hajin žemėlapis be interneto; F8 overlay virš žaidimo; reido planas su sustojimų maršrutu; rinkimo sąrašas su daiktų kiekiais; įranga su Weapon Meta ir Operator Traits; komandos paieška tavo kalba.">
 </picture>
 
-<table>
-<tr><td width="50%"><img src="media/reveal-map.jpg" alt="Hajin žemėlapis DMZ Tactical programoje."></td><td width="50%"><img src="media/reveal-overlay.jpg" alt="F8 overlay virš DMZ reido."></td></tr>
-<tr><td align="center"><sub>Pažink Hajin</sub></td><td align="center"><sub>Reido planas visada po ranka su F8</sub></td></tr>
-</table>
 
-<p align="center"><a href="https://www.youtube.com/watch?v=TBih6NpHspg">Pamatyk, kaip veikia beta</a></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=TBih6NpHspg"><img src="media/reveal-film.svg" width="100%" alt="Žiūrėk DMZ Tactical beta pristatymą YouTube"></a></p>
 
 ## Kas toliau
 
