@@ -38,49 +38,44 @@ Plan on **Hajin**. Press **F8** in raid. Works **offline, no account needed**.
 
 ## Start here
 
-1. Download **DMZTactical-Installer.exe**, close the app if it is running and follow Windows Setup.
-2. Choose **English** or **Lithuanian** in **Settings**, then search for a key, place or grid square.
-3. Build a plan. During a raid, press **F8** over a **Borderless** or **Windowed** game.
+<picture>
+<source media="(max-width: 600px)" srcset="media/hajin-steps-mobile-en.jpg">
+<img src="media/hajin-steps-en.jpg" width="100%" alt="Three steps. 1 Install: run DMZTactical-Installer.exe. 2 Find: search for a key, place or grid square. 3 Press F8 in raid, with the game in Borderless or Windowed mode.">
+</picture>
 
-**Already have the beta?** Open **Settings** and choose **Check for updates**.
+<p align="center"><strong>Already have the beta?</strong> Settings → <strong>Check for updates</strong>.</p>
 
-If the app opens but the map stays blank, Windows is missing Microsoft WebView2.
-
-<a href="https://developer.microsoft.com/microsoft-edge/webview2/#download"><img src="media/hajin-webview2-en.svg" width="330" alt="Map not loading? Install Microsoft WebView2"></a>
+<p align="center"><a href="https://developer.microsoft.com/microsoft-edge/webview2/#download"><img src="media/hajin-webview2-en.svg" width="330" alt="Map not loading? Install Microsoft WebView2."></a></p>
 
 <details>
-<summary><strong>Map, loot and equipment</strong></summary>
+<summary><strong>What's inside</strong></summary>
 
-The bundled **Hajin map** includes searchable locations, keys, commanders and points of interest. Add stops to a saved plan; **DMZ Orders** keeps mission steps and partial progress. A pinned raid window can sit on a second monitor, with changes carried back to the main plan.
-
-**Loot lists** combine items, recipes and base upgrades. Shared ingredients are totalled, quantities stay saved between raids, and item entries link to acquisition advice, locations and available reference photos. Your in-game inventory is never read.
-
-**Weapon Meta** brings rankings and attachment recommendations together. **Operator Traits** covers Warfighter, Scout and Survivalist; plan within your earned points and keep Minor examples separate from traits you actually received. Recommendations can change with game updates.
-
-**Hot Zones** estimates PvP risk; it does not track players or active exfils. **UAV** is an optional camera orbit around a selected map marker. Both can be switched off.
+- **Hajin map:** locations, keys, commanders and points of interest. Works offline.
+- **Hot Zones:** estimated PvP risk. It does not track players.
+- **Raid plans:** stops and DMZ Orders progress. Pin the raid window on a second monitor.
+- **Loot lists:** items, recipes and upgrades, totals saved between raids.
+- **Weapon Meta and Operator Traits:** builds and trait planning within your points.
 
 </details>
 
 <details>
 <summary><strong>Squad search and privacy</strong></summary>
 
-Sign in with **Discord**, enter your **Activision ID** and search in your language. Review each player's operator, callsign and playstyle, then copy their ID to invite them in the game. You can also set your ID with `/activisionid` in our Discord server.
-
-Only people who are actively searching can see other searchers. Stop searching, close the window or change the language, and you leave the list within **60 seconds**. The ID format is checked; Activision account ownership is not verified.
-
-DMZ Tactical does not read the game process, track live player positions or change in-game traits.
+- Sign in with Discord, add your Activision ID and search in your language.
+- Only players who are searching see each other. Stop, and you leave the list within 60 seconds.
+- The ID format is checked, not account ownership.
+- The game, its process and your inventory are never read.
 
 </details>
 
 <details>
-<summary><strong>Windows requirements and installation help</strong></summary>
+<summary><strong>Requirements</strong></summary>
 
-- **Windows x64**, with administrator approval for installation.
-- **Microsoft Edge WebView2**. Setup tries to install it if it is missing. If the app opens but the map stays blank, [install WebView2](https://developer.microsoft.com/microsoft-edge/webview2/#download).
-- Internet is needed for downloads, squad search and updates. Map browsing, loot lists and raid planning work offline.
-- Exclusive fullscreen may cover the overlay or pinned raid window. Use Borderless, Windowed or a second monitor.
-- The installer is not Authenticode signed; Windows may show **Unknown Publisher**. In-app updates are checked against the signed manifest and file hashes.
-- A fresh install needs only **DMZTactical-Installer.exe**. NUPKG files are for in-app updates. GitHub's **Source code** archives contain this download page, not the private application source.
+- Windows x64, administrator approval to install, Microsoft Edge WebView2.
+- Internet for downloads, squad search and updates. Map and plans work offline.
+- Exclusive fullscreen hides the overlay. Use Borderless or Windowed.
+- The installer is not Authenticode signed, so Windows may show *Unknown Publisher*. Updates are checked against a signed manifest.
+- You only need **DMZTactical-Installer.exe**. NUPKG files are for in-app updates.
 
 </details>
 
