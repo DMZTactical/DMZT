@@ -9,9 +9,9 @@
 <p align="center"><strong>English</strong> · <a href="README.lt.md">Lietuvių</a></p>
 
 <p align="center">
-<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.15-beta.1/DMZTactical-Installer.exe"><img src="media/hajin-download-en.svg" width="252" alt="Download DMZTactical-Installer.exe. Beta 0.9.15-beta.1 for Windows x64."></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.16-beta.1/DMZTactical-Installer.exe"><img src="media/hajin-download-en.svg" width="252" alt="Download DMZTactical-Installer.exe. Beta 0.9.15-beta.1 for Windows x64."></a>
 <a href="https://discord.gg/PzCZNqmybB"><img src="media/hajin-discord-en.svg" width="252" alt="Join Discord for feedback, updates and squad search."></a>
-<a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.15-beta.1"><img src="media/hajin-notes-en.svg" width="252" alt="Read the beta release notes."></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.16-beta.1"><img src="media/hajin-notes-en.svg" width="252" alt="Read the beta release notes."></a>
 </p>
 
 ## Your raid, in one place

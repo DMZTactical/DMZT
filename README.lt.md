@@ -9,9 +9,9 @@
 <p align="center"><a href="README.md">English</a> · <strong>Lietuvių</strong></p>
 
 <p align="center">
-<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.15-beta.1/DMZTactical-Installer.exe"><img src="media/hajin-download-lt.svg" width="252" alt="Atsisiųsti DMZTactical-Installer.exe. Beta 0.9.15-beta.1, Windows x64."></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.16-beta.1/DMZTactical-Installer.exe"><img src="media/hajin-download-lt.svg" width="252" alt="Atsisiųsti DMZTactical-Installer.exe. Beta 0.9.15-beta.1, Windows x64."></a>
 <a href="https://discord.gg/PzCZNqmybB"><img src="media/hajin-discord-lt.svg" width="252" alt="Prisijungti prie Discord: pasiūlymai, naujienos ir komandos paieška."></a>
-<a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.15-beta.1"><img src="media/hajin-notes-lt.svg" width="252" alt="Skaityti beta leidimo aprašą."></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.16-beta.1"><img src="media/hajin-notes-lt.svg" width="252" alt="Skaityti beta leidimo aprašą."></a>
 </p>
 
 ## Viskas tavo reidui
