@@ -47,6 +47,16 @@ Planuok reidą **Hajin** žemėlapyje, o žaidime atsidaryk jį paspaudęs **F8*
 
 <p align="center"><a href="https://developer.microsoft.com/microsoft-edge/webview2/#download"><img src="media/hajin-webview2-lt.svg" width="330" alt="Žemėlapis neįsikelia? Įdiek Microsoft WebView2."></a></p>
 
+## Patikrink atsisiųstą failą
+
+Diegimo failas dar neturi skaitmeninio parašo, todėl kai kurios antivirusinės programos gali dėl jo įspėti. Gali patikrinti, ar failas tikrai mūsų:
+
+```powershell
+Get-FileHash .\DMZTactical-Installer.exe
+```
+
+Rezultatas turi sutapti su `58c8e2cc186e6c7e510acb6323fabdebf9957849d84ff8720c0a54d801d582ea` (0.9.18-beta.1). Visos sumos: [SHA256SUMS.txt](https://github.com/DMZTactical/DMZT/releases/download/v0.9.18-beta.1/SHA256SUMS.txt) · [VirusTotal ataskaita](https://www.virustotal.com/gui/file/58c8e2cc186e6c7e510acb6323fabdebf9957849d84ff8720c0a54d801d582ea)
+
 ## DUK
 
 <picture>

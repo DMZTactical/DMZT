@@ -47,6 +47,16 @@ Plan your raid on **Hajin**, then open it in game with **F8**. Works offline, no
 
 <p align="center"><a href="https://developer.microsoft.com/microsoft-edge/webview2/#download"><img src="media/hajin-webview2-en.svg" width="330" alt="Map not loading? Install Microsoft WebView2."></a></p>
 
+## Check your download
+
+The installer isn't code-signed yet, so some antivirus apps may warn about it. You can check that your file is ours:
+
+```powershell
+Get-FileHash .\DMZTactical-Installer.exe
+```
+
+The result should match `58c8e2cc186e6c7e510acb6323fabdebf9957849d84ff8720c0a54d801d582ea` (0.9.18-beta.1). All hashes: [SHA256SUMS.txt](https://github.com/DMZTactical/DMZT/releases/download/v0.9.18-beta.1/SHA256SUMS.txt) · [VirusTotal report](https://www.virustotal.com/gui/file/58c8e2cc186e6c7e510acb6323fabdebf9957849d84ff8720c0a54d801d582ea)
+
 ## FAQ
 
 <picture>
