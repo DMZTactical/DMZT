@@ -56,36 +56,9 @@ Plan on **Hajin**. Press **F8** in raid. Works **offline, no account needed**.
 <img src="media/hajin-faq-en.jpg" width="100%" alt="FAQ. Can I get banned for using it? DMZ Tactical never touches the game: no memory reading, no code injection, no automated input; the overlay is its own window and F8 is a standard Windows hotkey; only Activision rules on it. Is it free? Yes. PlayStation or Xbox? Map, loot list and plans work on a PC next to your console; the F8 overlay needs the game on the same PC. Does it read my inventory? No; Hot Zones are estimates. Windows shows Unknown Publisher? The installer is not code-signed yet; updates are checked against a signed manifest. Mac? Work starts on Nov 10.">
 </picture>
 
-<details>
-<summary><strong>What's inside</strong></summary>
-
-- **Hajin map:** locations, keys, commanders and points of interest. Works offline.
-- **Hot Zones:** estimated PvP risk. It does not track players.
-- **Raid plans:** stops and DMZ Orders progress. Pin the raid window on a second monitor.
-- **Loot lists:** items, recipes and upgrades, totals saved between raids.
-- **Weapon Meta and Operator Traits:** builds and trait planning within your points.
-
-</details>
-
-<details>
-<summary><strong>Squad search and privacy</strong></summary>
-
-- Sign in with Discord, add your Activision ID and search in your language.
-- Only players who are searching see each other. Stop, and you leave the list within 60 seconds.
-- The ID format is checked, not account ownership.
-- The game, its process and your inventory are never read.
-
-</details>
-
-<details>
-<summary><strong>Requirements</strong></summary>
-
-- Windows x64, administrator approval to install, Microsoft Edge WebView2.
-- Internet for downloads, squad search and updates. Map and plans work offline.
-- Exclusive fullscreen hides the overlay. Use Borderless or Windowed.
-- The installer is not Authenticode signed, so Windows may show *Unknown Publisher*. Updates are checked against a signed manifest.
-- You only need **DMZTactical-Installer.exe**. NUPKG files are for in-app updates.
-
-</details>
+<picture>
+<source media="(max-width: 600px)" srcset="media/hajin-details-mobile-en.jpg">
+<img src="media/hajin-details-en.jpg" width="100%" alt="Details. Inside the app: Hajin map with locations, keys, commanders and points of interest, offline; Hot Zones show estimated PvP risk; raid plans with stops and DMZ Orders progress, pinned raid window; loot lists saved between raids; Weapon Meta and Operator Traits. Squad and privacy: sign in with Discord, add your Activision ID, search in your language; only searchers see each other; you leave the list within 60 seconds; the ID format is checked, not ownership; the game is never read. Requirements: Windows x64 with admin approval, Microsoft Edge WebView2, internet for downloads, squad search and updates, Borderless or Windowed for the overlay, only DMZTactical-Installer.exe is needed.">
+</picture>
 
 <sub>Independent community companion. Not affiliated with or endorsed by Activision or Infinity Ward. Game names, map imagery and game artwork belong to their respective owners.</sub>
