@@ -15,11 +15,11 @@
 | Feature | What you get |
 | --- | --- |
 | **Hajin map** | Every key, location and grid square, searchable and available offline. |
+| **In-game overlay** | Press F8 to see your route, loot, map and squad search on top of the game, and edit the route in raid. |
 | **Raid planning** | Objectives, stops, keys and a loadout in one plan that follows you into the raid. |
 | **Loot list** | Items, recipes and base upgrades with shared ingredients added up for you. |
 | **Equipment** | Weapon Meta rankings and builds, plus Operator Traits planning. |
 | **Squad search** | Find players in your language and invite them in the game. |
-| **In-game overlay** | Press F8 to see your route, loot, map and squad search on top of the game, and edit the route in raid. |
 
 ## Hajin, in detail
 
@@ -37,8 +37,10 @@ Both can be switched off. *Hot Zones is an estimate; it does not track players o
 **My plan** puts objectives, destinations, keys and a weapon loadout together before deployment. Once the raid starts, the view switches to the tasks and stops that remain. Keep separate preparations for different runs, and return to an unfinished raid without rebuilding the plan.
 
 - **DMZ Orders** keeps mission steps and partial progress together.
-- The **pinned raid window** puts your checklist beside the game or on a second monitor. You mark the progress; changes are carried back to the main plan.
-- The **in-game overlay** opens with F8 over a Borderless or Windowed game. A second press leaves a small tracker in the corner while the mouse stays in the game.
+- The **in-game overlay** opens with F8 over a Borderless or Windowed game. Route, loot list and map share one screen, and you can tick off stops, change counts and edit the route mid-raid. A second press leaves a small tracker in the corner while the mouse stays in the game.
+- Prefer a second monitor? **Pin the raid window** there instead. Changes are carried back to the main plan either way.
+
+![The F8 overlay over a DMZ raid: route, loot list and search areas on the map](media/reveal-overlay.jpg)
 
 ## Find it. Bring it back.
 
@@ -73,6 +75,10 @@ Get into a raid with players who speak your language, in three steps:
 ## See the app in action
 
 [![Watch the DMZ Tactical beta reveal on YouTube](media/reveal-film.svg)](https://www.youtube.com/watch?v=TBih6NpHspg)
+
+## What's next
+
+The **X01 map** arrives on Nov 6, the **Build your own** weapon editor on Nov 7, and work on a **macOS** app starts on Nov 10. Follow along on [our Discord](https://discord.gg/PzCZNqmybB).
 
 ## Install
 

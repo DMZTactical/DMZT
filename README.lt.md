@@ -15,11 +15,11 @@
 | Galimybė | Ką gauni |
 | --- | --- |
 | **Hajin žemėlapis** | Visi raktai, vietovės ir langeliai su paieška. Veikia ir be interneto. |
+| **Overlay žaidime** | Paspausk F8 ir matyk maršrutą, daiktus, žemėlapį bei komandos paiešką virš žaidimo, o maršrutą keisk reido metu. |
 | **Reido planas** | Užduotys, sustojimai, raktai ir ginklas viename plane, kuris lydi visą reidą. |
 | **Ką surinkti** | Daiktai, receptai ir bazės patobulinimai; bendros medžiagos susumuojamos. |
 | **Įranga** | Ginklų meta reitingai ir komplektai bei Operator Traits planavimas. |
 | **Komandos paieška** | Rask žaidėjų, kalbančių tavo kalba, ir pakviesk juos žaidime. |
-| **Overlay žaidime** | Paspausk F8 ir matyk maršrutą, daiktus, žemėlapį bei komandos paiešką virš žaidimo, o maršrutą keisk reido metu. |
 
 ## Hajin iš arčiau
 
@@ -37,8 +37,10 @@ Abu režimus galima išjungti. *Hot Zones yra įvertis: jis neseka žaidėjų ir
 Skiltyje **Mano planas** prieš reidą sudėk užduotis, vietas, raktus ir ginklo komplektą. Prasidėjus reidui rodomi likę tikslai ir sustojimai. Išsaugok skirtingus pasiruošimus ir grįžk prie nebaigto reido, nekurdamas plano iš naujo.
 
 - **DMZ Orders** saugo užduočių žingsnius ir dalinę pažangą.
-- **Prisegtas reido langas** laiko sąrašą šalia žaidimo arba kitame monitoriuje. Pažangą žymi pats, o pakeitimai grįžta į pagrindinį planą.
-- **Overlay žaidime** atsiveria paspaudus F8, kai žaidimas veikia Borderless arba Windowed režimu. Paspaudus dar kartą, kampe lieka mažas sekiklis, o pelė lieka žaidime.
+- **Overlay žaidime** atsiveria paspaudus F8, kai žaidimas veikia Borderless arba Windowed režimu. Maršrutas, daiktai ir žemėlapis matomi viename ekrane, o sustojimus žymėti, kiekius keisti ir maršrutą taisyti gali reido metu. Paspaudus dar kartą, kampe lieka mažas sekiklis, o pelė lieka žaidime.
+- Turi antrą monitorių? Ten gali **prisegti reido langą**. Abiem atvejais pakeitimai grįžta į pagrindinį planą.
+
+![F8 overlay DMZ reide: maršrutas, daiktai ir paieškos zonos žemėlapyje](media/reveal-overlay.jpg)
 
 ## Rask ir parsinešk
 
@@ -73,6 +75,10 @@ Atvėręs daiktą rasi **gavimo patarimus**, **nuorodas į žemėlapį** ir turi
 ## Pamatyk, kaip veikia
 
 [![Žiūrėti DMZ Tactical beta pristatymą YouTube](media/reveal-film.svg)](https://www.youtube.com/watch?v=TBih6NpHspg)
+
+## Kas toliau
+
+**X01 žemėlapis** pasirodys lapkričio 6 d., ginklų redaktorius **Susidėk pats** – lapkričio 7 d., o lapkričio 10 d. pradedame kurti **macOS** programėlę. Naujienas skelbiame [Discord serveryje](https://discord.gg/PzCZNqmybB).
 
 ## Įdiegimas
 
