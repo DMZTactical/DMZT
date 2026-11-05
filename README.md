@@ -12,14 +12,20 @@
 
 ## What it does
 
-| Feature | What you get |
-| --- | --- |
-| **Hajin map** | Every key, location and grid square, searchable and available offline. |
-| **In-game overlay** | Press F8 to see your route, loot, map and squad search on top of the game, and edit the route in raid. |
-| **Raid planning** | Objectives, stops, keys and a loadout in one plan that follows you into the raid. |
-| **Loot list** | Items, recipes and base upgrades with shared ingredients added up for you. |
-| **Equipment** | Weapon Meta rankings and builds, plus Operator Traits planning. |
-| **Squad search** | Find players in your language and invite them in the game. |
+<p align="center">
+<img src="media/feature-map-en.svg" width="270" alt="Hajin map: every key, location and grid square, searchable and offline">
+<img src="media/feature-overlay-en.svg" width="270" alt="In-game overlay: press F8 for route, loot list and map on top of the game">
+<img src="media/feature-plan-en.svg" width="270" alt="Raid planning: objectives, stops, keys and a loadout in one plan">
+<img src="media/feature-loot-en.svg" width="270" alt="Loot list: items, recipes and upgrades with shared ingredients added up">
+<img src="media/feature-gear-en.svg" width="270" alt="Equipment: Weapon Meta builds and Operator Traits planning">
+<img src="media/feature-squad-en.svg" width="270" alt="Squad search: find players in your language and invite them in game">
+</p>
+
+## What's next
+
+<p align="center"><img src="media/roadmap-en.svg" width="100%" alt="Roadmap: Nov 6 X01 map, Nov 7 Build your own, Nov 10 macOS work starts, later mobile and web. Always: optimisation, fixes, compact controls and UI updates."></p>
+
+<p align="center">Follow along on <a href="https://discord.gg/PzCZNqmybB">our Discord</a>.</p>
 
 ## Hajin, in detail
 
@@ -75,10 +81,6 @@ Get into a raid with players who speak your language, in three steps:
 ## See the app in action
 
 [![Watch the DMZ Tactical beta reveal on YouTube](media/reveal-film.svg)](https://www.youtube.com/watch?v=TBih6NpHspg)
-
-## What's next
-
-The **X01 map** arrives on Nov 6, the **Build your own** weapon editor on Nov 7, and work on a **macOS** app starts on Nov 10. Follow along on [our Discord](https://discord.gg/PzCZNqmybB).
 
 ## Install
 

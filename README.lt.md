@@ -12,14 +12,20 @@
 
 ## Ką ji daro
 
-| Galimybė | Ką gauni |
-| --- | --- |
-| **Hajin žemėlapis** | Visi raktai, vietovės ir langeliai su paieška. Veikia ir be interneto. |
-| **Overlay žaidime** | Paspausk F8 ir matyk maršrutą, daiktus, žemėlapį bei komandos paiešką virš žaidimo, o maršrutą keisk reido metu. |
-| **Reido planas** | Užduotys, sustojimai, raktai ir ginklas viename plane, kuris lydi visą reidą. |
-| **Ką surinkti** | Daiktai, receptai ir bazės patobulinimai; bendros medžiagos susumuojamos. |
-| **Įranga** | Ginklų meta reitingai ir komplektai bei Operator Traits planavimas. |
-| **Komandos paieška** | Rask žaidėjų, kalbančių tavo kalba, ir pakviesk juos žaidime. |
+<p align="center">
+<img src="media/feature-map-lt.svg" width="270" alt="Hajin žemėlapis: visi raktai, vietovės ir langeliai, paieška ir veikimas be interneto">
+<img src="media/feature-overlay-lt.svg" width="270" alt="Overlay žaidime: F8 parodo maršrutą, daiktus ir žemėlapį virš žaidimo">
+<img src="media/feature-plan-lt.svg" width="270" alt="Reido planas: užduotys, sustojimai, raktai ir ginklas viename plane">
+<img src="media/feature-loot-lt.svg" width="270" alt="Ką surinkti: daiktai, receptai ir patobulinimai, medžiagos susumuojamos">
+<img src="media/feature-gear-lt.svg" width="270" alt="Įranga: ginklų meta komplektai ir Operator Traits planavimas">
+<img src="media/feature-squad-lt.svg" width="270" alt="Komandos paieška: rask žaidėjų tavo kalba ir pakviesk juos žaidime">
+</p>
+
+## Kas toliau
+
+<p align="center"><img src="media/roadmap-lt.svg" width="100%" alt="Planas: lapkričio 6 d. X01 žemėlapis, lapkričio 7 d. Susidėk pats, lapkričio 10 d. pradedama macOS programėlė, vėliau telefonai ir svetainė. Nuolat: optimizacijos, pataisymai, kompaktiškesnis valdymas ir UI atnaujinimai."></p>
+
+<p align="center">Naujienas skelbiame <a href="https://discord.gg/PzCZNqmybB">Discord serveryje</a>.</p>
 
 ## Hajin iš arčiau
 
@@ -75,10 +81,6 @@ Atvėręs daiktą rasi **gavimo patarimus**, **nuorodas į žemėlapį** ir turi
 ## Pamatyk, kaip veikia
 
 [![Žiūrėti DMZ Tactical beta pristatymą YouTube](media/reveal-film.svg)](https://www.youtube.com/watch?v=TBih6NpHspg)
-
-## Kas toliau
-
-**X01 žemėlapis** pasirodys lapkričio 6 d., ginklų redaktorius **Susidėk pats** – lapkričio 7 d., o lapkričio 10 d. pradedame kurti **macOS** programėlę. Naujienas skelbiame [Discord serveryje](https://discord.gg/PzCZNqmybB).
 
 ## Įdiegimas
 
