@@ -85,6 +85,10 @@ The map, loot list and raid planning work **without an account**. Squad search n
 > [!TIP]
 > **Already have the beta?** Open **Settings** and choose **Check for updates**.
 
+If the app opens but the map stays blank, Windows is missing Microsoft WebView2.
+
+<a href="https://developer.microsoft.com/microsoft-edge/webview2/#download"><img src="media/webview2-en.svg" width="288" alt="Map not loading? Install Microsoft WebView2"></a>
+
 <details>
 <summary><strong>Requirements and beta details</strong></summary>
 

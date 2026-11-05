@@ -85,6 +85,10 @@ Atvėręs daiktą rasi **gavimo patarimus**, **nuorodas į žemėlapį** ir turi
 > [!TIP]
 > **Jau turi beta versiją?** Atverk **Nustatymus** ir spausk **Patikrinti atnaujinimą**.
 
+Jei programa atsidaro, bet žemėlapis lieka tuščias, Windows trūksta Microsoft WebView2.
+
+<a href="https://developer.microsoft.com/microsoft-edge/webview2/#download"><img src="media/webview2-lt.svg" width="288" alt="Žemėlapis neįsikelia? Įdiek Microsoft WebView2"></a>
+
 <details>
 <summary><strong>Reikalavimai ir beta informacija</strong></summary>
 
