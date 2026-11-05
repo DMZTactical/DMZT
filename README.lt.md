@@ -27,8 +27,6 @@ Planuok reidą **Hajin** žemėlapyje, o žaidime atsidaryk jį paspaudęs **F8*
 </picture>
 
 
-<p align="center"><a href="https://www.youtube.com/watch?v=TBih6NpHspg"><picture><source media="(max-width: 600px)" srcset="media/hajin-r5-trailer-mobile-lt.jpg"><img src="media/hajin-r5-trailer-lt.jpg" width="100%" alt="Žiūrėk DMZ Tactical pristatymą YouTube"></picture></a></p>
-
 ## Kas toliau
 
 <picture>
@@ -61,4 +59,4 @@ Planuok reidą **Hajin** žemėlapyje, o žaidime atsidaryk jį paspaudęs **F8*
 <img src="media/hajin-r5-details-lt.jpg" width="100%" alt="Smulkiau. Programoje: Hajin žemėlapis su vietovėmis, raktais, vadais ir svarbiais objektais, veikia be interneto; pavojaus zonos rodo tikėtinas kautynes; reido planas saugo sustojimus ir DMZ Orders pažangą; „Ką surinkti“ išsaugo pažangą; ginklų komplektai ir Operator Traits. Komanda ir privatumas: prisijunk per Discord, įrašyk Activision ID ir ieškok savo kalba; vieni kitus mato tik ieškantys žaidėjai; nutraukus paiešką pašalinama per 60 sekundžių; ID tikrinamas tik pagal formatą; žaidimas ir inventorius neskaitomi. Reikalavimai: Windows x64 ir administratoriaus teisės, Microsoft Edge WebView2, interneto ryšys atsisiuntimui, paieškai ir atnaujinimams, langui virš žaidimo – Borderless arba Windowed režimas.">
 </picture>
 
-<p align="center"><sub>© 2026 DMZ Tactical. Gerbėjų sukurta pagalbinė programa, nesusijusi su Activision Publishing, Inc. ar Infinity Ward, jų nepatvirtinta ir neremiama.<br>Call of Duty® ir susiję ženklai yra Activision Publishing, Inc. prekių ženklai. Visas žaidimo turinys ir vaizdai priklauso jų savininkams.</sub></p>
+<p align="center"><sub>© 2026 DMZ Tactical. Gerbėjų sukurta pagalbinė programa, nesusijusi su Activision Publishing, Inc. ar Infinity Ward, jų nepatvirtinta ir neremiama.<br>Call of Duty® ir susiję ženklai yra Activision Publishing, Inc. prekių ženklai. Visas žaidimo turinys ir vaizdai priklauso jų savininkams.<br><a href="PRIVACY.lt.md">Privatumo politika</a></sub></p>

@@ -27,8 +27,6 @@ Plan your raid on **Hajin**, then open it in game with **F8**. Works offline, no
 </picture>
 
 
-<p align="center"><a href="https://www.youtube.com/watch?v=TBih6NpHspg"><picture><source media="(max-width: 600px)" srcset="media/hajin-r5-trailer-mobile-en.jpg"><img src="media/hajin-r5-trailer-en.jpg" width="100%" alt="Watch the DMZ Tactical trailer on YouTube"></picture></a></p>
-
 ## What's next
 
 <picture>
@@ -61,4 +59,4 @@ Plan your raid on **Hajin**, then open it in game with **F8**. Works offline, no
 <img src="media/hajin-r5-details-en.jpg" width="100%" alt="Details. Inside the app: Hajin map with locations, keys, commanders and points of interest, available offline; Hot Zones highlight likely PvP activity; raid plans track stops and DMZ Orders progress; loot lists save your progress; weapon builds and Operator Traits. Squad search and privacy: sign in with Discord, add your Activision ID and search in your language; only players who are searching can see each other; you are removed within 60 seconds after you stop; IDs are checked for format only; the game and your inventory are never read. Requirements: Windows x64 and administrator rights, Microsoft Edge WebView2, an internet connection for downloads, squad search and updates, Borderless or Windowed mode for the overlay.">
 </picture>
 
-<p align="center"><sub>© 2026 DMZ Tactical. A fan-made companion app, not affiliated with, endorsed by, or sponsored by Activision Publishing, Inc. or Infinity Ward.<br>Call of Duty® and related marks are trademarks of Activision Publishing, Inc. All game content and imagery belong to their respective owners.</sub></p>
+<p align="center"><sub>© 2026 DMZ Tactical. A fan-made companion app, not affiliated with, endorsed by, or sponsored by Activision Publishing, Inc. or Infinity Ward.<br>Call of Duty® and related marks are trademarks of Activision Publishing, Inc. All game content and imagery belong to their respective owners.<br><a href="PRIVACY.md">Privacy policy</a></sub></p>
