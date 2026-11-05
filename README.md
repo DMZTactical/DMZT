@@ -8,10 +8,10 @@
 <p align="center"><strong>English</strong> · <a href="README.lt.md">Lietuvių</a></p>
 
 <p align="center">
-<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.16-beta.1/DMZTactical-Installer.exe"><img src="media/hajin-download-en.svg" width="330" alt="Download DMZTactical-Installer.exe. Beta 0.9.16-beta.1 for Windows x64."></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.16-beta.1/DMZTactical-Installer.exe"><img src="media/hajin-install-en.svg" width="330" alt="Download DMZTactical-Installer.exe. Beta 0.9.16-beta.1 for Windows x64."></a>
 <a href="https://discord.gg/PzCZNqmybB"><img src="media/hajin-community-en.svg" width="330" alt="Join Discord for feedback, updates and squad search."></a>
 <br>
-<a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.16-beta.1"><img src="media/hajin-notes-en.svg" width="330" alt="Read the beta release notes."></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.16-beta.1"><img src="media/hajin-github-notes-en.svg" width="330" alt="Read the beta release notes."></a>
 <a href="https://developer.microsoft.com/microsoft-edge/webview2/#download"><img src="media/hajin-webview2-en.svg" width="330" alt="Map not loading? Install Microsoft WebView2."></a>
 </p>
 
