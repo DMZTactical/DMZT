@@ -47,6 +47,55 @@ Plan on **Hajin**. Press **F8** in raid. Works **offline, no account needed**.
 
 <p align="center"><a href="https://developer.microsoft.com/microsoft-edge/webview2/#download"><img src="media/hajin-webview2-en.svg" width="330" alt="Map not loading? Install Microsoft WebView2."></a></p>
 
+## FAQ
+
+<picture>
+<source media="(max-width: 600px)" srcset="media/hajin-facts-mobile-en.jpg">
+<img src="media/hajin-facts-en.jpg" width="100%" alt="Outside the game: no game memory reading, no code injection, no automated input.">
+</picture>
+
+<details open>
+<summary><strong>Can I get banned for using it?</strong></summary>
+
+DMZ Tactical never touches the game. It does not read game memory, inject code or press keys for you. The overlay is its own window on top of the game, and F8 is a standard Windows hotkey. Only Activision decides what it allows, but the app has nothing to do with the game process.
+
+</details>
+
+<details>
+<summary><strong>Is it free?</strong></summary>
+
+Yes. Download it at the top of this page.
+
+</details>
+
+<details>
+<summary><strong>Does it work with PlayStation or Xbox?</strong></summary>
+
+The app runs on Windows. Map, loot list and raid plans work on a PC next to your console. The F8 overlay needs the game on the same PC.
+
+</details>
+
+<details>
+<summary><strong>Does it read my inventory or track other players?</strong></summary>
+
+No. You update your counts yourself. Hot Zones are estimates, not live positions.
+
+</details>
+
+<details>
+<summary><strong>Windows says Unknown Publisher. Is it safe?</strong></summary>
+
+The installer is not code-signed yet, so Windows shows that notice. In-app updates are checked against a signed manifest and file hashes.
+
+</details>
+
+<details>
+<summary><strong>Is there a Mac version?</strong></summary>
+
+Work on the macOS app starts on Nov 10. Phones and web come later.
+
+</details>
+
 <details>
 <summary><strong>What's inside</strong></summary>
 

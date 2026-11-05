@@ -47,6 +47,55 @@ Planuok **Hajin** žemėlapyje. Reide spausk **F8**. Veikia **be interneto ir be
 
 <p align="center"><a href="https://developer.microsoft.com/microsoft-edge/webview2/#download"><img src="media/hajin-webview2-lt.svg" width="330" alt="Žemėlapis neįsikelia? Įdiek Microsoft WebView2."></a></p>
 
+## DUK
+
+<picture>
+<source media="(max-width: 600px)" srcset="media/hajin-facts-mobile-lt.jpg">
+<img src="media/hajin-facts-lt.jpg" width="100%" alt="Atskiras langas: neskaito žaidimo atminties, nieko neįterpia, nespaudžia klavišų už tave.">
+</picture>
+
+<details open>
+<summary><strong>Ar gali užblokuoti paskyrą?</strong></summary>
+
+DMZ Tactical žaidimo neliečia. Programa neskaito žaidimo atminties, nieko į jį neįterpia ir nespaudžia klavišų už tave. Overlay yra atskiras langas virš žaidimo, o F8 – įprastas Windows spartusis klavišas. Ką leidžia, sprendžia tik Activision, bet programa su žaidimo procesu nesusijusi.
+
+</details>
+
+<details>
+<summary><strong>Ar tai nemokama?</strong></summary>
+
+Taip. Atsisiųsk šio puslapio viršuje.
+
+</details>
+
+<details>
+<summary><strong>Ar veikia su PlayStation ar Xbox?</strong></summary>
+
+Programa veikia Windows. Žemėlapis, rinkimo sąrašas ir reido planai veikia kompiuteryje šalia konsolės. F8 overlay reikia, kad žaidimas veiktų tame pačiame kompiuteryje.
+
+</details>
+
+<details>
+<summary><strong>Ar programa skaito mano inventorių ar seka kitus žaidėjus?</strong></summary>
+
+Ne. Kiekius žymi pats. Hot Zones yra numanoma rizika, ne gyvos pozicijos.
+
+</details>
+
+<details>
+<summary><strong>Windows rodo „Unknown Publisher“. Ar saugu?</strong></summary>
+
+Diegiklis kol kas neturi kodo parašo, todėl Windows rodo šį pranešimą. Atnaujinimai programoje tikrinami pagal pasirašytą manifestą ir failų kontrolines sumas.
+
+</details>
+
+<details>
+<summary><strong>Ar bus Mac versija?</strong></summary>
+
+macOS programėlę pradedame kurti lapkričio 10 d. Telefonai ir svetainė – vėliau.
+
+</details>
+
 <details>
 <summary><strong>Kas viduje</strong></summary>
 
