@@ -27,7 +27,7 @@ Planuok reidą **Hajin** žemėlapyje, o žaidime atsidaryk jį paspaudęs **F8*
 </picture>
 
 
-<p align="center"><a href="https://www.youtube.com/watch?v=TBih6NpHspg"><img src="media/reveal-film.svg" width="100%" alt="Žiūrėk DMZ Tactical bandomosios versijos pristatymą YouTube"></a></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=TBih6NpHspg"><picture><source media="(max-width: 600px)" srcset="media/hajin-r4-trailer-mobile-lt.jpg"><img src="media/hajin-r4-trailer-lt.jpg" width="100%" alt="Žiūrėk DMZ Tactical pristatymą YouTube"></picture></a></p>
 
 ## Kas toliau
 

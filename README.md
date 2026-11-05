@@ -27,7 +27,7 @@ Plan your raid on **Hajin**, then open it in game with **F8**. Works offline, no
 </picture>
 
 
-<p align="center"><a href="https://www.youtube.com/watch?v=TBih6NpHspg"><img src="media/reveal-film.svg" width="100%" alt="Watch the DMZ Tactical beta trailer on YouTube"></a></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=TBih6NpHspg"><picture><source media="(max-width: 600px)" srcset="media/hajin-r4-trailer-mobile-en.jpg"><img src="media/hajin-r4-trailer-en.jpg" width="100%" alt="Watch the DMZ Tactical trailer on YouTube"></picture></a></p>
 
 ## What's next
 
