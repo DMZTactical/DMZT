@@ -16,7 +16,7 @@
 
 ## Your raid, in one place
 
-Find what you need on **Hajin**, prepare a route and carry your plan into the raid with **F8**. The map, loot list and raid planning work **offline, without an account**. Squad search uses Discord.
+Plan on **Hajin**. Press **F8** in raid. Works **offline, no account needed**.
 
 <picture>
 <source media="(max-width: 600px)" srcset="media/hajin-features-mobile-en.svg">
@@ -33,11 +33,11 @@ Find what you need on **Hajin**, prepare a route and carry your plan into the ra
 ## What's next
 
 <picture>
-<source media="(max-width: 600px)" srcset="media/hajin-roadmap-mobile-en.svg">
-<img src="media/hajin-roadmap-en.svg" width="100%" alt="November 2026 targets: Nov 6, X01 map support; Nov 7, Build your own weapon editor; Nov 10, macOS development begins, not a release date. Later: Android, iOS and web with one account. Ongoing: performance, fixes, compact controls and interface improvements. Dates are plans and can change with the game.">
+<source media="(max-width: 600px)" srcset="media/hajin-roadmap-mobile-en.jpg">
+<img src="media/hajin-roadmap-en.jpg" width="100%" alt="Roadmap. Out now: the F8 overlay in the Windows beta. Nov 6: X01 map support from day one. Nov 7: Build your own, attachment by attachment. Nov 10: macOS development starts. Later: Android, iOS and web with one account. Always: optimisation, small fixes, compact controls and UI updates. Dates are the plan and can change with the game.">
 </picture>
 
-The **Build your own** editor is currently hidden; saved custom loadouts are kept. Windows is available now. **macOS, mobile and web are planned work.** Follow progress and share feedback on [Discord](https://discord.gg/PzCZNqmybB).
+<p align="center">Follow progress on <a href="https://discord.gg/PzCZNqmybB">Discord</a>.</p>
 
 ## Start here
 

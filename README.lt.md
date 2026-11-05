@@ -16,7 +16,7 @@
 
 ## Viskas tavo reidui
 
-Rask, ko reikia **Hajin** žemėlapyje, pasiruošk maršrutą ir reido metu atverk planą su **F8**. Žemėlapis, rinkimo sąrašas ir reido planavimas veikia **be interneto ir be paskyros**. Komandos paieškai naudojamas Discord.
+Planuok **Hajin** žemėlapyje. Reide spausk **F8**. Veikia **be interneto ir be paskyros**.
 
 <picture>
 <source media="(max-width: 600px)" srcset="media/hajin-features-mobile-lt.svg">
@@ -33,11 +33,11 @@ Rask, ko reikia **Hajin** žemėlapyje, pasiruošk maršrutą ir reido metu atve
 ## Kas toliau
 
 <picture>
-<source media="(max-width: 600px)" srcset="media/hajin-roadmap-mobile-lt.svg">
-<img src="media/hajin-roadmap-lt.svg" width="100%" alt="2026 m. lapkričio planas: lapkričio 6 d. X01 žemėlapis; lapkričio 7 d. ginklų redaktorius Susidėk pats; lapkričio 10 d. pradedama macOS programa, tai nėra išleidimo data. Vėliau: Android, iOS ir svetainė su viena paskyra. Nuolat: našumas, pataisymai, kompaktiškas valdymas ir sąsajos tobulinimas. Datos gali keistis kartu su žaidimu.">
+<source media="(max-width: 600px)" srcset="media/hajin-roadmap-mobile-lt.jpg">
+<img src="media/hajin-roadmap-lt.jpg" width="100%" alt="Planas. Jau dabar: F8 overlay Windows beta versijoje. Lapkričio 6 d.: X01 žemėlapis nuo pirmos dienos. Lapkričio 7 d.: Susidėk pats, priedas po priedo. Lapkričio 10 d.: pradedame kurti macOS programą. Vėliau: Android, iOS ir svetainė su viena paskyra. Nuolat: optimizacijos, pataisymai, kompaktiškas valdymas ir UI atnaujinimai. Datos yra planas ir gali keistis kartu su žaidimu.">
 </picture>
 
-Redaktorius **Susidėk pats** šiuo metu paslėptas; išsaugoti komplektai palikti. Windows versija jau prieinama. **macOS, telefonų programos ir svetainė dar planuojamos.** Naujienos ir pasiūlymai – [Discord serveryje](https://discord.gg/PzCZNqmybB).
+<p align="center">Naujienos – <a href="https://discord.gg/PzCZNqmybB">Discord serveryje</a>.</p>
 
 ## Nuo ko pradėti
 
