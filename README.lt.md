@@ -1,120 +1,89 @@
-<p align="center"><img src="media/reveal-hero.svg" width="100%" alt="DMZ Tactical. Taktinė informacija Hajin žemėlapiui. Vieša beta."></p>
-
-<p align="center"><a href="README.md">English</a> &nbsp; · &nbsp; <strong>Lietuvių</strong></p>
-
-<p align="center"><strong>DMZ Tactical</strong> – Windows programėlė <strong>Call of Duty DMZ žaidėjams Hajin žemėlapyje</strong>.<br><em>Suplanuok reidą, rask, ko reikia, ir susirink komandą.</em></p>
-
 <p align="center">
-<a href="https://discord.gg/PzCZNqmybB"><img src="media/discord-lt.svg" width="288" alt="Prisijunk prie DMZ Tactical Discord bendruomenės"></a>
-<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.15-beta.1/DMZTactical-Installer.exe"><img src="media/download-lt.svg" width="288" alt="Atsisiųsk DMZTactical-Installer.exe Windows programėlę"></a>
-<a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.15-beta.1"><img src="media/release-notes-lt.svg" width="288" alt="Skaityk beta leidimo aprašą"></a>
+<picture>
+<source media="(max-width: 600px)" srcset="media/hajin-hero-mobile-lt.svg">
+<source media="(prefers-reduced-motion: reduce)" srcset="media/hajin-hero-lt.svg">
+<img src="media/hajin-hero-lt.gif" width="100%" alt="DMZ Tactical. Windows įrankis Call of Duty DMZ žaidėjams Hajin žemėlapyje. Žemėlapis, rinkimo sąrašai ir reido planavimas. Vieša beta. Lietuvių ir anglų kalbos.">
+</picture>
 </p>
 
-## Ką ji daro
+<p align="center"><a href="README.md">English</a> · <strong>Lietuvių</strong></p>
 
 <p align="center">
-<img src="media/feature-map-lt.svg" width="270" alt="Hajin žemėlapis: visi raktai, vietovės ir langeliai, paieška ir veikimas be interneto">
-<img src="media/feature-overlay-lt.svg" width="270" alt="Overlay žaidime: F8 parodo maršrutą, daiktus ir žemėlapį virš žaidimo">
-<img src="media/feature-plan-lt.svg" width="270" alt="Reido planas: užduotys, sustojimai, raktai ir ginklas viename plane">
-<img src="media/feature-loot-lt.svg" width="270" alt="Ką surinkti: daiktai, receptai ir patobulinimai, medžiagos susumuojamos">
-<img src="media/feature-gear-lt.svg" width="270" alt="Įranga: ginklų meta komplektai ir Operator Traits planavimas">
-<img src="media/feature-squad-lt.svg" width="270" alt="Komandos paieška: rask žaidėjų tavo kalba ir pakviesk juos žaidime">
+<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.15-beta.1/DMZTactical-Installer.exe"><img src="media/hajin-download-lt.svg" width="252" alt="Atsisiųsti DMZTactical-Installer.exe. Beta 0.9.15-beta.1, Windows x64."></a>
+<a href="https://discord.gg/PzCZNqmybB"><img src="media/hajin-discord-lt.svg" width="252" alt="Prisijungti prie Discord: pasiūlymai, naujienos ir komandos paieška."></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.15-beta.1"><img src="media/hajin-notes-lt.svg" width="252" alt="Skaityti beta leidimo aprašą."></a>
 </p>
+
+## Viskas tavo reidui
+
+Rask, ko reikia **Hajin** žemėlapyje, pasiruošk maršrutą ir reido metu atverk planą su **F8**. Žemėlapis, rinkimo sąrašas ir reido planavimas veikia **be interneto ir be paskyros**. Komandos paieškai naudojamas Discord.
+
+<picture>
+<source media="(max-width: 600px)" srcset="media/hajin-features-mobile-lt.svg">
+<img src="media/hajin-features-lt.svg" width="100%" alt="Šeši įrankiai: Hajin žemėlapis be interneto; F8 overlay; išsaugoti reido planai ir DMZ Orders pažanga; rinkimo sąrašai su bendromis medžiagomis; Weapon Meta ir Operator Traits; komandos paieška per Discord su Activision ID kvietimais.">
+</picture>
+
+<table>
+<tr><td width="50%"><img src="media/reveal-map.jpg" alt="Hajin žemėlapis DMZ Tactical programoje."></td><td width="50%"><img src="media/reveal-overlay.jpg" alt="F8 overlay virš DMZ reido."></td></tr>
+<tr><td align="center"><sub>Pažink Hajin</sub></td><td align="center"><sub>Reido planas visada po ranka su F8</sub></td></tr>
+</table>
+
+<p align="center"><a href="https://www.youtube.com/watch?v=TBih6NpHspg">Pamatyk, kaip veikia beta</a></p>
 
 ## Kas toliau
 
-<p align="center"><img src="media/roadmap-lt.svg" width="100%" alt="Planas: lapkričio 6 d. X01 žemėlapis, lapkričio 7 d. Susidėk pats, lapkričio 10 d. pradedama macOS programėlė, vėliau telefonai ir svetainė. Nuolat: optimizacijos, pataisymai, kompaktiškesnis valdymas ir UI atnaujinimai."></p>
+<picture>
+<source media="(max-width: 600px)" srcset="media/hajin-roadmap-mobile-lt.svg">
+<img src="media/hajin-roadmap-lt.svg" width="100%" alt="2026 m. lapkričio planas: lapkričio 6 d. X01 žemėlapis; lapkričio 7 d. ginklų redaktorius Susidėk pats; lapkričio 10 d. pradedama macOS programa, tai nėra išleidimo data. Vėliau: Android, iOS ir svetainė su viena paskyra. Nuolat: našumas, pataisymai, kompaktiškas valdymas ir sąsajos tobulinimas. Datos gali keistis kartu su žaidimu.">
+</picture>
 
-<p align="center">Naujienas skelbiame <a href="https://discord.gg/PzCZNqmybB">Discord serveryje</a>.</p>
+Redaktorius **Susidėk pats** šiuo metu paslėptas; išsaugoti komplektai palikti. Windows versija jau prieinama. **macOS, telefonų programos ir svetainė dar planuojamos.** Naujienos ir pasiūlymai – [Discord serveryje](https://discord.gg/PzCZNqmybB).
 
-## Hajin iš arčiau
+## Nuo ko pradėti
 
-Ieškok **rakto**, **vietovės** ar **žemėlapio langelio**. Įjunk reikiamus sluoksnius, peržiūrėk vadus ir svarbias vietas, pažymėk būsimus sustojimus. Visas žemėlapis įtrauktas į programėlę ir **veikia be interneto**.
+1. Atsisiųsk **DMZTactical-Installer.exe**, uždaryk veikiančią programą ir atlik Windows diegimo žingsnius.
+2. **Nustatymuose** pasirink lietuvių arba anglų kalbą. Ieškok rakto, vietovės ar žemėlapio langelio.
+3. Pasiruošk planą. Reido metu spausk **F8**, kai žaidimas veikia **Borderless** arba **Windowed** režimu.
 
-- **Hot Zones** rodo numanomas PvP zonas ir trumpai paaiškina riziką.
-- **UAV** leidžia apžiūrėti pasirinktą žymą besisukančia kamera.
-
-Abu režimus galima išjungti. *Hot Zones yra įvertis: jis neseka žaidėjų ir aktyvių išėjimų.*
-
-![HAJIN žemėlapis ir pradinis DMZ Tactical ekranas](media/reveal-map.jpg)
-
-## Kiekvienas sustojimas turi tikslą
-
-Skiltyje **Mano planas** prieš reidą sudėk užduotis, vietas, raktus ir ginklo komplektą. Prasidėjus reidui rodomi likę tikslai ir sustojimai. Išsaugok skirtingus pasiruošimus ir grįžk prie nebaigto reido, nekurdamas plano iš naujo.
-
-- **DMZ Orders** saugo užduočių žingsnius ir dalinę pažangą.
-- **Overlay žaidime** atsiveria paspaudus F8, kai žaidimas veikia Borderless arba Windowed režimu. Maršrutas, daiktai ir žemėlapis matomi viename ekrane, o sustojimus žymėti, kiekius keisti ir maršrutą taisyti gali reido metu. Paspaudus dar kartą, kampe lieka mažas sekiklis, o pelė lieka žaidime.
-- Turi antrą monitorių? Ten gali **prisegti reido langą**. Abiem atvejais pakeitimai grįžta į pagrindinį planą.
-
-![F8 overlay DMZ reide: maršrutas, daiktai ir paieškos zonos žemėlapyje](media/reveal-overlay.jpg)
-
-## Rask ir parsinešk
-
-Į **Ką surinkti** sąrašą pridėk daiktų, gamybos receptų ir bazės patobulinimų. Bendros medžiagos susumuojamos, todėl iš karto matai, kiek reikia, kiek jau turi ir kiek dar trūksta.
-
-Atvėręs daiktą rasi **gavimo patarimus**, **nuorodas į žemėlapį** ir turimas **pavyzdines nuotraukas**. Kiekiai išsaugomi tarp reidų. *Žaidimo inventorius niekada neskaitomas.*
-
-![Military Composites gavimo patarimai ir nuoroda į vado vietą](media/reveal-find.jpg)
-
-## Įranga ir bruožai
-
-**Ginklų meta** vienoje vietoje pateikia ginklų reitingus, priedų komplektus ir tavo išsaugotus pasirinkimus. Peržiūrėk komplektą ir pridėk jį tiesiai prie plano. *Rekomendacijos paremtos bendruomenės šaltiniais ir gali keistis atnaujinus žaidimą.*
-
-**Operator Traits** apima **Warfighter**, **Scout** ir **Survivalist** medžius. Peržiūrėk bruožus, planuok pagal uždirbtus taškus ir išsaugok rinkinį vėlesniam laikui. *Minor* pavyzdžiai ir nepatvirtintos rezervacijos atskirti nuo bruožų, kuriuos iš tikrųjų gavai.
-
-<table>
-<tr><td width="50%"><img src="media/reveal-weapons-detail.jpg" alt="Han 86 priedų komplektas Ginklų meta skiltyje"></td><td width="50%"><img src="media/reveal-traits-detail.jpg" alt="Operator Traits žinynas ir trys bruožų medžiai"></td></tr>
-<tr><td align="center"><sub>Ginklų meta</sub></td><td align="center"><sub>Operator Traits</sub></td></tr>
-</table>
-
-## Susirask komandą
-
-Į reidą eik su žaidėjais, kurie kalba tavo kalba. Užtenka trijų žingsnių:
-
-1. **Prisijunk per Discord.** Taip kiti žaidėjai mato tikrą žmogų, ne netikrą paskyrą.
-2. **Įrašyk Activision ID.** Pagal jį komandos draugai pakvies tave žaidime. ID galima įrašyti ir mūsų Discord serveryje komanda `/activisionid`.
-3. **Ieškok komandos.** Matysi kiekvieno žaidėjo operatorių, šaukinį ir žaidimo stilių. Nukopijuok ID ir išsiųsk kvietimą.
-
-> [!NOTE]
-> Kitus ieškančiuosius mato tik tie, kurie patys ieško. Sustabdžius paiešką, uždarius langą ar pakeitus kalbą, iš sąrašo dingsti per 60 sekundžių. Tikrinamas ID formatas, bet ne Activision paskyros nuosavybė.
-
-## Pamatyk, kaip veikia
-
-[![Žiūrėti DMZ Tactical beta pristatymą YouTube](media/reveal-film.svg)](https://www.youtube.com/watch?v=TBih6NpHspg)
-
-## Įdiegimas
-
-1. Atsisiųsk **DMZTactical-Installer.exe** mygtuku viršuje.
-2. Uždaryk veikiančią DMZ Tactical ir atlik Windows diegimo žingsnius.
-3. **Nustatymuose** pasirink **lietuvių** arba **anglų** kalbą.
-
-Žemėlapis, rinkimo sąrašas ir reido planavimas veikia **be paskyros**. Komandos paieškai reikia prisijungti per Discord.
-
-> [!TIP]
-> **Jau turi beta versiją?** Atverk **Nustatymus** ir spausk **Patikrinti atnaujinimą**.
+**Jau turi beta versiją?** Atverk **Nustatymus** ir spausk **Patikrinti atnaujinimą**.
 
 Jei programa atsidaro, bet žemėlapis lieka tuščias, Windows trūksta Microsoft WebView2.
 
-<a href="https://developer.microsoft.com/microsoft-edge/webview2/#download"><img src="media/webview2-lt.svg" width="288" alt="Žemėlapis neįsikelia? Įdiek Microsoft WebView2"></a>
+<a href="https://developer.microsoft.com/microsoft-edge/webview2/#download"><img src="media/webview2-lt.svg" width="252" alt="Žemėlapis neįsikelia? Įdiek Microsoft WebView2"></a>
 
 <details>
-<summary><strong>Reikalavimai ir beta informacija</strong></summary>
+<summary><strong>Žemėlapis, daiktai ir įranga</strong></summary>
 
-<br>
+Į programą įtrauktame **Hajin žemėlapyje** ieškok vietų, raktų, vadų ir svarbių objektų. Pridėk sustojimus prie išsaugoto plano; **DMZ Orders** saugo užduočių žingsnius ir dalinę pažangą. Reido langą galima prisegti antrame monitoriuje, o pakeitimai grįžta į pagrindinį planą.
 
-**Reikalavimai**
+**Ką surinkti** sujungia daiktus, receptus ir bazės patobulinimus. Bendros medžiagos susumuojamos, kiekiai išsaugomi tarp reidų. Daiktų aprašuose yra gavimo patarimų, vietų nuorodų ir turimų pavyzdinių nuotraukų. Tavo inventorius žaidime niekada neskaitomas.
 
-- Windows x64 ir administratoriaus patvirtinimas diegimui.
-- Microsoft Edge WebView2. Jei jo trūksta, diegimo programa bando jį įdiegti.
-- Interneto ryšys atsisiuntimams, komandos paieškai, paskyros funkcijoms ir atnaujinimams.
+**Weapon Meta** pateikia ginklų reitingus ir priedų rekomendacijas. **Operator Traits** apima Warfighter, Scout ir Survivalist medžius: planuok pagal uždirbtus taškus, o Minor pavyzdžius laikyk atskirai nuo iš tikrųjų gautų bruožų. Rekomendacijos gali keistis atnaujinus žaidimą.
 
-**Verta žinoti**
+**Hot Zones** rodo numanomą PvP riziką, bet neseka žaidėjų ar aktyvių išėjimų. **UAV** yra pasirenkama kameros orbita aplink žemėlapio žymą. Abu režimus galima išjungti.
 
-- Diegiklis neturi Authenticode parašo, todėl Windows gali rodyti *nežinomo leidėjo* pranešimą. Atnaujinimai tikrinami pagal pasirašytą programos manifestą ir failų kontrolines sumas.
-- Prisegtam reido langui naudok kitą monitorių arba žaisk lange ar be rėmelių. Išskirtinis viso ekrano režimas gali jį uždengti.
-- Ginklų redaktorius **Susidėk pats** laikinai paslėptas. Anksčiau išsaugoti komplektai palikti.
-- DMZ Tactical skirta planavimui. Ji neskaito žaidimo proceso, neseka gyvų žaidėjų pozicijų ir nekeičia bruožų žaidime. Žemėlapio pastabos ir bendruomenės patarimai gali keistis kartu su žaidimu.
-- Naujam diegimui užtenka **DMZTactical-Installer.exe**. NUPKG failas naudojamas atnaujinimams programoje. GitHub *Source code* archyvuose yra tik šis atsisiuntimo puslapis; programos kodas laikomas privačiai.
+</details>
+
+<details>
+<summary><strong>Komandos paieška ir privatumas</strong></summary>
+
+Prisijunk per **Discord**, įrašyk **Activision ID** ir ieškok žaidėjų savo kalba. Peržiūrėk operatorių, šaukinį ir žaidimo stilių, nukopijuok ID ir pakviesk žaidime. ID galima įrašyti ir Discord serveryje komanda `/activisionid`.
+
+Kitus ieškančiuosius mato tik tie, kurie patys ieško. Sustabdžius paiešką, uždarius langą ar pakeitus kalbą, iš sąrašo dingsti per **60 sekundžių**. Tikrinamas ID formatas, bet ne Activision paskyros nuosavybė.
+
+DMZ Tactical neskaito žaidimo proceso, neseka gyvų žaidėjų pozicijų ir nekeičia bruožų žaidime.
+
+</details>
+
+<details>
+<summary><strong>Windows reikalavimai ir diegimo pagalba</strong></summary>
+
+- **Windows x64** ir administratoriaus patvirtinimas diegimui.
+- **Microsoft Edge WebView2**. Jei jo trūksta, diegiklis bando jį įdiegti. Jeigu programa atsidaro, bet žemėlapis tuščias, [įdiek WebView2](https://developer.microsoft.com/microsoft-edge/webview2/#download).
+- Interneto reikia atsisiuntimams, komandos paieškai ir atnaujinimams. Žemėlapis, rinkimo sąrašai ir reido planavimas veikia be interneto.
+- Išskirtinis viso ekrano režimas gali uždengti overlay ar prisegtą langą. Naudok Borderless, Windowed arba antrą monitorių.
+- Diegiklis neturi Authenticode parašo, todėl Windows gali rodyti **nežinomo leidėjo** pranešimą. Programos atnaujinimai tikrinami pagal pasirašytą manifestą ir failų kontrolines sumas.
+- Naujam diegimui užtenka **DMZTactical-Installer.exe**. NUPKG failai skirti atnaujinimams programoje. GitHub **Source code** archyvuose yra šis atsisiuntimo puslapis, o ne privatus programos kodas.
 
 </details>
 

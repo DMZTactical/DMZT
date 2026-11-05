@@ -1,120 +1,89 @@
-<p align="center"><img src="media/reveal-hero.svg" width="100%" alt="DMZ Tactical. Tactical intel for Hajin. Public beta."></p>
-
-<p align="center"><strong>English</strong> &nbsp; · &nbsp; <a href="README.lt.md">Lietuvių</a></p>
-
-<p align="center"><strong>DMZ Tactical</strong> is a Windows companion for <strong>Call of Duty DMZ on Hajin</strong>.<br><em>Plan the raid, find what you need, bring a squad.</em></p>
-
 <p align="center">
-<a href="https://discord.gg/PzCZNqmybB"><img src="media/discord-en.svg" width="288" alt="Join the DMZ Tactical Discord community"></a>
-<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.15-beta.1/DMZTactical-Installer.exe"><img src="media/download-en.svg" width="288" alt="Download DMZTactical-Installer.exe for Windows"></a>
-<a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.15-beta.1"><img src="media/release-notes-en.svg" width="288" alt="Read the beta release notes"></a>
+<picture>
+<source media="(max-width: 600px)" srcset="media/hajin-hero-mobile-en.svg">
+<source media="(prefers-reduced-motion: reduce)" srcset="media/hajin-hero-en.svg">
+<img src="media/hajin-hero-en.gif" width="100%" alt="DMZ Tactical. A Windows companion for Call of Duty DMZ on Hajin. Map, loot lists and raid planning. Public beta. English and Lithuanian.">
+</picture>
 </p>
 
-## What it does
+<p align="center"><strong>English</strong> · <a href="README.lt.md">Lietuvių</a></p>
 
 <p align="center">
-<img src="media/feature-map-en.svg" width="270" alt="Hajin map: every key, location and grid square, searchable and offline">
-<img src="media/feature-overlay-en.svg" width="270" alt="In-game overlay: press F8 for route, loot list and map on top of the game">
-<img src="media/feature-plan-en.svg" width="270" alt="Raid planning: objectives, stops, keys and a loadout in one plan">
-<img src="media/feature-loot-en.svg" width="270" alt="Loot list: items, recipes and upgrades with shared ingredients added up">
-<img src="media/feature-gear-en.svg" width="270" alt="Equipment: Weapon Meta builds and Operator Traits planning">
-<img src="media/feature-squad-en.svg" width="270" alt="Squad search: find players in your language and invite them in game">
+<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.15-beta.1/DMZTactical-Installer.exe"><img src="media/hajin-download-en.svg" width="252" alt="Download DMZTactical-Installer.exe. Beta 0.9.15-beta.1 for Windows x64."></a>
+<a href="https://discord.gg/PzCZNqmybB"><img src="media/hajin-discord-en.svg" width="252" alt="Join Discord for feedback, updates and squad search."></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.15-beta.1"><img src="media/hajin-notes-en.svg" width="252" alt="Read the beta release notes."></a>
 </p>
+
+## Your raid, in one place
+
+Find what you need on **Hajin**, prepare a route and carry your plan into the raid with **F8**. The map, loot list and raid planning work **offline, without an account**. Squad search uses Discord.
+
+<picture>
+<source media="(max-width: 600px)" srcset="media/hajin-features-mobile-en.svg">
+<img src="media/hajin-features-en.svg" width="100%" alt="Six tools: offline Hajin map; F8 overlay; saved raid plans and DMZ Orders progress; loot lists with shared ingredients; Weapon Meta and Operator Traits; Discord squad search with Activision ID invites.">
+</picture>
+
+<table>
+<tr><td width="50%"><img src="media/reveal-map.jpg" alt="The Hajin map inside DMZ Tactical."></td><td width="50%"><img src="media/reveal-overlay.jpg" alt="The F8 overlay over a DMZ raid."></td></tr>
+<tr><td align="center"><sub>Explore Hajin</sub></td><td align="center"><sub>Keep the plan in view with F8</sub></td></tr>
+</table>
+
+<p align="center"><a href="https://www.youtube.com/watch?v=TBih6NpHspg">Watch the beta in action</a></p>
 
 ## What's next
 
-<p align="center"><img src="media/roadmap-en.svg" width="100%" alt="Roadmap: Nov 6 X01 map, Nov 7 Build your own, Nov 10 macOS work starts, later mobile and web. Always: optimisation, fixes, compact controls and UI updates."></p>
+<picture>
+<source media="(max-width: 600px)" srcset="media/hajin-roadmap-mobile-en.svg">
+<img src="media/hajin-roadmap-en.svg" width="100%" alt="November 2026 targets: Nov 6, X01 map support; Nov 7, Build your own weapon editor; Nov 10, macOS development begins, not a release date. Later: Android, iOS and web with one account. Ongoing: performance, fixes, compact controls and interface improvements. Dates are plans and can change with the game.">
+</picture>
 
-<p align="center">Follow along on <a href="https://discord.gg/PzCZNqmybB">our Discord</a>.</p>
+The **Build your own** editor is currently hidden; saved custom loadouts are kept. Windows is available now. **macOS, mobile and web are planned work.** Follow progress and share feedback on [Discord](https://discord.gg/PzCZNqmybB).
 
-## Hajin, in detail
+## Start here
 
-Search for a **key**, a **location** or a **grid square**. Bring the relevant layers into view, inspect commanders and points of interest, then mark the places you intend to visit. The full map is bundled with the app and **works offline**.
+1. Download **DMZTactical-Installer.exe**, close the app if it is running and follow Windows Setup.
+2. Choose **English** or **Lithuanian** in **Settings**, then search for a key, place or grid square.
+3. Build a plan. During a raid, press **F8** over a **Borderless** or **Windowed** game.
 
-- **Hot Zones** shows estimated PvP areas with a short explanation of the risk.
-- **UAV** gives you an optional camera orbit around a selected map marker.
-
-Both can be switched off. *Hot Zones is an estimate; it does not track players or active exfils.*
-
-![The HAJIN map and start screen in DMZ Tactical](media/reveal-map.jpg)
-
-## Give every stop a purpose
-
-**My plan** puts objectives, destinations, keys and a weapon loadout together before deployment. Once the raid starts, the view switches to the tasks and stops that remain. Keep separate preparations for different runs, and return to an unfinished raid without rebuilding the plan.
-
-- **DMZ Orders** keeps mission steps and partial progress together.
-- The **in-game overlay** opens with F8 over a Borderless or Windowed game. Route, loot list and map share one screen, and you can tick off stops, change counts and edit the route mid-raid. A second press leaves a small tracker in the corner while the mouse stays in the game.
-- Prefer a second monitor? **Pin the raid window** there instead. Changes are carried back to the main plan either way.
-
-![The F8 overlay over a DMZ raid: route, loot list and search areas on the map](media/reveal-overlay.jpg)
-
-## Find it. Bring it back.
-
-Build a **loot list** from items, crafting recipes and base upgrades. Shared ingredients are added together, so you can see at a glance what you need, what you already have and what is still missing.
-
-Open any item for **acquisition advice**, **map links** and available **reference photos**. Quantities stay saved between raids. *Your game inventory is never read.*
-
-![Military Composites with acquisition advice and a linked commander location](media/reveal-find.jpg)
-
-## Choose your equipment and traits
-
-**Weapon Meta** brings weapon rankings, attachment builds and your saved loadouts into one catalogue. Review a build and add it straight to your plan. *Recommendations are community sourced and can change with game updates.*
-
-**Operator Traits** covers **Warfighter**, **Scout** and **Survivalist**. Browse the trees, plan within the points you have earned and save a build for later. Minor examples and unconfirmed reservations stay separate from the traits you have actually received.
-
-<table>
-<tr><td width="50%"><img src="media/reveal-weapons-detail.jpg" alt="HAN 86 attachment build in Weapon Meta"></td><td width="50%"><img src="media/reveal-traits-detail.jpg" alt="Operator Traits reference with three trait trees"></td></tr>
-<tr><td align="center"><sub>Weapon Meta</sub></td><td align="center"><sub>Operator Traits</sub></td></tr>
-</table>
-
-## Find a squad
-
-Get into a raid with players who speak your language, in three steps:
-
-1. **Sign in with Discord.** Other players see a real person, not a throwaway account.
-2. **Enter your Activision ID.** Teammates use it to invite you in the game. You can also set it with `/activisionid` in our Discord server.
-3. **Find a squad.** See each player's operator, callsign and playstyle, and copy their ID to send an invite.
-
-> [!NOTE]
-> Only players who are searching themselves can see other searchers. Stop searching, close the window or change the language, and you leave the list within 60 seconds. The ID format is checked; ownership of the Activision account is not.
-
-## See the app in action
-
-[![Watch the DMZ Tactical beta reveal on YouTube](media/reveal-film.svg)](https://www.youtube.com/watch?v=TBih6NpHspg)
-
-## Install
-
-1. Download **DMZTactical-Installer.exe** from the button above.
-2. Close DMZ Tactical if it is running, then follow Windows Setup.
-3. Choose **English** or **Lithuanian** in **Settings**.
-
-The map, loot list and raid planning work **without an account**. Squad search needs a Discord sign-in.
-
-> [!TIP]
-> **Already have the beta?** Open **Settings** and choose **Check for updates**.
+**Already have the beta?** Open **Settings** and choose **Check for updates**.
 
 If the app opens but the map stays blank, Windows is missing Microsoft WebView2.
 
-<a href="https://developer.microsoft.com/microsoft-edge/webview2/#download"><img src="media/webview2-en.svg" width="288" alt="Map not loading? Install Microsoft WebView2"></a>
+<a href="https://developer.microsoft.com/microsoft-edge/webview2/#download"><img src="media/webview2-en.svg" width="252" alt="Map not loading? Install Microsoft WebView2"></a>
 
 <details>
-<summary><strong>Requirements and beta details</strong></summary>
+<summary><strong>Map, loot and equipment</strong></summary>
 
-<br>
+The bundled **Hajin map** includes searchable locations, keys, commanders and points of interest. Add stops to a saved plan; **DMZ Orders** keeps mission steps and partial progress. A pinned raid window can sit on a second monitor, with changes carried back to the main plan.
 
-**Requirements**
+**Loot lists** combine items, recipes and base upgrades. Shared ingredients are totalled, quantities stay saved between raids, and item entries link to acquisition advice, locations and available reference photos. Your in-game inventory is never read.
 
-- Windows x64, with administrator approval for installation.
-- Microsoft Edge WebView2. Setup tries to install it if it is missing.
-- An internet connection for downloads, squad search, account features and updates.
+**Weapon Meta** brings rankings and attachment recommendations together. **Operator Traits** covers Warfighter, Scout and Survivalist; plan within your earned points and keep Minor examples separate from traits you actually received. Recommendations can change with game updates.
 
-**Good to know**
+**Hot Zones** estimates PvP risk; it does not track players or active exfils. **UAV** is an optional camera orbit around a selected map marker. Both can be switched off.
 
-- The installer is not Authenticode signed, so Windows may show an *Unknown Publisher* notice. Updates are checked against the app's signed manifest and file hashes.
-- For the pinned raid window, use a second monitor or play in windowed or borderless mode. Exclusive fullscreen may cover it.
-- The **Build your own** weapon editor is temporarily hidden. Previously saved custom loadouts are kept.
-- DMZ Tactical is a planning companion. It does not read the game process, track live player positions or change in-game traits. Map notes and community advice can change as the game does.
-- For a fresh install you only need **DMZTactical-Installer.exe**. The NUPKG file is used for in-app updates. GitHub's *Source code* archives contain this download page only; the application source is kept private.
+</details>
+
+<details>
+<summary><strong>Squad search and privacy</strong></summary>
+
+Sign in with **Discord**, enter your **Activision ID** and search in your language. Review each player's operator, callsign and playstyle, then copy their ID to invite them in the game. You can also set your ID with `/activisionid` in our Discord server.
+
+Only people who are actively searching can see other searchers. Stop searching, close the window or change the language, and you leave the list within **60 seconds**. The ID format is checked; Activision account ownership is not verified.
+
+DMZ Tactical does not read the game process, track live player positions or change in-game traits.
+
+</details>
+
+<details>
+<summary><strong>Windows requirements and installation help</strong></summary>
+
+- **Windows x64**, with administrator approval for installation.
+- **Microsoft Edge WebView2**. Setup tries to install it if it is missing. If the app opens but the map stays blank, [install WebView2](https://developer.microsoft.com/microsoft-edge/webview2/#download).
+- Internet is needed for downloads, squad search and updates. Map browsing, loot lists and raid planning work offline.
+- Exclusive fullscreen may cover the overlay or pinned raid window. Use Borderless, Windowed or a second monitor.
+- The installer is not Authenticode signed; Windows may show **Unknown Publisher**. In-app updates are checked against the signed manifest and file hashes.
+- A fresh install needs only **DMZTactical-Installer.exe**. NUPKG files are for in-app updates. GitHub's **Source code** archives contain this download page, not the private application source.
 
 </details>
 
