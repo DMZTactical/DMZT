@@ -43,7 +43,7 @@ Plan your raid on **Hajin**, then open it in game with **F8**. Works offline, no
 <img src="media/hajin-r6-steps-en.jpg" width="100%" alt="Getting started. 1 Install: run DMZTactical-Installer.exe. 2 Find: search for a key, location or grid square. 3 Press F8: use Borderless or Windowed display mode.">
 </picture>
 
-<p align="center"><strong>Already using the beta?</strong> Go to Settings → <strong>Check for updates</strong>.</p>
+<p align="center"><strong>Already using the beta?</strong> Open Settings and choose <strong>Check for updates</strong>. If no update appears, download the installer above and run it. Your plans and settings stay.</p>
 
 <p align="center"><a href="https://developer.microsoft.com/microsoft-edge/webview2/#download"><img src="media/hajin-webview2-en.svg" width="330" alt="Map not loading? Install Microsoft WebView2."></a></p>
 

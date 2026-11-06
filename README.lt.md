@@ -43,7 +43,7 @@ Planuok reidą **Hajin** žemėlapyje, o žaidime atsidaryk jį paspaudęs **F8*
 <img src="media/hajin-r6-steps-lt.jpg" width="100%" alt="Pradžia. 1 Įdiek: paleisk DMZTactical-Installer.exe. 2 Surask: ieškok rakto, vietovės ar langelio. 3 Spausk F8: naudok Borderless arba Windowed režimą.">
 </picture>
 
-<p align="center"><strong>Jau naudoji bandomąją versiją?</strong> Atidaryk Nustatymai → <strong>Patikrinti atnaujinimą</strong>.</p>
+<p align="center"><strong>Jau naudoji bandomąją versiją?</strong> Atverk Nustatymus ir spausk <strong>Patikrinti atnaujinimą</strong>. Jei atnaujinimas nepasirodo, atsisiųsk diegimo failą ir paleisk jį. Tavo planai ir nustatymai išliks.</p>
 
 <p align="center"><a href="https://developer.microsoft.com/microsoft-edge/webview2/#download"><img src="media/hajin-webview2-lt.svg" width="330" alt="Žemėlapis neįsikelia? Įdiek Microsoft WebView2."></a></p>
 
