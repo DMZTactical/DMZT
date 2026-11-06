@@ -232,3 +232,12 @@ footer p{margin:0 0 .5em}
 .doc td:only-child{clip-path:var(--cut)}
 /* clipped controls keep a visible focus ring inside the cut */
 .row:focus-visible,.task:focus-visible,.chips a:focus-visible,.item-grid a:focus-visible,.nav a:focus-visible,.lang:focus-visible,.btn:focus-visible,.faq summary:focus-visible{outline:2px solid var(--gold);outline-offset:-3px}
+/* external brand buttons: original colours and logos, same size as the install button */
+.btn-brand{width:330px;min-height:66px;justify-content:flex-start;gap:16px;padding:12px 22px;color:#fff;font-size:19px}
+.btn-brand:hover{color:#fff;filter:brightness(1.08)}
+.brand-logo{width:30px;height:30px;flex:none}
+.btn-discord{background:#5865f2}
+.btn-github{background:#24292f}
+.btn-windows{background:#0078d4}
+.btn-brand:focus-visible{outline:2px solid #fff;outline-offset:-4px}
+@media (max-width:600px){.btn-brand{width:100%}}
