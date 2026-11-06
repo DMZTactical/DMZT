@@ -30,8 +30,8 @@ Planuok reidą **Hajin** žemėlapyje, o žaidime atsidaryk jį paspaudęs **F8*
 ## Kas toliau
 
 <picture>
-<source media="(max-width: 600px)" srcset="media/hajin-r6-roadmap-mobile-lt.jpg">
-<img src="media/hajin-r6-roadmap-lt.jpg" width="100%" alt="Lapkričio planas. Jau dabar: F8 langas virš žaidimo. Lapkričio 6 d.: X01 žemėlapis nuo pirmos dienos. Lapkričio 7 d.: Susidėk pats, savi ginklų komplektai. Lapkričio 10 d.: pradedame kurti macOS versiją. Vėliau: telefonų ir naršyklės versijos su bendra paskyra. Nuolat: spartesnis veikimas, klaidų taisymai, patogesnis valdymas ir dizaino atnaujinimai. Datos yra orientacinės ir gali keistis.">
+<source media="(max-width: 600px)" srcset="media/hajin-r7-roadmap-mobile-lt.jpg">
+<img src="media/hajin-r7-roadmap-lt.jpg" width="100%" alt="Lapkričio planas. Jau dabar: F8 langas virš žaidimo, X01 žemėlapis ir Season 1 ginklai. Toliau: X01 aukštų planai ir žinomos vietos. Lapkričio 7 d.: Susidėk pats, savi ginklų komplektai. Lapkričio 10 d.: pradedame kurti macOS versiją. Vėliau: telefonų ir naršyklės versijos su bendra paskyra. Nuolat: spartesnis veikimas, klaidų taisymai, patogesnis valdymas ir dizaino atnaujinimai. Datos yra orientacinės ir gali keistis.">
 </picture>
 
 <p align="center">Naujienos – <a href="https://discord.gg/PzCZNqmybB">Discord serveryje</a>.</p>

@@ -30,8 +30,8 @@ Plan your raid on **Hajin**, then open it in game with **F8**. Works offline, no
 ## What's next
 
 <picture>
-<source media="(max-width: 600px)" srcset="media/hajin-r6-roadmap-mobile-en.jpg">
-<img src="media/hajin-r6-roadmap-en.jpg" width="100%" alt="November roadmap. Out now: the F8 overlay in the Windows beta. November 6: X01 map coverage from launch day. November 7: Build your own weapon builds. November 10: macOS development begins. Later: mobile and web versions with a shared account. Ongoing: performance, bug fixes, easier controls and design updates. Dates are targets and may change.">
+<source media="(max-width: 600px)" srcset="media/hajin-r7-roadmap-mobile-en.jpg">
+<img src="media/hajin-r7-roadmap-en.jpg" width="100%" alt="November roadmap. Out now: the F8 overlay, the X01 map and Season 1 weapons. Next: X01 floor plans, with both floors and known spots. November 7: Build your own weapon builds. November 10: macOS development begins. Later: mobile and web versions with a shared account. Ongoing: performance, bug fixes, easier controls and design updates. Dates are targets and may change.">
 </picture>
 
 <p align="center">Follow progress on <a href="https://discord.gg/PzCZNqmybB">Discord</a>.</p>
