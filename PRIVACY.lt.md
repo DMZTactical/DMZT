@@ -8,7 +8,15 @@
 <img src="media/hajin-privacy-cards-lt.jpg" width="100%" alt="Trumpai. Kompiuteryje: paskyros nereikia; žemėlapis, planai, sąrašai ir nustatymai lieka tavo kompiuteryje; nėra analitikos ir reklamos. Komandos paieška: kiti mato tavo Activision ID, žaidimo stilių ir portretą tik kol abu ieškote ta pačia kalba; iš rezultatų dingsti per 60 sekundžių. Tavo paskyra: Discord ID, vardas, avataras ir el. paštas bei operatoriaus profilis; el. pašto niekam nerodome ir laiškų juo nesiunčiame. Žaidimas: žaidimo failų, atminties ir inventoriaus neliečiame; Activision ID tikriname tik pagal formatą. Discord botas: /activisionid, mainų skelbimai, pranešimai ir uždaryti pokalbiai; archyvai ištrinami po 12 mėnesių. Ištrynimas: profilyje pasirink „Ištrinti paskyrą“, atidaryk /ticket arba parašyk mums; atsakome per 30 dienų.">
 </picture></p>
 
+<p align="center"><picture>
+<source media="(max-width: 600px)" srcset="media/hajin-privacy-detail-mobile-lt.jpg">
+<img src="media/hajin-privacy-detail-lt.jpg" width="100%" alt="Smulkiau. Be paskyros: žemėlapis, planai, sąrašai, ginklų komplektai ir nustatymai lieka tavo Windows profilyje; atnaujinimams programa jungiasi prie GitHub; nėra analitikos ir reklamos. Su paskyra: neprivaloma, prisijungimas per Discord; Discord ID, vardas, avataras ir el. paštas; operatoriaus profilis su Activision ID, portretu, žaidimo stiliumi, regionu, kalba ir mikrofonu. Komandos paieška: kiti mato Activision ID, stilių ir portretą tik kol abu ieškote ta pačia kalba; įrašas galioja 60 sekundžių. Discord botas: /activisionid, mainų skelbimai, pranešimai ir uždaryti pokalbiai. Kur: Supabase Europos Sąjungoje ir Sparked Host Paryžiuje. Kiek laiko: paskyra – kol ištrini; pokalbių archyvai – 12 mėnesių; kopijos keičiamos kasdien. Ištrynimas: profilyje „Ištrinti paskyrą“, /ticket arba el. paštas. Tavo teisės: susipažinti, gauti kopiją, ištaisyti, ištrinti, nesutikti, pateikti skundą VDAI.">
+</picture></p>
+
 <p align="center"><a href="README.lt.md">Atsisiuntimo puslapis</a> · <a href="https://discord.gg/PzCZNqmybB">Discord</a></p>
+
+<details>
+<summary><strong>Visas politikos tekstas</strong></summary>
 
 ## DMZ Tactical privatumo politika
 
@@ -91,3 +99,5 @@ Skundą gali pateikti Valstybinei duomenų apsaugos inspekcijai ([vdai.lrv.lt](h
 ## Pakeitimai
 
 Apie politikos pakeitimus skelbiame šioje saugykloje ir Discord serveryje.
+
+</details>

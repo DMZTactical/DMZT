@@ -8,7 +8,15 @@
 <img src="media/hajin-privacy-cards-en.jpg" width="100%" alt="Plain summary. On your PC: no account needed; the map, plans, loot lists and settings stay on your PC; no analytics or ads. Squad search: others see your Activision ID, playstyle and portrait only while you both search in the same language; you leave their results within 60 seconds. Your account: Discord ID, name, avatar and email plus your operator profile; the email is never shown or used to contact you. The game: no game files, memory or inventory; Activision ID format check only. Discord bot: /activisionid, trade listings, trade alerts and closed tickets; ticket archives are deleted after 12 months. Delete: choose Delete account in your profile, or open /ticket or email us; we answer within 30 days.">
 </picture></p>
 
+<p align="center"><picture>
+<source media="(max-width: 600px)" srcset="media/hajin-privacy-detail-mobile-en.jpg">
+<img src="media/hajin-privacy-detail-en.jpg" width="100%" alt="In detail. Without an account: the map, plans, loot lists, weapon builds and settings stay in your Windows user profile; update checks contact GitHub; no analytics or ads. With an account: optional, Discord sign-in; Discord user ID, username, avatar and email; operator profile with Activision ID, portrait, playstyle, region, language and microphone. Squad search: others see your Activision ID, playstyle and portrait only while you both search in the same language; entries last 60 seconds. Discord bot: /activisionid, trade listings, trade alerts and closed tickets. Where: Supabase in the EU and Sparked Host in Paris, France. How long: account until you delete it; ticket archives 12 months; backups replaced daily. Delete: Delete account in your profile, or /ticket or email. Your rights: access, copy, correction, deletion, objection, complaint to the State Data Protection Inspectorate.">
+</picture></p>
+
 <p align="center"><a href="README.md">Download page</a> · <a href="https://discord.gg/PzCZNqmybB">Discord</a></p>
+
+<details>
+<summary><strong>Full policy text</strong></summary>
 
 ## DMZ Tactical privacy policy
 
@@ -91,3 +99,5 @@ You can complain to a data protection authority. In Lithuania, that is the State
 ## Changes
 
 We publish changes to this policy in this repository and in our Discord server.
+
+</details>

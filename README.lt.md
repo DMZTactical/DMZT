@@ -49,13 +49,16 @@ Planuok reidą **Hajin** žemėlapyje, o žaidime atsidaryk jį paspaudęs **F8*
 
 ## Patikrink atsisiųstą failą
 
-Diegimo failas dar neturi skaitmeninio parašo, todėl kai kurios antivirusinės programos gali dėl jo įspėti. Gali patikrinti, ar failas tikrai mūsų:
+<picture>
+<source media="(max-width: 600px)" srcset="media/hajin-verify-0-9-18-mobile-lt.jpg">
+<img src="media/hajin-verify-0-9-18-lt.jpg" width="100%" alt="Patikrink failą. 1 Atverk Terminal aplanke su diegimo failu. 2 Paleisk Get-FileHash .\DMZTactical-Installer.exe | Format-List. 3 Suma turi sutapti: 58C8E2CC186E6C7E510ACB6323FABDEBF9957849D84FF8720C0A54D801D582EA. Diegimo failas dar neturi skaitmeninio parašo, todėl kai kurios antivirusinės gali įspėti.">
+</picture>
 
 ```powershell
-Get-FileHash .\DMZTactical-Installer.exe
+Get-FileHash .\DMZTactical-Installer.exe | Format-List
 ```
 
-Rezultatas turi sutapti su `58c8e2cc186e6c7e510acb6323fabdebf9957849d84ff8720c0a54d801d582ea` (0.9.18-beta.1). Visos sumos: [SHA256SUMS.txt](https://github.com/DMZTactical/DMZT/releases/download/v0.9.18-beta.1/SHA256SUMS.txt) · [VirusTotal ataskaita](https://www.virustotal.com/gui/file/58c8e2cc186e6c7e510acb6323fabdebf9957849d84ff8720c0a54d801d582ea)
+<p align="center">Suma: <code>58C8E2CC186E6C7E510ACB6323FABDEBF9957849D84FF8720C0A54D801D582EA</code><br><a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.18-beta.1/SHA256SUMS.txt">SHA256SUMS.txt</a> · <a href="https://www.virustotal.com/gui/file/58c8e2cc186e6c7e510acb6323fabdebf9957849d84ff8720c0a54d801d582ea">VirusTotal ataskaita</a></p>
 
 ## DUK
 
@@ -69,4 +72,4 @@ Rezultatas turi sutapti su `58c8e2cc186e6c7e510acb6323fabdebf9957849d84ff8720c0a
 <img src="media/hajin-r6-details-lt.jpg" width="100%" alt="Smulkiau. Programoje: Hajin žemėlapis su vietovėmis, raktais, vadais ir svarbiais objektais, veikia be interneto; pavojaus zonos rodo tikėtinas kautynes; reido planas saugo sustojimus ir DMZ Orders pažangą; „Ką surinkti“ išsaugo pažangą; ginklų komplektai ir Operator Traits. Komanda ir privatumas: prisijunk per Discord, įrašyk Activision ID ir ieškok savo kalba; vieni kitus mato tik ieškantys žaidėjai; nutraukus paiešką pašalinama per 60 sekundžių; ID tikrinamas tik pagal formatą; žaidimas ir inventorius neskaitomi. Reikalavimai: Windows x64 ir administratoriaus teisės, Microsoft Edge WebView2, interneto ryšys atsisiuntimui, paieškai ir atnaujinimams, langui virš žaidimo – Borderless arba Windowed režimas.">
 </picture>
 
-<p align="center"><sub>© 2026 DMZ Tactical. Gerbėjų sukurta pagalbinė programa, nesusijusi su Activision Publishing, Inc. ar Infinity Ward, jų nepatvirtinta ir neremiama.<br>Call of Duty® ir susiję ženklai yra Activision Publishing, Inc. prekių ženklai. Visas žaidimo turinys ir vaizdai priklauso jų savininkams.<br><a href="PRIVACY.lt.md">Privatumo politika</a></sub></p>
+<p align="center"><sub>© 2026 DMZ Tactical. Gerbėjų sukurta pagalbinė programa, nesusijusi su Activision Publishing, Inc. ar Infinity Ward, jų nepatvirtinta ir neremiama.<br>Call of Duty® ir susiję ženklai yra Activision Publishing, Inc. prekių ženklai. Visas žaidimo turinys ir vaizdai priklauso jų savininkams.<br><a href="PRIVACY.lt.md">Privatumo politika</a> · <a href="LICENSE.md">Licencijos sąlygos</a></sub></p>

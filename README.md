@@ -49,13 +49,16 @@ Plan your raid on **Hajin**, then open it in game with **F8**. Works offline, no
 
 ## Check your download
 
-The installer isn't code-signed yet, so some antivirus apps may warn about it. You can check that your file is ours:
+<picture>
+<source media="(max-width: 600px)" srcset="media/hajin-verify-0-9-18-mobile-en.jpg">
+<img src="media/hajin-verify-0-9-18-en.jpg" width="100%" alt="Check your download. 1 Open Terminal in the folder with the installer. 2 Run Get-FileHash .\DMZTactical-Installer.exe | Format-List. 3 The hash must match 58C8E2CC186E6C7E510ACB6323FABDEBF9957849D84FF8720C0A54D801D582EA. The installer isn't code-signed yet, so some antivirus apps may warn about it.">
+</picture>
 
 ```powershell
-Get-FileHash .\DMZTactical-Installer.exe
+Get-FileHash .\DMZTactical-Installer.exe | Format-List
 ```
 
-The result should match `58c8e2cc186e6c7e510acb6323fabdebf9957849d84ff8720c0a54d801d582ea` (0.9.18-beta.1). All hashes: [SHA256SUMS.txt](https://github.com/DMZTactical/DMZT/releases/download/v0.9.18-beta.1/SHA256SUMS.txt) · [VirusTotal report](https://www.virustotal.com/gui/file/58c8e2cc186e6c7e510acb6323fabdebf9957849d84ff8720c0a54d801d582ea)
+<p align="center">Hash: <code>58C8E2CC186E6C7E510ACB6323FABDEBF9957849D84FF8720C0A54D801D582EA</code><br><a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.18-beta.1/SHA256SUMS.txt">SHA256SUMS.txt</a> · <a href="https://www.virustotal.com/gui/file/58c8e2cc186e6c7e510acb6323fabdebf9957849d84ff8720c0a54d801d582ea">VirusTotal report</a></p>
 
 ## FAQ
 
@@ -69,4 +72,4 @@ The result should match `58c8e2cc186e6c7e510acb6323fabdebf9957849d84ff8720c0a54d
 <img src="media/hajin-r6-details-en.jpg" width="100%" alt="Details. Inside the app: Hajin map with locations, keys, commanders and points of interest, available offline; Hot Zones highlight likely PvP activity; raid plans track stops and DMZ Orders progress; loot lists save your progress; weapon builds and Operator Traits. Squad search and privacy: sign in with Discord, add your Activision ID and search in your language; only players who are searching can see each other; you are removed within 60 seconds after you stop; IDs are checked for format only; the game and your inventory are never read. Requirements: Windows x64 and administrator rights, Microsoft Edge WebView2, an internet connection for downloads, squad search and updates, Borderless or Windowed mode for the overlay.">
 </picture>
 
-<p align="center"><sub>© 2026 DMZ Tactical. A fan-made companion app, not affiliated with, endorsed by, or sponsored by Activision Publishing, Inc. or Infinity Ward.<br>Call of Duty® and related marks are trademarks of Activision Publishing, Inc. All game content and imagery belong to their respective owners.<br><a href="PRIVACY.md">Privacy policy</a></sub></p>
+<p align="center"><sub>© 2026 DMZ Tactical. A fan-made companion app, not affiliated with, endorsed by, or sponsored by Activision Publishing, Inc. or Infinity Ward.<br>Call of Duty® and related marks are trademarks of Activision Publishing, Inc. All game content and imagery belong to their respective owners.<br><a href="PRIVACY.md">Privacy policy</a> · <a href="LICENSE.md">Licence terms</a></sub></p>
