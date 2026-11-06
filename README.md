@@ -8,10 +8,10 @@
 <p align="center"><strong>English</strong> · <a href="README.lt.md">Lietuvių</a> · <a href="https://dmztactical.github.io/DMZT/">Website</a></p>
 
 <p align="center">
-<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.21-beta.1/DMZTactical-Installer.exe"><img src="media/hajin-install-0-9-21-en.svg" width="330" alt="Download DMZTactical-Installer.exe. Beta 0.9.21-beta.1 for Windows x64."></a>
-<a href="https://discord.gg/PzCZNqmybB"><img src="media/hajin-community-en.svg" width="330" alt="Join the DMZ Tactical community on Discord for feedback and news."></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.22-beta.1/DMZTactical-Installer.exe"><img src="media/hajin-install-0-9-22-en.svg" width="330" alt="Download DMZTactical-Installer.exe. Beta 0.9.22-beta.1 for Windows x64."></a>
+<a href="https://discord.gg/PzCZNqmybB"><img src="media/hajin-community-r2-en.svg" width="330" alt="Join the DMZ Tactical community on Discord for feedback and news."></a>
 <br>
-<a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.21-beta.1"><img src="media/hajin-r3-notes-en.svg" width="330" alt="Release notes on GitHub: what's new in this beta."></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.22-beta.1"><img src="media/hajin-r3-notes-en.svg" width="330" alt="Release notes on GitHub: what's new in this beta."></a>
 <a href="#faq"><img src="media/hajin-r4-faq-button-en.svg" width="330" alt="FAQ: safety, price, consoles and more."></a>
 </p>
 
@@ -54,7 +54,7 @@
 
 ## Get started
 
-1. **Install.** Download [DMZTactical-Installer.exe](https://github.com/DMZTactical/DMZT/releases/download/v0.9.21-beta.1/DMZTactical-Installer.exe) and run it.
+1. **Install.** Download [DMZTactical-Installer.exe](https://github.com/DMZTactical/DMZT/releases/download/v0.9.22-beta.1/DMZTactical-Installer.exe) and run it.
 2. **Find.** Search for a key, an item, a location or a grid square.
 3. **Press F8.** Set the game to Borderless or Windowed mode, then press F8 in a raid.
 
@@ -85,8 +85,8 @@ Open Terminal in the folder with the installer and run:
 Get-FileHash .\DMZTactical-Installer.exe | Format-List
 ```
 
-The hash must match `3E71121F0D4C11D0643B5E699567D2226D5702D824190D0C39B46A7E0284639E`.
-[SHA256SUMS.txt](https://github.com/DMZTactical/DMZT/releases/download/v0.9.21-beta.1/SHA256SUMS.txt) · [VirusTotal report](https://www.virustotal.com/gui/file/3e71121f0d4c11d0643b5e699567d2226d5702d824190d0c39b46a7e0284639e)
+The hash must match `18A804E6184D3B29C637B63A3F09ACECE8979E616D98D8CF54B1441FC5A83DE0`.
+[SHA256SUMS.txt](https://github.com/DMZTactical/DMZT/releases/download/v0.9.22-beta.1/SHA256SUMS.txt) · [VirusTotal report](https://www.virustotal.com/gui/file/18a804e6184d3b29c637b63a3f09acece8979e616d98d8cf54b1441fc5a83de0)
 
 The installer isn't code-signed yet, so Windows SmartScreen or some antivirus apps may warn about it. Updates are verified with a signed manifest and file hashes.
 
