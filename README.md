@@ -30,8 +30,8 @@ Plan your raid on **Hajin**, then open it in game with **F8**. Works offline, no
 ## What's next
 
 <picture>
-<source media="(max-width: 600px)" srcset="media/hajin-r7-roadmap-mobile-en.jpg">
-<img src="media/hajin-r7-roadmap-en.jpg" width="100%" alt="November roadmap. Out now: the F8 overlay, the X01 map and Season 1 weapons. Next: X01 floor plans, with both floors and known spots. November 7: Build your own weapon builds. November 10: macOS development begins. Later: mobile and web versions with a shared account. Ongoing: performance, bug fixes, easier controls and design updates. Dates are targets and may change.">
+<source media="(max-width: 600px)" srcset="media/hajin-roadmap-1-0-mobile-en.jpg">
+<img src="media/hajin-roadmap-1-0-en.jpg" width="100%" alt="Roadmap to 1.0, drawn as a raid route on the Hajin map. 0.9.2 X01, in progress: X01 Black Site floor plans and a weapon builder. 0.9.3 Updates: every release tested as an update, a backup update notice and the Discord command /where. 0.9.4 Squad plans: share a raid plan with a code, and the next stop's grid square in F8. 0.9.5 Raid log: log your loot after a raid, and map changes after game updates. 0.9.6 Mac: first macOS test build. 0.9.7 Account: plans synced across PCs, squad search returns, report item spots. 0.9.8 Routes: suggested route for your items, first raid guide, gamepad support in F8. 0.9.9 Final testing on Windows and Mac, in English and Lithuanian. 1.0 Full release: Windows and Mac, complete Hajin and X01 maps. Ongoing: bug fixes, performance and quality of life. After 1.0: Android, iOS and web. Plans are subject to change.">
 </picture>
 
 <p align="center">Follow progress on <a href="https://discord.gg/PzCZNqmybB">Discord</a>.</p>
