@@ -8,10 +8,10 @@
 <p align="center"><strong>English</strong> · <a href="README.lt.md">Lietuvių</a></p>
 
 <p align="center">
-<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.18-beta.1/DMZTactical-Installer.exe"><img src="media/hajin-install-0-9-18-en.svg" width="330" alt="Download DMZTactical-Installer.exe. Beta 0.9.18-beta.1 for Windows x64."></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.19-beta.1/DMZTactical-Installer.exe"><img src="media/hajin-install-0-9-19-en.svg" width="330" alt="Download DMZTactical-Installer.exe. Beta 0.9.19-beta.1 for Windows x64."></a>
 <a href="https://discord.gg/PzCZNqmybB"><img src="media/hajin-community-en.svg" width="330" alt="Join the DMZ Tactical community on Discord for feedback, news and squad search."></a>
 <br>
-<a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.18-beta.1"><img src="media/hajin-r3-notes-en.svg" width="330" alt="Release notes on GitHub: what's new in this beta."></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.19-beta.1"><img src="media/hajin-r3-notes-en.svg" width="330" alt="Release notes on GitHub: what's new in this beta."></a>
 <a href="https://developer.microsoft.com/microsoft-edge/webview2/#download"><img src="media/hajin-webview2-en.svg" width="330" alt="Map not loading? Install Microsoft WebView2."></a>
 <br>
 <a href="#faq"><img src="media/hajin-r4-faq-button-en.svg" width="330" alt="FAQ: safety, price, consoles and more."></a>
@@ -50,15 +50,15 @@ Plan your raid on **Hajin**, then open it in game with **F8**. Works offline, no
 ## Check your download
 
 <picture>
-<source media="(max-width: 600px)" srcset="media/hajin-verify-0-9-18-mobile-en.jpg">
-<img src="media/hajin-verify-0-9-18-en.jpg" width="100%" alt="Check your download. 1 Open Terminal in the folder with the installer. 2 Run Get-FileHash .\DMZTactical-Installer.exe | Format-List. 3 The hash must match 58C8E2CC186E6C7E510ACB6323FABDEBF9957849D84FF8720C0A54D801D582EA. The installer isn't code-signed yet, so some antivirus apps may warn about it.">
+<source media="(max-width: 600px)" srcset="media/hajin-verify-0-9-19-mobile-en.jpg">
+<img src="media/hajin-verify-0-9-19-en.jpg" width="100%" alt="Check your download. 1 Open Terminal in the folder with the installer. 2 Run Get-FileHash .\DMZTactical-Installer.exe | Format-List. 3 The hash must match 3CD9933263C5E470C8597A0FFC39F48DFFF9E79A1363AA9DBA2734BC278A22EB. The installer isn't code-signed yet, so some antivirus apps may warn about it.">
 </picture>
 
 ```powershell
 Get-FileHash .\DMZTactical-Installer.exe | Format-List
 ```
 
-<p align="center">Hash: <code>58C8E2CC186E6C7E510ACB6323FABDEBF9957849D84FF8720C0A54D801D582EA</code><br><a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.18-beta.1/SHA256SUMS.txt">SHA256SUMS.txt</a> · <a href="https://www.virustotal.com/gui/file/58c8e2cc186e6c7e510acb6323fabdebf9957849d84ff8720c0a54d801d582ea">VirusTotal report</a></p>
+<p align="center">Hash: <code>3CD9933263C5E470C8597A0FFC39F48DFFF9E79A1363AA9DBA2734BC278A22EB</code><br><a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.19-beta.1/SHA256SUMS.txt">SHA256SUMS.txt</a> · <a href="https://www.virustotal.com/gui/file/3cd9933263c5e470c8597a0ffc39f48dfff9e79a1363aa9dba2734bc278a22eb">VirusTotal report</a></p>
 
 ## FAQ
 
