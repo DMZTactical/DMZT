@@ -1,0 +1,15 @@
+{
+ "name": "DMZ Tactical",
+ "short_name": "DMZT",
+ "start_url": "./",
+ "display": "browser",
+ "background_color": "#0d110e",
+ "theme_color": "#0d110e",
+ "icons": [
+  {
+   "src": "assets/brand/icon-112.png",
+   "sizes": "112x112",
+   "type": "image/png"
+  }
+ ]
+}

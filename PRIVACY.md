@@ -1,30 +1,18 @@
-<p align="center"><picture>
-<source media="(max-width: 600px)" srcset="media/hajin-privacy-hero-mobile-en.jpg">
-<img src="media/hajin-privacy-hero-en.jpg" width="100%" alt="DMZ Tactical privacy. What we store, where, and how to delete it. Contact: dmztacticaltool@gmail.com.">
-</picture></p>
-
-<p align="center"><picture>
-<source media="(max-width: 600px)" srcset="media/hajin-privacy-cards-mobile-en.jpg">
-<img src="media/hajin-privacy-cards-en.jpg" width="100%" alt="Plain summary. On your PC: no account needed; the map, plans, loot lists and settings stay on your PC; no analytics or ads. Squad search: others see your Activision ID, playstyle and portrait only while you both search in the same language; you leave their results within 60 seconds. Your account: Discord ID, name, avatar and email plus your operator profile; the email is never shown or used to contact you. The game: no game files, memory or inventory; Activision ID format check only. Discord bot: /activisionid, trade listings, trade alerts and closed tickets; ticket archives are deleted after 12 months. Delete: choose Delete account in your profile, or open /ticket or email us; we answer within 30 days.">
-</picture></p>
-
-<p align="center"><picture>
-<source media="(max-width: 600px)" srcset="media/hajin-privacy-detail-mobile-en.jpg">
-<img src="media/hajin-privacy-detail-en.jpg" width="100%" alt="In detail. Without an account: the map, plans, loot lists, weapon builds and settings stay in your Windows user profile; update checks contact GitHub; no analytics or ads. With an account: optional, Discord sign-in; Discord user ID, username, avatar and email; operator profile with Activision ID, portrait, playstyle, region, language and microphone. Squad search: others see your Activision ID, playstyle and portrait only while you both search in the same language; entries last 60 seconds. Discord bot: /activisionid, trade listings, trade alerts and closed tickets. Where: Supabase in the EU and Sparked Host in Paris, France. How long: account until you delete it; ticket archives 12 months; backups replaced daily. Delete: Delete account in your profile, or /ticket or email. Your rights: access, copy, correction, deletion, objection, complaint to the State Data Protection Inspectorate.">
-</picture></p>
-
-<p align="center"><a href="README.md">Download page</a> · <a href="https://discord.gg/PzCZNqmybB">Discord</a></p>
-
-<details>
-<summary><strong>Full policy text</strong></summary>
-
-## DMZ Tactical privacy policy
+# DMZ Tactical privacy policy
 
 Last updated: 6 November 2026 · [Lietuviškai](PRIVACY.lt.md)
 
 DMZ Tactical is an independent, free companion app for Call of Duty DMZ. This policy explains what data the app and our Discord server handle, why, and how to remove it.
 
 Contact for privacy requests: **dmztacticaltool@gmail.com**
+
+## Summary
+
+* No account is needed. The map, plans, loot lists and settings stay on your PC.
+* There are no ads and no analytics in the app or on the website.
+* Squad search is optional. Other players see your Activision ID, playstyle and portrait only while you both search in the same language.
+* DMZ Tactical never reads game files, game memory or your inventory.
+* You can delete your account in the app at any time.
 
 ## Without an account
 
@@ -80,6 +68,10 @@ We don't sell data or share it for advertising.
 | Closed ticket archives | 12 months, then deleted |
 | Bot database backups | Replaced daily; the last three copies are kept |
 
+## This website
+
+The [DMZ Tactical website](https://dmztactical.github.io/DMZT/) is hosted on GitHub Pages. It uses no cookies, analytics or ads. GitHub may log your IP address to deliver the pages ([GitHub Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement)).
+
 ## Delete your data
 
 * **In the app:** open your profile and choose **Delete account**. This removes your account, operator profile, search entry and stored Activision ID.
@@ -98,6 +90,8 @@ You can complain to a data protection authority. In Lithuania, that is the State
 
 ## Changes
 
-We publish changes to this policy in this repository and in our Discord server.
+We publish changes to this policy on the website, in this repository and in our Discord server.
 
-</details>
+---
+
+[Website](https://dmztactical.github.io/DMZT/privacy/) · [Download page](README.md) · [Discord](https://discord.gg/PzCZNqmybB)

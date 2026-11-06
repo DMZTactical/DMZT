@@ -1,31 +1,72 @@
 <p align="center">
 <picture>
 <source media="(max-width: 600px)" srcset="media/hajin-r6-hero-mobile-lt.jpg">
-<img src="media/hajin-r6-hero-lt.jpg" width="100%" alt="DMZ Tactical. Žemėlapis, grobis ir reido planai. Planuok Hajin reidus iš anksto. Bandomoji versija Windows kompiuteriams, lietuvių ir anglų kalbomis.">
+<img src="media/hajin-r6-hero-lt.jpg" width="100%" alt="DMZ Tactical: Hajin žemėlapis, daiktų paieška ir reido planas Call of Duty: Modern Warfare 4 DMZ žaidėjams. Nemokama Windows programa.">
 </picture>
 </p>
 
-<p align="center"><a href="README.md">English</a> · <strong>Lietuvių</strong></p>
+<p align="center"><a href="README.md">English</a> · <strong>Lietuvių</strong> · <a href="https://dmztactical.github.io/DMZT/lt/">Svetainė</a></p>
 
 <p align="center">
 <a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.20-beta.1/DMZTactical-Installer.exe"><img src="media/hajin-install-0-9-20-lt.svg" width="330" alt="Atsisiųsk DMZTactical-Installer.exe. Bandomoji versija 0.9.20-beta.1, Windows x64."></a>
-<a href="https://discord.gg/PzCZNqmybB"><img src="media/hajin-community-lt.svg" width="330" alt="Prisijunk prie DMZ Tactical bendruomenės Discord serveryje: pasiūlymai, naujienos ir komandos paieška."></a>
+<a href="https://discord.gg/PzCZNqmybB"><img src="media/hajin-community-lt.svg" width="330" alt="Prisijunk prie DMZ Tactical bendruomenės Discord serveryje: pasiūlymai ir naujienos."></a>
 <br>
 <a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.20-beta.1"><img src="media/hajin-r3-notes-lt.svg" width="330" alt="Kas naujo: šios versijos pakeitimai GitHub svetainėje."></a>
-<a href="https://developer.microsoft.com/microsoft-edge/webview2/#download"><img src="media/hajin-webview2-lt.svg" width="330" alt="Žemėlapis neįsikelia? Įdiek Microsoft WebView2."></a>
-<br>
 <a href="#duk"><img src="media/hajin-r4-faq-button-lt.svg" width="330" alt="DUK: saugumas, kaina, konsolės ir kita."></a>
 </p>
 
-## Viskas reidui vienoje vietoje
+# DMZ Tactical – Hajin žemėlapis, daiktų paieška ir reido planas MW4 DMZ
 
-Planuok reidą **Hajin** žemėlapyje, o žaidime atsidaryk jį paspaudęs **F8**. Veikia be interneto ir be paskyros.
+**DMZ Tactical** – nemokama pagalbinė Windows programa **Call of Duty: Modern Warfare 4 DMZ** žaidėjams. **Hajin** ir **X01** žemėlapyje rasi kiekvieną raktą, vietovę ir langelį, matysi, kur iškrenta daiktai, susiplanuosi reidą ir atversi jį žaidime paspaudęs **F8**. Žemėlapis veikia be interneto, paskyros nereikia.
 
-<picture>
-<source media="(max-width: 600px)" srcset="media/hajin-r6-features-mobile-lt.jpg">
-<img src="media/hajin-r6-features-lt.jpg" width="100%" alt="Galimybės: visi Hajin raktai, vietovės ir langeliai, veikia be interneto; paspaudus F8 maršrutas, grobis ir žemėlapis rodomi virš žaidimo; užduotys, sustojimai, raktai ir ginkluotė viename reido plane; sąrašas „Ką surinkti“ rodo, ko dar trūksta; ginklų komplektai ir Operator Traits planavimas; komandos paieška tavo kalba.">
-</picture>
+<p align="center"><img src="docs/assets/img/app-map-lt.webp" width="100%" alt="Hajin žemėlapis DMZ Tactical programoje: raktų žymos pagal retumą, sunumeruotos vietovės ir pavojaus zonos."></p>
 
+## Galimybės
+
+### Hajin ir X01 žemėlapis su visais raktais
+- Raktai, užrakintos durys ir svarbūs objektai pagal retumą
+- Vietovės, išvykimo taškai, vadai ir langeliai (pvz., B5 ar F4)
+- Pavojaus zonos rodo tikėtinas kautynes su žaidėjais
+- UAV režimas rodo orbitinę žemėlapio peržiūrą
+- Veikia be interneto
+
+### Rask bet kurį daiktą ir kur jis iškrenta
+- Ieškok daikto, rakto ar vietovės
+- Konteineriai su dažniu, pvz., Tool Chest 1 iš 52
+- Daiktus įsidėk į „Ką surinkti“ sąrašą su reikiamu kiekiu
+- FOB patobulinimai ir 3D spausdintuvo daiktai pridėda medžiagas patys
+
+<p align="center"><img src="docs/assets/img/app-find-lt.webp" width="100%" alt="Military Composites aprašas: kaip gauti ir trys galimos Colossus zonos su langeliais."></p>
+
+### Reido planas ir langas virš žaidimo
+- Užduotys, sustojimai, raktai ir ginkluotė viename reido plane
+- DMZ Orders pažanga ir „Ką surinkti“ sąrašas, rodantis, ko dar trūksta
+- Žaidime paspaudęs F8 virš Call of Duty matysi maršrutą, daiktų sąrašą ir žemėlapį
+- Paieškos zonos mažame žemėlapyje. Tavo vietos jis nerodo
+- Veikia Borderless arba Windowed režimu
+
+<p align="center"><img src="docs/assets/img/overlay.webp" width="680" alt="F8 langas virš žaidimo: maršrutas, „Ką lootinti“ sąrašas ir Alloyed Plating paieškos zona mažame žemėlapyje."></p>
+
+### Ginklų meta, komplektai ir Operator Traits
+- Season 1 ginklų lygiai nuo Meta iki D
+- Tolimo nuotolio ir universalūs komplektai su priedų atrakinimo lygiais
+- Operator Traits planavimas su taškais ir kompromisais
+
+## Nuo ko pradėti
+
+1. **Įdiek.** Atsisiųsk [DMZTactical-Installer.exe](https://github.com/DMZTactical/DMZT/releases/download/v0.9.20-beta.1/DMZTactical-Installer.exe) ir paleisk.
+2. **Surask.** Ieškok rakto, daikto, vietovės ar langelio.
+3. **Spausk F8.** Žaidime nustatyk Borderless arba Windowed režimą ir reido metu paspausk F8.
+
+**Jau naudoji bandomąją versiją?** Atverk Nustatymus ir pasirink **Tikrinti atnaujinimus**. Jei atnaujinimas nepasirodo, atsisiųsk diegimo failą ir paleisk jį. Planai ir nustatymai išlieka.
+
+**Žemėlapis neįsikelia?** Įdiek [Microsoft Edge WebView2](https://developer.microsoft.com/microsoft-edge/webview2/#download) ir paleisk programą iš naujo.
+
+### Reikalavimai
+- Windows 10 arba 11, 64 bitų, ir administratoriaus teisės diegimui
+- Microsoft Edge WebView2
+- Interneto ryšys atsisiuntimui ir atnaujinimams
+- Langui virš žaidimo – Borderless arba Windowed režimas
 
 ## Kas toliau
 
@@ -36,40 +77,44 @@ Planuok reidą **Hajin** žemėlapyje, o žaidime atsidaryk jį paspaudęs **F8*
 
 <p align="center">Naujienos – <a href="https://discord.gg/PzCZNqmybB">Discord serveryje</a>.</p>
 
-## Nuo ko pradėti
-
-<picture>
-<source media="(max-width: 600px)" srcset="media/hajin-r6-steps-mobile-lt.jpg">
-<img src="media/hajin-r6-steps-lt.jpg" width="100%" alt="Pradžia. 1 Įdiek: paleisk DMZTactical-Installer.exe. 2 Surask: ieškok rakto, vietovės ar langelio. 3 Spausk F8: naudok Borderless arba Windowed režimą.">
-</picture>
-
-<p align="center"><strong>Jau naudoji bandomąją versiją?</strong> Atverk Nustatymus ir spausk <strong>Patikrinti atnaujinimą</strong>. Jei atnaujinimas nepasirodo, atsisiųsk diegimo failą ir paleisk jį. Tavo planai ir nustatymai išliks.</p>
-
-<p align="center"><a href="https://developer.microsoft.com/microsoft-edge/webview2/#download"><img src="media/hajin-webview2-lt.svg" width="330" alt="Žemėlapis neįsikelia? Įdiek Microsoft WebView2."></a></p>
-
 ## Patikrink atsisiųstą failą
 
-<picture>
-<source media="(max-width: 600px)" srcset="media/hajin-verify-0-9-20-mobile-lt.jpg">
-<img src="media/hajin-verify-0-9-20-lt.jpg" width="100%" alt="Patikrink failą. 1 Atverk Terminal aplanke su diegimo failu. 2 Paleisk Get-FileHash .\DMZTactical-Installer.exe | Format-List. 3 Suma turi sutapti: 458145B930A5F0505143B403A19A81D39E74E58BE4D3BAD2FFE6C624168E18D9. Diegimo failas dar neturi skaitmeninio parašo, todėl kai kurios antivirusinės gali įspėti.">
-</picture>
+Atverk Terminal aplanke su diegimo failu ir paleisk:
 
 ```powershell
 Get-FileHash .\DMZTactical-Installer.exe | Format-List
 ```
 
-<p align="center">Suma: <code>458145B930A5F0505143B403A19A81D39E74E58BE4D3BAD2FFE6C624168E18D9</code><br><a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.20-beta.1/SHA256SUMS.txt">SHA256SUMS.txt</a> · <a href="https://www.virustotal.com/gui/file/458145b930a5f0505143b403a19a81d39e74e58be4d3bad2ffe6c624168e18d9">VirusTotal ataskaita</a></p>
+Suma turi būti `458145B930A5F0505143B403A19A81D39E74E58BE4D3BAD2FFE6C624168E18D9`.
+[SHA256SUMS.txt](https://github.com/DMZTactical/DMZT/releases/download/v0.9.20-beta.1/SHA256SUMS.txt) · [VirusTotal ataskaita](https://www.virustotal.com/gui/file/458145b930a5f0505143b403a19a81d39e74e58be4d3bad2ffe6c624168e18d9)
+
+Diegimo failas dar neturi skaitmeninio parašo, todėl Windows SmartScreen ar kai kurios antivirusinės programos gali įspėti. Atnaujinimai tikrinami pagal pasirašytą sąrašą ir kontrolines sumas.
 
 ## DUK
 
-<picture>
-<source media="(max-width: 600px)" srcset="media/hajin-r6-faq-mobile-lt.jpg">
-<img src="media/hajin-r6-faq-lt.jpg" width="100%" alt="DUK. Ar DMZ Tactical liečia žaidimą? Ne. Programa veikia kaip atskira Windows programa, neskaito ir nekeičia žaidimo failų ar atminties ir nesiunčia žaidimui komandų; langas virš žaidimo yra įprastas Windows langas. Activision DMZ Tactical neperžiūrėjo, todėl negalime pasakyti, kaip jų apsaugos sistemos vertina kitas programas. Ar programa nemokama? Taip, ją galima atsisiųsti ir naudoti nemokamai. Ar ji tinka PlayStation ir Xbox žaidėjams? Taip, Windows kompiuteryje šalia konsolės; langui virš žaidimo reikia žaidimo tame pačiame kompiuteryje. Ar programa mato mano inventorių? Ne, kiekius įvedi pats. Kodėl Windows rodo įspėjimą? Diegimo failas dar neturi skaitmeninio parašo; atnaujinimai tikrinami pagal pasirašytą sąrašą ir kontrolines sumas. Ar planuojama Mac versija? Taip, kurti pradedame lapkričio 10 d.">
-</picture>
+**Ar DMZ Tactical nemokama?**
+Taip. Ją galima atsisiųsti ir naudoti nemokamai. Nėra reklamų ir mokamų funkcijų.
 
-<picture>
-<source media="(max-width: 600px)" srcset="media/hajin-r6-details-mobile-lt.jpg">
-<img src="media/hajin-r6-details-lt.jpg" width="100%" alt="Smulkiau. Programoje: Hajin žemėlapis su vietovėmis, raktais, vadais ir svarbiais objektais, veikia be interneto; pavojaus zonos rodo tikėtinas kautynes; reido planas saugo sustojimus ir DMZ Orders pažangą; „Ką surinkti“ išsaugo pažangą; ginklų komplektai ir Operator Traits. Komanda ir privatumas: prisijunk per Discord, įrašyk Activision ID ir ieškok savo kalba; vieni kitus mato tik ieškantys žaidėjai; nutraukus paiešką pašalinama per 60 sekundžių; ID tikrinamas tik pagal formatą; žaidimas ir inventorius neskaitomi. Reikalavimai: Windows x64 ir administratoriaus teisės, Microsoft Edge WebView2, interneto ryšys atsisiuntimui, paieškai ir atnaujinimams, langui virš žaidimo – Borderless arba Windowed režimas.">
-</picture>
+**Ar saugu naudoti su Call of Duty?**
+DMZ Tactical veikia kaip atskira Windows programa. Ji neskaito ir nekeičia žaidimo failų ar atminties ir nesiunčia žaidimui komandų. F8 langas yra įprastas Windows langas virš žaidimo. Activision DMZ Tactical neperžiūrėjo, todėl negalime pasakyti, kaip jų apsaugos sistemos vertina kitas programas.
 
-<p align="center"><sub>© 2026 DMZ Tactical. Gerbėjų sukurta pagalbinė programa, nesusijusi su Activision Publishing, Inc. ar Infinity Ward, jų nepatvirtinta ir neremiama.<br>Call of Duty® ir susiję ženklai yra Activision Publishing, Inc. prekių ženklai. Visas žaidimo turinys ir vaizdai priklauso jų savininkams.<br><a href="PRIVACY.lt.md">Privatumo politika</a> · <a href="LICENSE.md">Licencijos sąlygos</a></sub></p>
+**Kokie žemėlapiai yra programoje?**
+Hajin ir X01 Exclusion Zone. Šiuo metu kuriami X01 Black Site aukštų planai.
+
+**Ar programa tinka PlayStation ir Xbox žaidėjams?**
+Taip, Windows kompiuteryje šalia konsolės. Langui virš žaidimo reikia žaidimo tame pačiame kompiuteryje.
+
+**Ar programa mato mano inventorių?**
+Ne. Kiekius įvedi pats.
+
+**Ar bus Mac versija?**
+Taip. Pirmąją bandomąją macOS versiją planuojame 0.9.6 versijoje, o 1.0 veiks Windows ir Mac.
+
+**Kokios kalbos palaikomos?**
+Lietuvių ir anglų. Žemėlapių, daiktų ir vietovių pavadinimai rodomi taip, kaip žaidime.
+
+Daugiau atsakymų – [svetainėje](https://dmztactical.github.io/DMZT/lt/#faq).
+
+---
+
+<sub>© 2026 DMZ Tactical. Gerbėjų sukurta pagalbinė programa, nesusijusi, nepatvirtinta ir neremiama Activision Publishing, Inc. ar Infinity Ward. Call of Duty® ir susiję ženklai yra Activision Publishing, Inc. prekių ženklai. Visas žaidimo turinys ir vaizdai priklauso jų savininkams. · [Privatumo politika](PRIVACY.lt.md) · [Licencijos sąlygos](LICENSE.md)</sub>
