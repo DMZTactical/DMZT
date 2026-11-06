@@ -8,10 +8,10 @@
 <p align="center"><a href="README.md">English</a> · <strong>Lietuvių</strong></p>
 
 <p align="center">
-<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.19-beta.1/DMZTactical-Installer.exe"><img src="media/hajin-install-0-9-19-lt.svg" width="330" alt="Atsisiųsk DMZTactical-Installer.exe. Bandomoji versija 0.9.19-beta.1, Windows x64."></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.20-beta.1/DMZTactical-Installer.exe"><img src="media/hajin-install-0-9-20-lt.svg" width="330" alt="Atsisiųsk DMZTactical-Installer.exe. Bandomoji versija 0.9.20-beta.1, Windows x64."></a>
 <a href="https://discord.gg/PzCZNqmybB"><img src="media/hajin-community-lt.svg" width="330" alt="Prisijunk prie DMZ Tactical bendruomenės Discord serveryje: pasiūlymai, naujienos ir komandos paieška."></a>
 <br>
-<a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.19-beta.1"><img src="media/hajin-r3-notes-lt.svg" width="330" alt="Kas naujo: šios versijos pakeitimai GitHub svetainėje."></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.20-beta.1"><img src="media/hajin-r3-notes-lt.svg" width="330" alt="Kas naujo: šios versijos pakeitimai GitHub svetainėje."></a>
 <a href="https://developer.microsoft.com/microsoft-edge/webview2/#download"><img src="media/hajin-webview2-lt.svg" width="330" alt="Žemėlapis neįsikelia? Įdiek Microsoft WebView2."></a>
 <br>
 <a href="#duk"><img src="media/hajin-r4-faq-button-lt.svg" width="330" alt="DUK: saugumas, kaina, konsolės ir kita."></a>
@@ -50,15 +50,15 @@ Planuok reidą **Hajin** žemėlapyje, o žaidime atsidaryk jį paspaudęs **F8*
 ## Patikrink atsisiųstą failą
 
 <picture>
-<source media="(max-width: 600px)" srcset="media/hajin-verify-0-9-19-mobile-lt.jpg">
-<img src="media/hajin-verify-0-9-19-lt.jpg" width="100%" alt="Patikrink failą. 1 Atverk Terminal aplanke su diegimo failu. 2 Paleisk Get-FileHash .\DMZTactical-Installer.exe | Format-List. 3 Suma turi sutapti: 3CD9933263C5E470C8597A0FFC39F48DFFF9E79A1363AA9DBA2734BC278A22EB. Diegimo failas dar neturi skaitmeninio parašo, todėl kai kurios antivirusinės gali įspėti.">
+<source media="(max-width: 600px)" srcset="media/hajin-verify-0-9-20-mobile-lt.jpg">
+<img src="media/hajin-verify-0-9-20-lt.jpg" width="100%" alt="Patikrink failą. 1 Atverk Terminal aplanke su diegimo failu. 2 Paleisk Get-FileHash .\DMZTactical-Installer.exe | Format-List. 3 Suma turi sutapti: 458145B930A5F0505143B403A19A81D39E74E58BE4D3BAD2FFE6C624168E18D9. Diegimo failas dar neturi skaitmeninio parašo, todėl kai kurios antivirusinės gali įspėti.">
 </picture>
 
 ```powershell
 Get-FileHash .\DMZTactical-Installer.exe | Format-List
 ```
 
-<p align="center">Suma: <code>3CD9933263C5E470C8597A0FFC39F48DFFF9E79A1363AA9DBA2734BC278A22EB</code><br><a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.19-beta.1/SHA256SUMS.txt">SHA256SUMS.txt</a> · <a href="https://www.virustotal.com/gui/file/3cd9933263c5e470c8597a0ffc39f48dfff9e79a1363aa9dba2734bc278a22eb">VirusTotal ataskaita</a></p>
+<p align="center">Suma: <code>458145B930A5F0505143B403A19A81D39E74E58BE4D3BAD2FFE6C624168E18D9</code><br><a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.20-beta.1/SHA256SUMS.txt">SHA256SUMS.txt</a> · <a href="https://www.virustotal.com/gui/file/458145b930a5f0505143b403a19a81d39e74e58be4d3bad2ffe6c624168e18d9">VirusTotal ataskaita</a></p>
 
 ## DUK
 
