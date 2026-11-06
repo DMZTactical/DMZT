@@ -225,3 +225,10 @@ footer p{margin:0 0 .5em}
  .row{padding-right:10px}
 }
 .doc ul.rows,.doc ul.chips,.doc ul.item-grid{padding-left:0}
+/* every filled card and row uses the same cut corners */
+.row,.road li{clip-path:var(--cut)}
+.doc td:first-child{clip-path:polygon(0 0,100% 0,100% 100%,10px 100%,0 calc(100% - 10px))}
+.doc td:last-child{clip-path:polygon(0 0,calc(100% - 10px) 0,100% 10px,100% 100%,0 100%)}
+.doc td:only-child{clip-path:var(--cut)}
+/* clipped controls keep a visible focus ring inside the cut */
+.row:focus-visible,.task:focus-visible,.chips a:focus-visible,.item-grid a:focus-visible,.nav a:focus-visible,.lang:focus-visible,.btn:focus-visible,.faq summary:focus-visible{outline:2px solid var(--gold);outline-offset:-3px}
