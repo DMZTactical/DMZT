@@ -247,3 +247,7 @@ footer p{margin:0 0 .5em}
 .btn-windows{background:#0078d4}
 .btn-brand:focus-visible{outline:2px solid #fff;outline-offset:-4px}
 @media (max-width:600px){.btn-brand{width:100%}}
+/* plain chips (rewards) and objective rows */
+.chips .chip{display:block;padding:8px 14px;background:var(--card);clip-path:var(--cut);font:600 16px var(--hud);color:var(--cream)}
+.db-links{grid-template-columns:repeat(2,minmax(0,1fr))}
+@media (max-width:600px){.nav a[href$="download/"],.nav a[href$="locations/"]{display:none}}
