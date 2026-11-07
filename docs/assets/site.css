@@ -283,3 +283,14 @@ footer p{margin:0 0 .5em}
 }
 @media (max-width:600px){.row .end .tag{display:none}}
 .row .end .tag.slot{min-width:84px;text-align:center}.row .end .tag.ghost{visibility:hidden}
+/* map switch on the boss list */
+.map-switch{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:6px;margin:6px 0 10px}
+.map-switch a{display:flex;align-items:center;gap:14px;padding:14px 18px;background:var(--card);clip-path:var(--cut);text-decoration:none;transition:background .16s}
+.map-switch a:hover{background:var(--card-hover)}
+.map-switch strong{display:block;font:600 22px/1.1 var(--hud);color:var(--cream)}
+.map-switch small{display:block;color:var(--muted);font-size:13px;margin-top:3px}
+.map-switch a:focus-visible{outline:2px solid var(--gold);outline-offset:-3px}
+.group-h.with-icon{display:flex;align-items:center;gap:10px}
+.group-h .h-icon{width:28px;height:28px}
+.row.plain{grid-template-columns:minmax(0,1fr) auto;padding-left:16px}
+.map-block{scroll-margin-top:80px}
