@@ -300,3 +300,8 @@ footer p{margin:0 0 .5em}
 .webmap-link strong{display:block;font:600 20px/1.15 var(--hud);text-transform:uppercase;letter-spacing:.03em;color:var(--cream)}
 .webmap-link small{display:block;color:var(--muted);font-size:13px;margin-top:2px}
 .webmap-link:focus-visible{outline:2px solid var(--gold);outline-offset:-3px}
+/* browser app under the website header */
+body.app-page{height:100vh;height:100dvh;overflow:hidden}
+.app-page .top{position:fixed;left:0;right:0;top:0}
+.app-frame{position:fixed;left:0;right:0;bottom:0;top:66px;width:100%;height:calc(100dvh - 66px);border:0;background:#0d1716}
+@media (max-width:600px){.app-frame{top:58px;height:calc(100dvh - 58px)}}
