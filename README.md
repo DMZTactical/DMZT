@@ -5,7 +5,7 @@
 </picture>
 </p>
 
-<p align="center"><strong>English</strong> · <a href="README.lt.md">Lietuvių</a> · <a href="https://dmztactical.github.io/DMZT/">Website</a></p>
+<p align="center"><strong>English</strong> · <a href="README.lt.md">Lietuvių</a> · <a href="https://dmzt.app/">Website</a></p>
 
 <p align="center">
 <a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.23-beta.1/DMZTactical-Installer.exe"><img src="media/hajin-install-0-9-23-en.svg" width="330" alt="Download DMZTactical-Installer.exe. Beta 0.9.23-beta.1 for Windows x64."></a>
@@ -113,7 +113,7 @@ Yes, a macOS version is planned. The first macOS test build is planned for 0.9.6
 **Which languages are supported?**
 English and Lithuanian. Map, item and location names stay as they appear in the game.
 
-More answers on the [website](https://dmztactical.github.io/DMZT/#faq).
+More answers on the [website](https://dmzt.app/#faq).
 
 ---
 

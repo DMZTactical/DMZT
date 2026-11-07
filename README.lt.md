@@ -5,7 +5,7 @@
 </picture>
 </p>
 
-<p align="center"><a href="README.md">English</a> · <strong>Lietuvių</strong> · <a href="https://dmztactical.github.io/DMZT/lt/">Svetainė</a></p>
+<p align="center"><a href="README.md">English</a> · <strong>Lietuvių</strong> · <a href="https://dmzt.app/lt/">Svetainė</a></p>
 
 <p align="center">
 <a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.23-beta.1/DMZTactical-Installer.exe"><img src="media/hajin-install-0-9-23-lt.svg" width="330" alt="Atsisiųsk DMZTactical-Installer.exe. Bandomoji versija 0.9.23-beta.1, Windows x64."></a>
@@ -113,7 +113,7 @@ Taip. Pirmąją bandomąją macOS versiją planuojame 0.9.6 versijoje, o 1.0 vei
 **Kokios kalbos palaikomos?**
 Lietuvių ir anglų. Žemėlapių, daiktų ir vietovių pavadinimai rodomi taip, kaip žaidime.
 
-Daugiau atsakymų – [svetainėje](https://dmztactical.github.io/DMZT/lt/#faq).
+Daugiau atsakymų – [svetainėje](https://dmzt.app/lt/#faq).
 
 ---
 

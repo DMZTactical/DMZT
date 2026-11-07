@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="card-legendary"><defs><linearGradient id="metal" x1="0" y1="0" x2=".85" y2="1"><stop stop-color="#f4edda"/><stop offset=".5" stop-color="#ded8c4"/><stop offset="1" stop-color="#b2a583"/></linearGradient><linearGradient id="paint" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f5a623"/><stop offset="1" stop-color="#f5a623" stop-opacity=".76"/></linearGradient><linearGradient id="plate" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#202c26"/><stop offset="1" stop-color="#101916"/></linearGradient></defs><g transform="rotate(-12 32 32)">
- <path d="M11 17H47L55 25V46L51 50H11L8 47V20Z" fill="url(#metal)" stroke="#0a100e" stroke-width="1.8" stroke-linejoin="round"/>
- <path d="M11 17H47L55 25V28H8V20Z" fill="#f5a623"/>
- <path d="M12 18H46L52 24" fill="none" stroke="#fff" stroke-opacity=".36" stroke-width="1"/>
- <path d="M15 33H25V43H15Z" fill="#b49a64" stroke="#746240" stroke-width="1"/>
- <path d="M20 33V43M15 38H25" stroke="#f1e0b2" stroke-width="1.3"/>
- <path d="M32 33H47V36H32ZM32 40H42V43H32Z" fill="#3a453b"/>
- <path d="M47 39H50V44H47Z" fill="#f5a623"/>
- </g></svg>
