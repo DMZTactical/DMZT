@@ -294,3 +294,9 @@ footer p{margin:0 0 .5em}
 .group-h .h-icon{width:28px;height:28px}
 .row.plain{grid-template-columns:minmax(0,1fr) auto;padding-left:16px}
 .map-block{scroll-margin-top:80px}
+/* open the browser map from the hero */
+.webmap-link{display:grid;grid-template-columns:36px minmax(0,1fr) 18px;align-items:center;gap:14px;max-width:670px;margin-top:10px;padding:12px 16px;background:var(--card);clip-path:var(--cut);text-decoration:none;transition:background .16s}
+.webmap-link:hover{background:var(--card-hover)}
+.webmap-link strong{display:block;font:600 20px/1.15 var(--hud);text-transform:uppercase;letter-spacing:.03em;color:var(--cream)}
+.webmap-link small{display:block;color:var(--muted);font-size:13px;margin-top:2px}
+.webmap-link:focus-visible{outline:2px solid var(--gold);outline-offset:-3px}

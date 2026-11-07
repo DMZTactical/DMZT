@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="ultra"><defs><linearGradient id="metal" x1="0" y1="0" x2=".85" y2="1"><stop stop-color="#f4edda"/><stop offset=".5" stop-color="#ded8c4"/><stop offset="1" stop-color="#b2a583"/></linearGradient><linearGradient id="paint" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ff4d4d"/><stop offset="1" stop-color="#ff4d4d" stop-opacity=".76"/></linearGradient><linearGradient id="plate" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#202c26"/><stop offset="1" stop-color="#101916"/></linearGradient></defs><path d="M10 3H50L61 14V54L54 61H14L3 50V10Z" fill="url(#plate)" stroke="#0a100d" stroke-width="2"/><path d="M10 4H49L60 15V53" fill="none" stroke="#e0cc9a" stroke-opacity=".23" stroke-width="1"/><path d="M52 5 59 12" stroke="#ff4d4d" stroke-width="3" stroke-linecap="square"/><g transform="rotate(36 32 32)">
+ <path d="M23 8H40L46 14V25L39 31H36V37H41V42H36V47H40V52L34 58H28V31L20 25V14Z M27 15V23H38V15Z" fill="url(#metal)" fill-rule="evenodd" stroke="#0a100e" stroke-width="1.7" stroke-linejoin="round"/>
+ <path d="M23 8H40L46 14V25L39 31H28L20 25V14Z M27 15V23H38V15Z" fill="url(#paint)" fill-rule="evenodd"/>
+ <path d="M23 9H39L44 14" fill="none" stroke="#fff" stroke-opacity=".34" stroke-width="1.2"/>
+ <path d="M31 32V53" fill="none" stroke="#fff7dd" stroke-opacity=".58" stroke-width="1.4"/>
+ <path d="M35 33V37M35 43V47" stroke="#8f8469" stroke-width="1.1"/>
+ </g></svg>
