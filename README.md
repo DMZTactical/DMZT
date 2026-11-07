@@ -19,7 +19,7 @@
 
 **DMZ Tactical** is a free Windows companion app for **Call of Duty: Modern Warfare 4 DMZ**. Find every key, location and grid square on the **Hajin** and **X01** maps, see where each item drops, plan your raid and open it in game with **F8**. The map works offline and no account is needed.
 
-<p align="center"><img src="docs/assets/img/app-map-en.webp" width="100%" alt="Hajin map in DMZ Tactical with key markers by rarity, numbered locations and Hot Zones."></p>
+<p align="center"><img src="https://dmzt.app/assets/img/app-map-en.webp" width="100%" alt="Hajin map in DMZ Tactical with key markers by rarity, numbered locations and Hot Zones."></p>
 
 ## Features
 
@@ -36,7 +36,7 @@
 - Add items to your loot list with the amount you need
 - FOB upgrades and 3D printer crafts add their materials for you
 
-<p align="center"><img src="docs/assets/img/app-find-en.webp" width="100%" alt="Item details for Military Composites: how to get it and three possible Colossus areas with grid squares."></p>
+<p align="center"><img src="https://dmzt.app/assets/img/app-find-en.webp" width="100%" alt="Item details for Military Composites: how to get it and three possible Colossus areas with grid squares."></p>
 
 ### Raid plan and F8 overlay
 - Objectives, stops, keys and loadout in one raid plan
@@ -45,7 +45,7 @@
 - Search zones on a mini map. It does not show your position
 - Works in Borderless or Windowed display mode
 
-<p align="center"><img src="docs/assets/img/overlay.webp" width="680" alt="F8 overlay above the game showing the route, the loot list and a search zone for Alloyed Plating on the mini map."></p>
+<p align="center"><img src="https://dmzt.app/assets/img/overlay.webp" width="680" alt="F8 overlay above the game showing the route, the loot list and a search zone for Alloyed Plating on the mini map."></p>
 
 ### Weapon meta, builds and Operator Traits
 - Season 1 weapon tiers from Meta to D

@@ -19,7 +19,7 @@
 
 **DMZ Tactical** – nemokama pagalbinė Windows programa **Call of Duty: Modern Warfare 4 DMZ** žaidėjams. **Hajin** ir **X01** žemėlapyje rasi kiekvieną raktą, vietovę ir langelį, matysi, kur iškrenta daiktai, susiplanuosi reidą ir atversi jį žaidime paspaudęs **F8**. Žemėlapis veikia be interneto, paskyros nereikia.
 
-<p align="center"><img src="docs/assets/img/app-map-lt.webp" width="100%" alt="Hajin žemėlapis DMZ Tactical programoje: raktų žymos pagal retumą, sunumeruotos vietovės ir pavojaus zonos."></p>
+<p align="center"><img src="https://dmzt.app/assets/img/app-map-lt.webp" width="100%" alt="Hajin žemėlapis DMZ Tactical programoje: raktų žymos pagal retumą, sunumeruotos vietovės ir pavojaus zonos."></p>
 
 ## Galimybės
 
@@ -36,7 +36,7 @@
 - Daiktus įsidėk į „Ką surinkti“ sąrašą su reikiamu kiekiu
 - FOB patobulinimai ir 3D spausdintuvo daiktai pridėda medžiagas patys
 
-<p align="center"><img src="docs/assets/img/app-find-lt.webp" width="100%" alt="Military Composites aprašas: kaip gauti ir trys galimos Colossus zonos su langeliais."></p>
+<p align="center"><img src="https://dmzt.app/assets/img/app-find-lt.webp" width="100%" alt="Military Composites aprašas: kaip gauti ir trys galimos Colossus zonos su langeliais."></p>
 
 ### Reido planas ir langas virš žaidimo
 - Užduotys, sustojimai, raktai ir ginkluotė viename reido plane
@@ -45,7 +45,7 @@
 - Paieškos zonos mažame žemėlapyje. Tavo vietos jis nerodo
 - Veikia Borderless arba Windowed režimu
 
-<p align="center"><img src="docs/assets/img/overlay.webp" width="680" alt="F8 langas virš žaidimo: maršrutas, „Ką lootinti“ sąrašas ir Alloyed Plating paieškos zona mažame žemėlapyje."></p>
+<p align="center"><img src="https://dmzt.app/assets/img/overlay.webp" width="680" alt="F8 langas virš žaidimo: maršrutas, „Ką lootinti“ sąrašas ir Alloyed Plating paieškos zona mažame žemėlapyje."></p>
 
 ### Ginklų meta, komplektai ir Operator Traits
 - Season 1 ginklų lygiai nuo Meta iki D
