@@ -8,10 +8,10 @@
 <p align="center"><a href="README.md">English</a> · <strong>Lietuvių</strong> · <a href="https://dmzt.app/lt/">Svetainė</a></p>
 
 <p align="center">
-<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.25-beta.1/DMZTactical-Installer.exe"><img src="media/hajin-install-0-9-25-lt.svg" width="330" alt="Atsisiųsk DMZTactical-Installer.exe. Bandomoji versija 0.9.25-beta.1, Windows x64."></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.26-beta.1/DMZTactical-Installer.exe"><img src="media/hajin-install-0-9-26-lt.svg" width="330" alt="Atsisiųsk DMZTactical-Installer.exe. Bandomoji versija 0.9.26-beta.1, Windows x64."></a>
 <a href="https://discord.gg/PzCZNqmybB"><img src="media/hajin-community-r2-lt.svg" width="330" alt="Prisijunk prie DMZ Tactical bendruomenės Discord serveryje: pasiūlymai ir naujienos."></a>
 <br>
-<a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.25-beta.1"><img src="media/hajin-r3-notes-lt.svg" width="330" alt="Kas naujo: šios versijos pakeitimai GitHub svetainėje."></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.26-beta.1"><img src="media/hajin-r3-notes-lt.svg" width="330" alt="Kas naujo: šios versijos pakeitimai GitHub svetainėje."></a>
 <a href="#duk"><img src="media/hajin-r4-faq-button-lt.svg" width="330" alt="DUK: saugumas, kaina, konsolės ir kita."></a>
 </p>
 
@@ -54,7 +54,7 @@
 
 ## Nuo ko pradėti
 
-1. **Įdiek.** Atsisiųsk [DMZTactical-Installer.exe](https://github.com/DMZTactical/DMZT/releases/download/v0.9.25-beta.1/DMZTactical-Installer.exe) ir paleisk.
+1. **Įdiek.** Atsisiųsk [DMZTactical-Installer.exe](https://github.com/DMZTactical/DMZT/releases/download/v0.9.26-beta.1/DMZTactical-Installer.exe) ir paleisk.
 2. **Surask.** Ieškok rakto, daikto, vietovės ar langelio.
 3. **Spausk F8.** Žaidime nustatyk Borderless arba Windowed režimą ir reido metu paspausk F8.
 
@@ -85,8 +85,8 @@ Atverk Terminal aplanke su diegimo failu ir paleisk:
 Get-FileHash .\DMZTactical-Installer.exe | Format-List
 ```
 
-Suma turi būti `1B7D1B28EEC404D0959945EB53041FF61A6A4107746FADE002B0EFEB154D51A9`.
-[SHA256SUMS.txt](https://github.com/DMZTactical/DMZT/releases/download/v0.9.25-beta.1/SHA256SUMS.txt) · [VirusTotal ataskaita](https://www.virustotal.com/gui/file/1b7d1b28eec404d0959945eb53041ff61a6a4107746fade002b0efeb154d51a9)
+Suma turi būti `A87395F46A178C87E3D4F37677968569DCE7CED2FD9D6CC5A0AA3613EA193E13`.
+[SHA256SUMS.txt](https://github.com/DMZTactical/DMZT/releases/download/v0.9.26-beta.1/SHA256SUMS.txt) · [VirusTotal ataskaita](https://www.virustotal.com/gui/file/a87395f46a178c87e3d4f37677968569dce7ced2fd9d6cc5a0aa3613ea193e13)
 
 Diegimo failas dar neturi skaitmeninio parašo, todėl Windows SmartScreen ar kai kurios antivirusinės programos gali įspėti. Atnaujinimai tikrinami pagal pasirašytą sąrašą ir kontrolines sumas.
 
