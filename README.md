@@ -71,8 +71,8 @@
 ## What's next
 
 <picture>
-<source media="(max-width: 600px)" srcset="media/hajin-roadmap-1-0-r5-mobile-en.jpg">
-<img src="media/hajin-roadmap-1-0-r5-en.jpg" width="100%" alt="Roadmap to 1.0, drawn as a raid route on the Hajin map from infil to exfil. 0.9.2 Weapon Builder: build your own weapons, Gunsmith prices, Season 1 weapons. 0.9.3 Squad search: one queue for the app, F8 and Discord; Duo or Trio formed for you; old and new Activision IDs. 0.9.4 Mac: DMZ Tactical on macOS, a code-signed installer and smaller updates. 0.9.5 One account: plans and lists on every PC, the same account on dmzt.app, operators and traits saved. 0.9.6 Assistant: loadout slots so you forget nothing, grab reminders in F8, and what to do next. 0.9.7 Smart raid: a route built for your items, an exfil clock and a place card in F8. 0.9.8 FOB: a stash advisor for what to sell or keep, operator MIA cost and Prestige. 0.9.9 Squad: a live shared raid plan and who carries what. 0.9.10 Live intel: live reports from players and Hot Zones from real raids. 1.0 Full release for Windows and Mac with the full assistant. Plans are subject to change.">
+<source media="(max-width: 600px)" srcset="media/hajin-roadmap-1-0-r6-mobile-en.jpg">
+<img src="media/hajin-roadmap-1-0-r6-en.jpg" width="100%" alt="Roadmap to 1.0, drawn as a raid route on the Hajin map from infil to exfil. 0.9.2 Weapon Builder: build your own weapons, Gunsmith prices, Season 1 weapons. 0.9.3 Squad search: one queue for the app, F8 and Discord; Duo or Trio formed for you; old and new Activision IDs. 0.9.4 Mac: DMZ Tactical on macOS, a code-signed installer and smaller updates. 0.9.5 One account: plans and lists on every PC, the same account on dmzt.app, operators and traits saved. 0.9.6 Assistant: loadout slots so you forget nothing, grab reminders in F8, and what to do next. 0.9.7 Smart raid: a route built for your items, an exfil clock and a place card in F8. 0.9.8 FOB: a stash advisor for what to sell or keep, operator MIA cost and Prestige. 0.9.9 Squad: a live shared raid plan and who carries what. 0.9.10 Live intel: live reports from players and Hot Zones from real raids. 1.0 Full release for Windows and Mac with the full assistant. Plans are subject to change.">
 </picture>
 
 <p align="center">Follow progress on <a href="https://discord.gg/PzCZNqmybB">Discord</a>.</p>
@@ -108,7 +108,7 @@ Yes, on a Windows PC next to your console. The F8 overlay needs the game on the 
 No. You enter item counts yourself.
 
 **Is there a Mac version?**
-Not yet. Mac is next on the roadmap (0.9.4), and 1.0 will support Windows and Mac.
+Not yet. Mac is what we are working on now (roadmap 0.9.4), and 1.0 will support Windows and Mac.
 
 **Which languages are supported?**
 English and Lithuanian. Map, item and location names stay as they appear in the game.

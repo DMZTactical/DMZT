@@ -71,8 +71,8 @@
 ## Kas toliau
 
 <picture>
-<source media="(max-width: 600px)" srcset="media/hajin-roadmap-1-0-r5-mobile-lt.jpg">
-<img src="media/hajin-roadmap-1-0-r5-lt.jpg" width="100%" alt="Planas iki 1.0, nupieštas kaip reido maršrutas Hajin žemėlapyje nuo infil iki exfil. 0.9.2 Weapon Builder: susidėk pats ginklą, Gunsmith kainos, Season 1 ginklai. 0.9.3 Komandos paieška: viena eilė programai, F8 ir Discord; Duo ar Trio sudarome už tave; seni ir nauji Activision ID. 0.9.4 Mac: DMZ Tactical macOS kompiuteriuose, diegiklis su kodo parašu ir mažesni atnaujinimai. 0.9.5 Viena paskyra: planai ir sąrašai visuose kompiuteriuose, ta pati paskyra dmzt.app, išsaugoti operatoriai ir bruožai. 0.9.6 Pagalbininkas: komplektas, kad nieko nepamirštum, priminimai paimti F8 lange ir „Kas toliau?“. 0.9.7 Protingas reidas: maršrutas tavo daiktams, išėjimų laikrodis ir vietos kortelė F8 lange. 0.9.8 FOB: Stash patarėjas, ką parduoti ar pasilikti, operatorių MIA kaina ir Prestige. 0.9.9 Komanda: bendras gyvas reido planas ir kas ką neša. 0.9.10 Gyva žvalgyba: gyvi žaidėjų pranešimai ir Hot Zones iš tikrų reidų. 1.0 Pilna versija Windows ir Mac su visu pagalbininku. Planai gali keistis.">
+<source media="(max-width: 600px)" srcset="media/hajin-roadmap-1-0-r6-mobile-lt.jpg">
+<img src="media/hajin-roadmap-1-0-r6-lt.jpg" width="100%" alt="Planas iki 1.0, nupieštas kaip reido maršrutas Hajin žemėlapyje nuo infil iki exfil. 0.9.2 Weapon Builder: susidėk pats ginklą, Gunsmith kainos, Season 1 ginklai. 0.9.3 Komandos paieška: viena eilė programai, F8 ir Discord; Duo ar Trio sudarome už tave; seni ir nauji Activision ID. 0.9.4 Mac: DMZ Tactical macOS kompiuteriuose, diegiklis su kodo parašu ir mažesni atnaujinimai. 0.9.5 Viena paskyra: planai ir sąrašai visuose kompiuteriuose, ta pati paskyra dmzt.app, išsaugoti operatoriai ir bruožai. 0.9.6 Pagalbininkas: komplektas, kad nieko nepamirštum, priminimai paimti F8 lange ir „Kas toliau?“. 0.9.7 Protingas reidas: maršrutas tavo daiktams, išėjimų laikrodis ir vietos kortelė F8 lange. 0.9.8 FOB: Stash patarėjas, ką parduoti ar pasilikti, operatorių MIA kaina ir Prestige. 0.9.9 Komanda: bendras gyvas reido planas ir kas ką neša. 0.9.10 Gyva žvalgyba: gyvi žaidėjų pranešimai ir Hot Zones iš tikrų reidų. 1.0 Pilna versija Windows ir Mac su visu pagalbininku. Planai gali keistis.">
 </picture>
 
 <p align="center">Naujienos – <a href="https://discord.gg/PzCZNqmybB">Discord serveryje</a>.</p>
@@ -108,7 +108,7 @@ Taip, Windows kompiuteryje šalia konsolės. Langui virš žaidimo reikia žaidi
 Ne. Kiekius įvedi pats.
 
 **Ar bus Mac versija?**
-Dar ne. Mac yra kitas roadmap'o etapas (0.9.4), o 1.0 veiks Windows ir Mac.
+Dar ne. Mac versiją kuriame dabar (roadmap'o 0.9.4), o 1.0 veiks Windows ir Mac.
 
 **Kokios kalbos palaikomos?**
 Lietuvių ir anglų. Žemėlapių, daiktų ir vietovių pavadinimai rodomi taip, kaip žaidime.
