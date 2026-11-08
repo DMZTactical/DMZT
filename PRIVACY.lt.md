@@ -1,6 +1,6 @@
 # DMZ Tactical privatumo politika
 
-Atnaujinta: 2026 m. lapkričio 6 d. · [English](PRIVACY.md)
+Atnaujinta: 2026 m. lapkričio 8 d. · [English](PRIVACY.md)
 
 DMZ Tactical yra nepriklausoma nemokama Call of Duty DMZ pagalbinė programa. Čia aprašyta, kokius duomenis tvarko programa ir mūsų Discord serveris, kodėl ir kaip juos ištrinti.
 
@@ -10,7 +10,7 @@ Kontaktas privatumo klausimais: **dmztacticaltool@gmail.com**
 
 * Paskyros nereikia. Žemėlapis, planai, daiktų sąrašai ir nustatymai lieka tavo kompiuteryje.
 * Nei programoje, nei svetainėje nėra reklamų ir analitikos.
-* Komandos paieška neprivaloma. Kiti žaidėjai mato tavo Activision ID, žaidimo stilių ir portretą tik tada, kai abu ieškote ta pačia kalba.
+* Komandos paieška neprivaloma. Tavo Activision ID, žaidimo stilių ir portretą mato tik žaidėjai, kuriuos serveris įtraukia į tavo komandą.
 * DMZ Tactical niekada neskaito žaidimo failų, atminties ar inventoriaus.
 * Paskyrą programoje gali ištrinti bet kada.
 
@@ -28,9 +28,11 @@ Paskyra neprivaloma: jos reikia tik komandos paieškai. Prisijungi per Discord, 
 
 * **Iš Discord:** Discord naudotojo ID, vardą, avatarą ir el. pašto adresą. Mūsų prisijungimo paslauga el. pašto adresą iš Discord gauna kiekvieną kartą, kai prisijungi per Discord. Jo niekam nerodome ir laiškų juo nesiunčiame.
 * **Operatoriaus profilį:** Activision ID, portretą, žaidimo stilių, regioną, kalbą ir mikrofono pasirinkimą.
-* **Paieškos metu:** paieškos kalbą ir 60 sekundžių įrašą, kurį programa atnaujina, kol paieškos langas atidarytas.
+* **Paieškos metu:** kalbą, regioną, Duo ar Trio, Discord balso pasirinkimą ir eilės įrašą, kurį programa atnaujina, kol veikia.
+* **Tavo komandą:** jos narius, jų „Pasiruošęs“ atsakymus ir balso komandai nuorodą į balso kambarį mūsų Discord serveryje.
+* **Užblokuotus žaidėjus:** kad serveris jų daugiau nepriskirtų tavo komandai.
 
-Kiti žaidėjai mato tavo Activision ID, žaidimo stilių ir portretą tik tada, kai abu ieškote ta pačia kalba. Kai sustabdai paiešką ar uždarai langą, per 60 sekundžių dingsti iš jų rezultatų.
+Eilėje laukiantys žaidėjai vienas kito nemato. Kai serveris sudaro komandą, tavo Activision ID, žaidimo stilių ir portretą mato tik jos nariai. Kai sustabdai paiešką ar uždarai programą, eilės įrašas ištrinamas per 90 sekundžių.
 
 Activision ID tikriname tik pagal formatą. DMZ Tactical niekada neprisijungia prie tavo Activision paskyros.
 
@@ -43,7 +45,8 @@ Jei naudojiesi mūsų Discord serveriu, DMZ Tactical botas saugo:
 * Activision ID, kurį įvedi komanda `/activisionid` (botas jį perduoda į tavo paskyrą);
 * mainų skelbimus su Activision ID (prieš skelbiant botas įspėja, kad ID bus viešas);
 * mainų pranešimų nustatymus;
-* uždarytus pagalbos pokalbius su žinutėmis ir priedais privačiame archyve.
+* uždarytus pagalbos pokalbius su žinutėmis ir priedais privačiame archyve;
+* kai ieškai komandos komanda `/findsquad`: eilės įrašą toje pačioje komandos paieškos eilėje kaip programa ir privatų tavo komandos balso kambarį, kuris ištrinamas, kai lieka tuščias.
 
 ## Kur ir kodėl saugome
 
@@ -64,17 +67,19 @@ Duomenų neparduodame ir reklamai neperduodame.
 | Duomenys | Kiek saugome |
 | --- | --- |
 | Paskyra ir profilis | Kol juos ištrini |
-| Paieškos įrašai | 60 sekundžių po paskutinio atnaujinimo |
+| Eilės įrašai | 90 sekundžių po paskutinio programos atnaujinimo; `/findsquad` – iki 30 minučių |
+| Komandos ir jų balso kambarių nuorodos | 1 valandą |
+| Užblokuoti žaidėjai | Kol paprašai juos ištrinti |
 | Uždarytų pagalbos pokalbių archyvai | 12 mėnesių, paskui ištrinami |
 | Boto duomenų bazės atsarginės kopijos | Kasdien pakeičiamos naujomis, saugomos paskutinės trys |
 
 ## Svetainė
 
-[DMZ Tactical svetainė](https://dmztactical.github.io/DMZT/lt/) talpinama GitHub Pages. Ji nenaudoja slapukų, analitikos ir reklamų. Kad pateiktų puslapius, GitHub gali registruoti tavo IP adresą ([GitHub privatumo pareiškimas](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement)).
+[DMZ Tactical svetainė](https://dmzt.app/lt/) talpinama Cloudflare Pages. Joje nėra analitikos ir reklamų, ir ji pati nenustato slapukų. Cloudflare tvarko tavo IP adresą, kad pateiktų puslapius ir atsijotų botus, ir tam gali nustatyti būtiną apsaugos slapuką ([Cloudflare privatumo politika](https://www.cloudflare.com/privacypolicy/)).
 
 ## Kaip ištrinti duomenis
 
-* **Programoje:** atverk savo profilį ir pasirink **Ištrinti paskyrą**. Taip ištrinama paskyra, operatoriaus profilis, paieškos įrašas ir išsaugotas Activision ID.
+* **Programoje:** atverk **Paskyros nustatymus**, pasirink **Ištrinti paskyrą** ir patvirtink. Taip ištrinama paskyra, operatoriaus profilis ir išsaugotas Activision ID. Eilės įrašas baigiasi per 90 sekundžių. Kad ištrintume užblokuotų žaidėjų sąrašą, parašyk mums.
 * **Boto duomenis:** atidaryk pagalbos pokalbį komanda `/ticket` arba rašyk dmztacticaltool@gmail.com. Atsakome per 30 dienų.
 
 ## Tavo teisės
@@ -94,4 +99,4 @@ Apie politikos pakeitimus skelbiame svetainėje, šioje saugykloje ir Discord se
 
 ---
 
-[Svetainė](https://dmztactical.github.io/DMZT/lt/privacy/) · [Atsisiuntimo puslapis](README.lt.md) · [Discord](https://discord.gg/PzCZNqmybB)
+[Svetainė](https://dmzt.app/lt/privacy/) · [Atsisiuntimo puslapis](README.lt.md) · [Discord](https://discord.gg/PzCZNqmybB)

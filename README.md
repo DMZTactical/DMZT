@@ -99,7 +99,7 @@ Yes. It's free to download and use. There are no ads and no paid features.
 DMZ Tactical runs as a separate Windows app. It doesn't read or modify game files or memory, and it doesn't send input to the game. The F8 overlay is a standard window shown on top of the game. Activision hasn't reviewed DMZ Tactical, so we can't say how its security systems treat other apps.
 
 **Which maps does it cover?**
-Hajin and the X01 Exclusion Zone. X01 Black Site floor plans are in progress.
+Hajin and the X01 Exclusion Zone, with both X01 Black Site floor plans.
 
 **Does it work with PlayStation or Xbox?**
 Yes, on a Windows PC next to your console. The F8 overlay needs the game on the same PC.
@@ -108,7 +108,7 @@ Yes, on a Windows PC next to your console. The F8 overlay needs the game on the 
 No. You enter item counts yourself.
 
 **Is there a Mac version?**
-Yes, a macOS version is planned. The first macOS test build is planned for 0.9.6, and 1.0 will support Windows and Mac.
+Not yet. Mac is next on the roadmap (0.9.4), and 1.0 will support Windows and Mac.
 
 **Which languages are supported?**
 English and Lithuanian. Map, item and location names stay as they appear in the game.

@@ -1,6 +1,6 @@
 # DMZ Tactical privacy policy
 
-Last updated: 6 November 2026 · [Lietuviškai](PRIVACY.lt.md)
+Last updated: 8 November 2026 · [Lietuviškai](PRIVACY.lt.md)
 
 DMZ Tactical is an independent, free companion app for Call of Duty DMZ. This policy explains what data the app and our Discord server handle, why, and how to remove it.
 
@@ -10,7 +10,7 @@ Contact for privacy requests: **dmztacticaltool@gmail.com**
 
 * No account is needed. The map, plans, loot lists and settings stay on your PC.
 * There are no ads and no analytics in the app or on the website.
-* Squad search is optional. Other players see your Activision ID, playstyle and portrait only while you both search in the same language.
+* Squad search is optional. Only the players the server puts in your squad see your Activision ID, playstyle and portrait.
 * DMZ Tactical never reads game files, game memory or your inventory.
 * You can delete your account in the app at any time.
 
@@ -28,9 +28,11 @@ An account is optional and only needed for squad search. You sign in with Discor
 
 * **From Discord:** your Discord user ID, username, avatar and email address. Discord shares the email address at every Discord sign-in through our sign-in provider. We don't show it to anyone or use it to contact you.
 * **Your operator profile:** Activision ID, portrait choice, playstyle, region, language and microphone preference.
-* **While you search:** your search language and a 60-second entry that the app renews while the search window is open.
+* **While you search:** your language, region, Duo or Trio, Discord voice choice and a queue entry that the app renews while it is running.
+* **Your squad:** its members, their Ready answers and, for voice squads, a link to the voice channel on our Discord server.
+* **Players you block:** so the server does not put them in your squad again.
 
-Other players see your Activision ID, playstyle and portrait only while both of you are searching in the same language. When you stop the search or close the window, you leave their results within 60 seconds.
+Players in the queue do not see each other. When the server forms a squad, only its members see your Activision ID, playstyle and portrait. When you stop searching or close the app, your queue entry is removed within 90 seconds.
 
 We check the Activision ID format only. DMZ Tactical never signs in to your Activision account.
 
@@ -43,7 +45,8 @@ If you use our Discord server, the DMZ Tactical bot stores:
 * the Activision ID you enter with `/activisionid`, which it syncs to your account;
 * marketplace listings, including your Activision ID (the bot tells you it will be public before you post);
 * trade alert settings;
-* closed support tickets, including messages and attachments, in a private archive.
+* closed support tickets, including messages and attachments, in a private archive;
+* while you queue with `/findsquad`: your queue entry in the same squad queue as the app, and a private voice channel for your squad that is removed once it is empty.
 
 ## Where data is stored and why
 
@@ -64,17 +67,19 @@ We don't sell data or share it for advertising.
 | Data | Kept |
 | --- | --- |
 | Account and profile | Until you delete them |
-| Search entries | Visible for 60 seconds after the last renewal |
+| Queue entries | 90 seconds after the app last renewed them; up to 30 minutes for `/findsquad` |
+| Squads and their voice channel links | 1 hour |
+| Blocked players | Until you ask us to remove them |
 | Closed ticket archives | 12 months, then deleted |
 | Bot database backups | Replaced daily; the last three copies are kept |
 
 ## This website
 
-The [DMZ Tactical website](https://dmztactical.github.io/DMZT/) is hosted on GitHub Pages. It uses no cookies, analytics or ads. GitHub may log your IP address to deliver the pages ([GitHub Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement)).
+The [DMZ Tactical website](https://dmzt.app/) is hosted on Cloudflare Pages. It has no analytics or ads and sets no cookies of its own. Cloudflare processes your IP address to deliver the pages and filter bots, and it may set a strictly necessary security cookie for that ([Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/)).
 
 ## Delete your data
 
-* **In the app:** open your profile and choose **Delete account**. This removes your account, operator profile, search entry and stored Activision ID.
+* **In the app:** open **Account settings**, choose **Delete account** and confirm. This removes your account, operator profile and stored Activision ID. Your queue entry ends within 90 seconds. To remove your list of blocked players, email us.
 * **Discord bot data:** open a ticket with `/ticket` or email dmztacticaltool@gmail.com. We answer within 30 days.
 
 ## Your rights
@@ -94,4 +99,4 @@ We publish changes to this policy on the website, in this repository and in our 
 
 ---
 
-[Website](https://dmztactical.github.io/DMZT/privacy/) · [Download page](README.md) · [Discord](https://discord.gg/PzCZNqmybB)
+[Website](https://dmzt.app/privacy/) · [Download page](README.md) · [Discord](https://discord.gg/PzCZNqmybB)

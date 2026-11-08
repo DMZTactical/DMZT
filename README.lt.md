@@ -99,7 +99,7 @@ Taip. Ją galima atsisiųsti ir naudoti nemokamai. Nėra reklamų ir mokamų fun
 DMZ Tactical veikia kaip atskira Windows programa. Ji neskaito ir nekeičia žaidimo failų ar atminties ir nesiunčia žaidimui komandų. F8 langas yra įprastas Windows langas virš žaidimo. Activision DMZ Tactical neperžiūrėjo, todėl negalime pasakyti, kaip jų apsaugos sistemos vertina kitas programas.
 
 **Kokie žemėlapiai yra programoje?**
-Hajin ir X01 Exclusion Zone. Šiuo metu kuriami X01 Black Site aukštų planai.
+Hajin ir X01 Exclusion Zone su abiem X01 Black Site aukštų planais.
 
 **Ar programa tinka PlayStation ir Xbox žaidėjams?**
 Taip, Windows kompiuteryje šalia konsolės. Langui virš žaidimo reikia žaidimo tame pačiame kompiuteryje.
@@ -108,7 +108,7 @@ Taip, Windows kompiuteryje šalia konsolės. Langui virš žaidimo reikia žaidi
 Ne. Kiekius įvedi pats.
 
 **Ar bus Mac versija?**
-Taip. Pirmąją bandomąją macOS versiją planuojame 0.9.6 versijoje, o 1.0 veiks Windows ir Mac.
+Dar ne. Mac yra kitas roadmap'o etapas (0.9.4), o 1.0 veiks Windows ir Mac.
 
 **Kokios kalbos palaikomos?**
 Lietuvių ir anglų. Žemėlapių, daiktų ir vietovių pavadinimai rodomi taip, kaip žaidime.
