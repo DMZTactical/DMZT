@@ -9,7 +9,7 @@ Kontaktas privatumo klausimais: **dmztacticaltool@gmail.com**
 ## Trumpai
 
 * Paskyros nereikia. Žemėlapis, planai, daiktų sąrašai ir nustatymai lieka tavo kompiuteryje.
-* Nei programoje, nei svetainėje nėra reklamų ir analitikos.
+* Reklamų nėra. Programa analitikos nesiunčia, nebent Nustatymuose įjungi **Anoniminę statistiką** (pagal nutylėjimą išjungta). Svetainėje jos nėra.
 * Komandos paieška neprivaloma. Tavo Activision ID, žaidimo stilių ir portretą mato tik žaidėjai, kuriuos serveris įtraukia į tavo komandą.
 * DMZ Tactical niekada neskaito žaidimo failų, atminties ar inventoriaus.
 * Paskyrą programoje gali ištrinti bet kada.
@@ -20,7 +20,17 @@ Kontaktas privatumo klausimais: **dmztacticaltool@gmail.com**
 
 Kad patikrintų ir atsisiųstų atnaujinimus, programa jungiasi prie GitHub. GitHub mato tavo IP adresą ([GitHub privatumo pareiškimas](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement)).
 
-DMZ Tactical neskaito ir nekeičia žaidimo failų, atminties ar inventoriaus. Programoje nėra analitikos ir reklamos.
+DMZ Tactical neskaito ir nekeičia žaidimo failų, atminties ar inventoriaus. Programoje nėra reklamos, ir ji nesiunčia nieko apie tai, kaip ja naudojiesi, nebent įjungi anoniminę statistiką.
+
+## Anoniminė statistika (neprivaloma)
+
+Pagal nutylėjimą išjungta. Jei programos Nustatymuose įjungi **Anoniminę statistiką**, Windows programa siunčia:
+
+* kelių žingsnių dienos sumas: programa paleista (skaičiuojama kartą per dieną), prisijungta, operatorius išsaugotas ar atmestas, prisijungta prie komandos paieškos, komanda sudaryta;
+* trumpus programos klaidų pranešimus, iš kurių prieš siunčiant išvalyti skaičiai, el. pašto adresai ir nuorodos;
+* programos versiją.
+
+Kartu nesaugomas joks žaidėjo, Discord ar Activision ID, diegimo identifikatorius ar IP adresas. Duomenys keliauja į Supabase Europos Sąjungoje ir padeda mums rasti klaidas (BDAR 6 straipsnio 1 dalies a punktas, tavo sutikimas). Nustatymuose gali ją bet kada išjungti; nuo tada daugiau niekas nesiunčiama.
 
 ## Su paskyra (komandos paieška)
 
@@ -54,6 +64,7 @@ Jei naudojiesi mūsų Discord serveriu, DMZ Tactical botas saugo:
 | Duomenys | Kur saugomi |
 | --- | --- |
 | Paskyros duomenys | [Supabase](https://supabase.com/privacy), Europos Sąjungoje |
+| Anoniminė statistika (jei įjungta) | [Supabase](https://supabase.com/privacy), Europos Sąjungoje |
 | Boto duomenys | Sparked Host, Paryžiuje, Prancūzijoje |
 
 Duomenis naudojame:
@@ -72,6 +83,7 @@ Duomenų neparduodame ir reklamai neperduodame.
 | Komandos ir jų balso kambarių nuorodos | 1 valandą |
 | Užblokuoti žaidėjai | Kol ištrini paskyrą |
 | Pranešimai apie komandos narius | 30 dienų |
+| Anoniminė statistika | 90 dienų |
 | Uždarytų pagalbos pokalbių archyvai | 12 mėnesių, paskui ištrinami |
 | Boto duomenų bazės atsarginės kopijos | Kasdien pakeičiamos naujomis, saugomos paskutinės trys |
 

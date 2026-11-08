@@ -9,7 +9,7 @@ Contact for privacy requests: **dmztacticaltool@gmail.com**
 ## Summary
 
 * No account is needed. The map, plans, loot lists and settings stay on your PC.
-* There are no ads and no analytics in the app or on the website.
+* There are no ads. The app sends no analytics unless you turn on **Anonymous statistics** in Settings (off by default). The website has none.
 * Squad search is optional. Only the players the server puts in your squad see your Activision ID, playstyle and portrait.
 * DMZ Tactical never reads game files, game memory or your inventory.
 * You can delete your account in the app at any time.
@@ -20,7 +20,17 @@ The map, raid plans, loot lists, weapon builds and settings are stored only on y
 
 To check for and download updates, the app contacts GitHub. GitHub receives your IP address as part of that request ([GitHub Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement)).
 
-DMZ Tactical does not read or change game files, game memory or your inventory, and it has no analytics or ads.
+DMZ Tactical does not read or change game files, game memory or your inventory. It has no ads, and it sends nothing about how you use it unless you turn on anonymous statistics.
+
+## Anonymous statistics (optional)
+
+Off by default. If you turn on **Anonymous statistics** in the app's Settings, the Windows app sends:
+
+* daily totals of a few steps: the app started (counted once a day), signed in, operator saved or refused, squad search joined, squad formed;
+* short error messages from the app, with numbers, email addresses and links removed before they are sent;
+* the app version.
+
+No player, Discord or Activision ID, no install ID and no IP address is stored with it. It goes to Supabase in the EU and helps us find bugs (GDPR Art. 6(1)(a), your consent). Turn it off in Settings at any time; nothing more is sent after that.
 
 ## With an account (squad search)
 
@@ -54,6 +64,7 @@ If you use our Discord server, the DMZ Tactical bot stores:
 | Data | Stored with |
 | --- | --- |
 | Account data | [Supabase](https://supabase.com/privacy), in the EU |
+| Anonymous statistics (if turned on) | [Supabase](https://supabase.com/privacy), in the EU |
 | Bot data | Sparked Host, in Paris, France |
 
 We use your data:
@@ -72,6 +83,7 @@ We don't sell data or share it for advertising.
 | Squads and their voice channel links | 1 hour |
 | Blocked players | Until you delete your account |
 | Reports about squad members | 30 days |
+| Anonymous statistics | 90 days |
 | Closed ticket archives | 12 months, then deleted |
 | Bot database backups | Replaced daily; the last three copies are kept |
 
