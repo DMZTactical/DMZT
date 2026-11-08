@@ -31,6 +31,7 @@ An account is optional and only needed for squad search. You sign in with Discor
 * **While you search:** your language, region, Duo or Trio, Discord voice choice and a queue entry that the app renews while it is running.
 * **Your squad:** its members, their Ready answers and, for voice squads, a link to the voice channel on our Discord server.
 * **Players you block:** so the server does not put them in your squad again.
+* **Reports you send:** the reason you chose, your and the reported player's Discord user IDs, their Activision ID and the squad. Our Discord moderators see the report in a private staff channel.
 
 Players in the queue do not see each other. When the server forms a squad, only its members see your Activision ID, playstyle and portrait. When you stop searching or close the app, your queue entry is removed within 90 seconds.
 
@@ -70,6 +71,7 @@ We don't sell data or share it for advertising.
 | Queue entries | 90 seconds after the app last renewed them; up to 30 minutes for `/findsquad` |
 | Squads and their voice channel links | 1 hour |
 | Blocked players | Until you delete your account |
+| Reports about squad members | 30 days |
 | Closed ticket archives | 12 months, then deleted |
 | Bot database backups | Replaced daily; the last three copies are kept |
 

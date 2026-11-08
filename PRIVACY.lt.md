@@ -31,6 +31,7 @@ Paskyra neprivaloma: jos reikia tik komandos paieškai. Prisijungi per Discord, 
 * **Paieškos metu:** kalbą, regioną, Duo ar Trio, Discord balso pasirinkimą ir eilės įrašą, kurį programa atnaujina, kol veikia.
 * **Tavo komandą:** jos narius, jų „Pasiruošęs“ atsakymus ir balso komandai nuorodą į balso kambarį mūsų Discord serveryje.
 * **Užblokuotus žaidėjus:** kad serveris jų daugiau nepriskirtų tavo komandai.
+* **Tavo pranešimus:** pasirinktą priežastį, tavo ir praneštojo žaidėjo Discord naudotojo ID, jo Activision ID ir komandą. Pranešimą mato mūsų Discord moderatoriai privačiame kanale.
 
 Eilėje laukiantys žaidėjai vienas kito nemato. Kai serveris sudaro komandą, tavo Activision ID, žaidimo stilių ir portretą mato tik jos nariai. Kai sustabdai paiešką ar uždarai programą, eilės įrašas ištrinamas per 90 sekundžių.
 
@@ -70,6 +71,7 @@ Duomenų neparduodame ir reklamai neperduodame.
 | Eilės įrašai | 90 sekundžių po paskutinio programos atnaujinimo; `/findsquad` – iki 30 minučių |
 | Komandos ir jų balso kambarių nuorodos | 1 valandą |
 | Užblokuoti žaidėjai | Kol ištrini paskyrą |
+| Pranešimai apie komandos narius | 30 dienų |
 | Uždarytų pagalbos pokalbių archyvai | 12 mėnesių, paskui ištrinami |
 | Boto duomenų bazės atsarginės kopijos | Kasdien pakeičiamos naujomis, saugomos paskutinės trys |
 
