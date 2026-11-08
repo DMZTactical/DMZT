@@ -69,7 +69,7 @@ We don't sell data or share it for advertising.
 | Account and profile | Until you delete them |
 | Queue entries | 90 seconds after the app last renewed them; up to 30 minutes for `/findsquad` |
 | Squads and their voice channel links | 1 hour |
-| Blocked players | Until you ask us to remove them |
+| Blocked players | Until you delete your account |
 | Closed ticket archives | 12 months, then deleted |
 | Bot database backups | Replaced daily; the last three copies are kept |
 
@@ -79,7 +79,7 @@ The [DMZ Tactical website](https://dmzt.app/) is hosted on Cloudflare Pages. It 
 
 ## Delete your data
 
-* **In the app:** open **Account settings**, choose **Delete account** and confirm. This removes your account, operator profile and stored Activision ID. Your queue entry ends within 90 seconds. To remove your list of blocked players, email us.
+* **In the app:** open **Account settings**, choose **Delete account** and confirm. This removes your account, operator profile, stored Activision ID, queue entry and the players you blocked.
 * **Discord bot data:** open a ticket with `/ticket` or email dmztacticaltool@gmail.com. We answer within 30 days.
 
 ## Your rights

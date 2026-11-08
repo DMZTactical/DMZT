@@ -69,7 +69,7 @@ Duomenų neparduodame ir reklamai neperduodame.
 | Paskyra ir profilis | Kol juos ištrini |
 | Eilės įrašai | 90 sekundžių po paskutinio programos atnaujinimo; `/findsquad` – iki 30 minučių |
 | Komandos ir jų balso kambarių nuorodos | 1 valandą |
-| Užblokuoti žaidėjai | Kol paprašai juos ištrinti |
+| Užblokuoti žaidėjai | Kol ištrini paskyrą |
 | Uždarytų pagalbos pokalbių archyvai | 12 mėnesių, paskui ištrinami |
 | Boto duomenų bazės atsarginės kopijos | Kasdien pakeičiamos naujomis, saugomos paskutinės trys |
 
@@ -79,7 +79,7 @@ Duomenų neparduodame ir reklamai neperduodame.
 
 ## Kaip ištrinti duomenis
 
-* **Programoje:** atverk **Paskyros nustatymus**, pasirink **Ištrinti paskyrą** ir patvirtink. Taip ištrinama paskyra, operatoriaus profilis ir išsaugotas Activision ID. Eilės įrašas baigiasi per 90 sekundžių. Kad ištrintume užblokuotų žaidėjų sąrašą, parašyk mums.
+* **Programoje:** atverk **Paskyros nustatymus**, pasirink **Ištrinti paskyrą** ir patvirtink. Taip ištrinama paskyra, operatoriaus profilis, išsaugotas Activision ID, eilės įrašas ir tavo užblokuoti žaidėjai.
 * **Boto duomenis:** atidaryk pagalbos pokalbį komanda `/ticket` arba rašyk dmztacticaltool@gmail.com. Atsakome per 30 dienų.
 
 ## Tavo teisės
