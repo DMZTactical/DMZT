@@ -8,10 +8,10 @@
 <p align="center"><strong>English</strong> · <a href="README.lt.md">Lietuvių</a> · <a href="https://dmzt.app/">Website</a></p>
 
 <p align="center">
-<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.35-beta.1/DMZTactical-Installer.exe"><img src="media/hajin-install-0-9-35-en.svg" width="330" alt="Download DMZTactical-Installer.exe. Beta 0.9.35-beta.1 for Windows x64."></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.36-beta.1/DMZTactical-Installer.exe"><img src="media/hajin-install-0-9-36-en.svg" width="330" alt="Download DMZTactical-Installer.exe. Beta 0.9.36-beta.1 for Windows x64."></a>
 <a href="https://discord.gg/PzCZNqmybB"><img src="media/hajin-community-r2-en.svg" width="330" alt="Join the DMZ Tactical community on Discord for feedback and news."></a>
 <br>
-<a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.35-beta.1"><img src="media/hajin-r3-notes-en.svg" width="330" alt="Release notes on GitHub: what's new in this beta."></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.36-beta.1"><img src="media/hajin-r3-notes-en.svg" width="330" alt="Release notes on GitHub: what's new in this beta."></a>
 <a href="#faq"><img src="media/hajin-r4-faq-button-en.svg" width="330" alt="FAQ: safety, price, consoles and more."></a>
 </p>
 
@@ -54,7 +54,7 @@
 
 ## Get started
 
-1. **Install.** Download [DMZTactical-Installer.exe](https://github.com/DMZTactical/DMZT/releases/download/v0.9.35-beta.1/DMZTactical-Installer.exe) and run it.
+1. **Install.** Download [DMZTactical-Installer.exe](https://github.com/DMZTactical/DMZT/releases/download/v0.9.36-beta.1/DMZTactical-Installer.exe) and run it.
 2. **Find.** Search for a key, an item, a location or a grid square.
 3. **Press F8.** Set the game to Borderless or Windowed mode, then press F8 in a raid.
 
@@ -85,8 +85,8 @@ Open Terminal in the folder with the installer and run:
 Get-FileHash .\DMZTactical-Installer.exe | Format-List
 ```
 
-The hash must match `C569BF65EAE47897A78D31295F5F718A08E308314EA7A265F7D29B65EA77198E`.
-[SHA256SUMS.txt](https://github.com/DMZTactical/DMZT/releases/download/v0.9.35-beta.1/SHA256SUMS.txt) · [VirusTotal report](https://www.virustotal.com/gui/file/c569bf65eae47897a78d31295f5f718a08e308314ea7a265f7d29b65ea77198e)
+The hash must match `BA36D7A16022491C929FB537BDD4FCBAFA6707B1055739ADF24AC66A4F9D679D`.
+[SHA256SUMS.txt](https://github.com/DMZTactical/DMZT/releases/download/v0.9.36-beta.1/SHA256SUMS.txt) · [VirusTotal report](https://www.virustotal.com/gui/file/ba36d7a16022491c929fb537bdd4fcbafa6707b1055739adf24ac66a4f9d679d)
 
 The installer isn't code-signed yet, so Windows SmartScreen or some antivirus apps may warn about it. Updates are verified with a signed manifest and file hashes.
 
