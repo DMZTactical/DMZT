@@ -1,6 +1,6 @@
 # DMZ Tactical privacy policy
 
-Last updated: 8 November 2026 · [Lietuviškai](PRIVACY.lt.md)
+Last updated: 10 November 2026 · [Lietuviškai](PRIVACY.lt.md)
 
 DMZ Tactical is an independent, free companion app for Call of Duty DMZ. This policy explains what data the app and our Discord server handle, why, and how to remove it.
 
@@ -19,6 +19,8 @@ Contact for privacy requests: **dmztacticaltool@gmail.com**
 The map, raid plans, loot lists, weapon builds and settings are stored only on your PC, in your Windows user profile. They are not sent to us.
 
 To check for and download updates, the app contacts GitHub. GitHub receives your IP address as part of that request ([GitHub Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement)).
+
+To get map, item and mission updates between app versions, the app downloads a signed data pack from dmzt.app, which is hosted on Cloudflare. Cloudflare receives your IP address as part of that request; the request carries no account, profile or plan data.
 
 DMZ Tactical does not read or change game files, game memory or your inventory. It has no ads, and it sends nothing about how you use it unless you turn on anonymous statistics.
 

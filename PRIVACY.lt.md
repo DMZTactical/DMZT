@@ -1,6 +1,6 @@
 # DMZ Tactical privatumo politika
 
-Atnaujinta: 2026 m. lapkričio 8 d. · [English](PRIVACY.md)
+Atnaujinta: 2026 m. lapkričio 10 d. · [English](PRIVACY.md)
 
 DMZ Tactical yra nepriklausoma nemokama Call of Duty DMZ pagalbinė programa. Čia aprašyta, kokius duomenis tvarko programa ir mūsų Discord serveris, kodėl ir kaip juos ištrinti.
 
@@ -19,6 +19,8 @@ Kontaktas privatumo klausimais: **dmztacticaltool@gmail.com**
 Žemėlapis, reido planai, daiktų sąrašai, ginklų komplektai ir nustatymai saugomi tik tavo kompiuteryje, Windows naudotojo profilyje. Jie mums nesiunčiami.
 
 Kad patikrintų ir atsisiųstų atnaujinimus, programa jungiasi prie GitHub. GitHub mato tavo IP adresą ([GitHub privatumo pareiškimas](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement)).
+
+Kad tarp programos versijų gautų žemėlapio, daiktų ir misijų atnaujinimus, programa atsisiunčia pasirašytą duomenų paketą iš dmzt.app, kurią talpina Cloudflare. Cloudflare mato tavo IP adresą; užklausoje nėra paskyros, profilio ar planų duomenų.
 
 DMZ Tactical neskaito ir nekeičia žaidimo failų, atminties ar inventoriaus. Programoje nėra reklamos, ir ji nesiunčia nieko apie tai, kaip ja naudojiesi, nebent įjungi anoniminę statistiką.
 
