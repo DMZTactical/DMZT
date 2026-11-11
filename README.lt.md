@@ -1,23 +1,23 @@
 <p align="center">
 <picture>
 <source media="(max-width: 600px)" srcset="media/hajin-r6-hero-mobile-lt.jpg">
-<img src="media/hajin-r6-hero-lt.jpg" width="100%" alt="DMZ Tactical: Hajin žemėlapis, daiktų paieška ir reido planas Call of Duty: Modern Warfare 4 DMZ žaidėjams. Nemokama Windows programa.">
+<img src="media/hajin-r6-hero-lt.jpg" width="100%" alt="DMZ Tactical: Hajin žemėlapis, daiktų paieška ir reido planas Call of Duty: Modern Warfare 4 DMZ žaidėjams. Nemokama programa Windows ir Mac kompiuteriams.">
 </picture>
 </p>
 
-<p align="center"><a href="README.md">English</a> · <strong>Lietuvių</strong> · <a href="https://dmzt.app/lt/">Svetainė</a></p>
+<p align="center"><a href="README.md">English</a> · <strong>Lietuvių</strong> · <a href="https://dmzt.app/lt/">Svetainė</a> · <a href="#duk">DUK</a></p>
 
 <p align="center">
-<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.39-beta.1/DMZT.APP-Installer.exe"><img src="media/hajin-install-0-9-39-lt.svg" width="330" alt="Atsisiųsk DMZT.APP-Installer.exe. Bandomoji versija 0.9.39-beta.1, Windows x64."></a>
-<a href="https://discord.gg/PzCZNqmybB"><img src="media/hajin-community-r2-lt.svg" width="330" alt="Prisijunk prie DMZ Tactical bendruomenės Discord serveryje: pasiūlymai ir naujienos."></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.40-beta.1/DMZT.APP-Installer.exe"><img src="media/hajin-install-0-9-40-lt.svg" width="330" alt="Atsisiųsk DMZT.APP-Installer.exe. Bandomoji versija 0.9.40-beta.1, Windows x64."></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.40-beta.1/DMZT.APP-0.9.40-beta.1-mac.dmg"><img src="media/hajin-mac-0-9-40-lt.svg" width="330" alt="Atsisiųsk Mac versiją. Bandomoji versija 0.9.40-beta.1, macOS 12 ar naujesnė, Apple silicon ir Intel."></a>
 <br>
-<a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.39-beta.1"><img src="media/hajin-r3-notes-lt.svg" width="330" alt="Kas naujo: šios versijos pakeitimai GitHub svetainėje."></a>
-<a href="#duk"><img src="media/hajin-r4-faq-button-lt.svg" width="330" alt="DUK: saugumas, kaina, konsolės ir kita."></a>
+<a href="https://discord.gg/PzCZNqmybB"><img src="media/hajin-community-r2-lt.svg" width="330" alt="Prisijunk prie DMZ Tactical bendruomenės Discord serveryje: pasiūlymai ir naujienos."></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.40-beta.1"><img src="media/hajin-r3-notes-lt.svg" width="330" alt="Kas naujo: šios versijos pakeitimai GitHub svetainėje."></a>
 </p>
 
 # DMZ Tactical – Hajin žemėlapis, daiktų paieška ir reido planas MW4 DMZ
 
-**DMZ Tactical** – nemokama pagalbinė Windows programa **Call of Duty: Modern Warfare 4 DMZ** žaidėjams. **Hajin** ir **X01** žemėlapyje rasi kiekvieną raktą, vietovę ir langelį, matysi, kur iškrenta daiktai, susiplanuosi reidą ir atversi jį žaidime paspaudęs **F8**. Žemėlapis veikia be interneto, paskyros nereikia.
+**DMZ Tactical** - nemokama pagalbinė programa **Call of Duty: Modern Warfare 4 DMZ** žaidėjams, Windows ir Mac kompiuteriams. **Hajin** ir **X01** žemėlapyje rasi kiekvieną raktą, vietovę ir langelį, matysi, kur iškrenta daiktai, susiplanuosi reidą ir Windows kompiuteryje atversi jį žaidime paspaudęs **F8**. Žemėlapis veikia be interneto, paskyros nereikia.
 
 <p align="center"><img src="https://dmzt.app/assets/img/app-map-lt.webp" width="100%" alt="Hajin žemėlapis DMZ Tactical programoje: raktų žymos pagal retumą, sunumeruotos vietovės ir pavojaus zonos."></p>
 
@@ -54,11 +54,13 @@
 
 ## Nuo ko pradėti
 
-1. **Įdiek.** Atsisiųsk [DMZT.APP-Installer.exe](https://github.com/DMZTactical/DMZT/releases/download/v0.9.39-beta.1/DMZT.APP-Installer.exe) ir paleisk.
+1. **Įdiek.** Atsisiųsk [DMZT.APP-Installer.exe](https://github.com/DMZTactical/DMZT/releases/download/v0.9.40-beta.1/DMZT.APP-Installer.exe) ir paleisk.
 2. **Surask.** Ieškok rakto, daikto, vietovės ar langelio.
 3. **Spausk F8.** Žaidime nustatyk Borderless arba Windowed režimą ir reido metu paspausk F8.
 
 **Jau naudoji bandomąją versiją?** Atverk Nustatymus ir pasirink **Tikrinti atnaujinimus**. Jei atnaujinimas nepasirodo, atsisiųsk diegimo failą ir paleisk jį. Planai ir nustatymai išlieka.
+
+**Naudoji Mac?** Atsisiųsk [DMZT.APP-0.9.40-beta.1-mac.dmg](https://github.com/DMZTactical/DMZT/releases/download/v0.9.40-beta.1/DMZT.APP-0.9.40-beta.1-mac.dmg), atverk jį ir nutempk DMZT į Applications. Pirmą kartą paleisk DMZT, pasirink Done, tada atverk System Settings, skiltį Privacy & Security, prie DMZT pasirink Open Anyway ir įvesk slaptažodį. Mac versijoje yra žemėlapis, planai, "Ką surinkti" ir X01; langas virš žaidimo (F8) veikia tik Windows.
 
 **Žemėlapis neįsikelia?** Įdiek [Microsoft Edge WebView2](https://developer.microsoft.com/microsoft-edge/webview2/#download) ir paleisk programą iš naujo.
 
@@ -67,12 +69,13 @@
 - Microsoft Edge WebView2
 - Interneto ryšys atsisiuntimui ir atnaujinimams
 - Langui virš žaidimo – Borderless arba Windowed režimas
+- Mac: macOS 12 ar naujesnė, Apple silicon arba Intel
 
 ## Kas toliau
 
 <picture>
-<source media="(max-width: 600px)" srcset="media/hajin-roadmap-1-0-r8-mobile-lt.jpg">
-<img src="media/hajin-roadmap-1-0-r8-lt.jpg" width="100%" alt="Planas iki 1.0, nupieštas kaip reido maršrutas Hajin žemėlapyje nuo infil iki exfil. 0.9.2 Weapon Builder: susidėk pats ginklą, Gunsmith kainos, Season 1 ginklai. 0.9.3 Komandos paieška: viena eilė programai, F8 ir Discord; Duo ar Trio sudarome už tave; seni ir nauji Activision ID. 0.9.4 Mac: DMZ Tactical macOS kompiuteriuose ir mažesni atnaujinimai. 0.9.5 Viena paskyra: planai ir sąrašai visuose kompiuteriuose, ta pati paskyra dmzt.app, išsaugoti operatoriai ir bruožai. 0.9.6 Pagalbininkas: komplektas, kad nieko nepamirštum, priminimai paimti F8 lange ir „Kas toliau?“. 0.9.7 Protingas reidas: maršrutas tavo daiktams, išėjimų laikrodis ir vietos kortelė F8 lange. 0.9.8 FOB: Stash patarėjas, ką parduoti ar pasilikti, operatorių MIA kaina ir Prestige. 0.9.9 Komanda: bendras gyvas reido planas ir kas ką neša. 0.9.10 Gyva žvalgyba: gyvi žaidėjų pranešimai ir Hot Zones iš tikrų reidų. 1.0 Pilna versija Windows ir Mac su kodo parašu pasirašytais diegikliais ir visu pagalbininku. Planai gali keistis.">
+<source media="(max-width: 600px)" srcset="media/hajin-roadmap-1-0-r9-mobile-lt.jpg">
+<img src="media/hajin-roadmap-1-0-r9-lt.jpg" width="100%" alt="Planas iki 1.0, nupieštas kaip reido maršrutas Hajin žemėlapyje nuo infil iki exfil. 0.9.2 Weapon Builder: susidėk pats ginklą, Gunsmith kainos, Season 1 ginklai. 0.9.3 Komandos paieška: viena eilė programai, F8 ir Discord; Duo ar Trio sudarome už tave; seni ir nauji Activision ID. 0.9.4 Mac: DMZ Tactical macOS kompiuteriuose ir mažesni atnaujinimai. 0.9.5 Viena paskyra: planai ir sąrašai visuose kompiuteriuose, ta pati paskyra dmzt.app, išsaugoti operatoriai ir bruožai. 0.9.6 Pagalbininkas: komplektas, kad nieko nepamirštum, priminimai paimti F8 lange ir „Kas toliau?“. 0.9.7 Protingas reidas: maršrutas tavo daiktams, išėjimų laikrodis ir vietos kortelė F8 lange. 0.9.8 FOB: Stash patarėjas, ką parduoti ar pasilikti, operatorių MIA kaina ir Prestige. 0.9.9 Komanda: bendras gyvas reido planas ir kas ką neša. 0.9.10 Gyva žvalgyba: gyvi žaidėjų pranešimai ir Hot Zones iš tikrų reidų. 1.0 Pilna versija Windows ir Mac su kodo parašu pasirašytais diegikliais ir visu pagalbininku. Planai gali keistis.">
 </picture>
 
 <p align="center">Naujienos – <a href="https://discord.gg/PzCZNqmybB">Discord serveryje</a>.</p>
@@ -85,10 +88,12 @@ Atverk Terminal aplanke su diegimo failu ir paleisk:
 Get-FileHash .\DMZT.APP-Installer.exe | Format-List
 ```
 
-Suma turi būti `6D0A129531BA438BEA5C0FA35DF7581FE8BBA9E37F44CFF5A9794617EA39C1B4`.
-[SHA256SUMS.txt](https://github.com/DMZTactical/DMZT/releases/download/v0.9.39-beta.1/SHA256SUMS.txt) · [VirusTotal ataskaita](https://www.virustotal.com/gui/file/6d0a129531ba438bea5c0fa35df7581fe8bba9e37f44cff5a9794617ea39c1b4)
+Suma turi būti `7C4462628C67EADBFFCDE8D780F8E54185523924E030FEBEE75CACDEAFAAAB20`.
+[SHA256SUMS.txt](https://github.com/DMZTactical/DMZT/releases/download/v0.9.40-beta.1/SHA256SUMS.txt) · [VirusTotal ataskaita](https://www.virustotal.com/gui/file/7c4462628c67eadbffcde8d780f8e54185523924e030febee75cacdeafaaab20)
 
-Diegimo failas dar neturi skaitmeninio parašo, todėl Windows SmartScreen ar kai kurios antivirusinės programos gali įspėti. Atnaujinimai tikrinami pagal pasirašytą sąrašą ir kontrolines sumas.
+Mac kompiuteryje Terminal lange paleisk `shasum -a 256 DMZT.APP-0.9.40-beta.1-mac.dmg`. Suma turi būti `E99BC5E0E4638A2FBD2607B9298A46171CEF1D3CC9A54884AA563C5BE74A76CF`.
+
+Diegimo failas dar neturi skaitmeninio parašo, todėl Windows SmartScreen ar kai kurios antivirusinės programos gali įspėti. Mac programa dar neturi Apple kūrėjo parašo, todėl macOS vieną kartą paprašo ją leisti. Atnaujinimai tikrinami pagal pasirašytą sąrašą ir kontrolines sumas.
 
 ## DUK
 
@@ -107,8 +112,8 @@ Taip, Windows kompiuteryje šalia konsolės. Langui virš žaidimo reikia žaidi
 **Ar programa mato mano inventorių?**
 Ne. Kiekius įvedi pats.
 
-**Ar bus Mac versija?**
-Dar ne. Mac versiją kuriame dabar (roadmap'o 0.9.4), o 1.0 veiks Windows ir Mac.
+**Ar yra Mac versija?**
+Taip, macOS 12 ar naujesnei, Apple silicon ir Intel kompiuteriams. Joje yra žemėlapis, planai, "Ką surinkti" ir X01. Langas virš žaidimo (F8) lieka Windows, kur veikia žaidimas.
 
 **Kokios kalbos palaikomos?**
 Lietuvių ir anglų. Žemėlapių, daiktų ir vietovių pavadinimai rodomi taip, kaip žaidime.
