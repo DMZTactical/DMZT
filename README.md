@@ -8,11 +8,11 @@
 <p align="center"><strong>English</strong> · <a href="README.lt.md">Lietuvių</a> · <a href="https://dmzt.app/">Website</a> · <a href="#faq">FAQ</a></p>
 
 <p align="center">
-<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.42-beta.1/DMZT.APP-Installer.exe"><img src="media/hajin-install-0-9-42-en.svg" width="330" alt="Download DMZT.APP-Installer.exe. Beta 0.9.42-beta.1 for Windows x64."></a>
-<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.42-beta.1/DMZT.APP-0.9.42-beta.1-mac.dmg"><img src="media/hajin-mac-0-9-42-en.svg" width="330" alt="Download for Mac. Beta 0.9.42-beta.1 for macOS 12 or later, Apple silicon and Intel."></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.43-beta.1/DMZT.APP-Installer.exe"><img src="media/hajin-install-0-9-43-en.svg" width="330" alt="Download DMZT.APP-Installer.exe. Beta 0.9.43-beta.1 for Windows x64."></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.43-beta.1/DMZT.APP-0.9.43-beta.1-mac.dmg"><img src="media/hajin-mac-0-9-43-en.svg" width="330" alt="Download for Mac. Beta 0.9.43-beta.1 for macOS 12 or later, Apple silicon and Intel."></a>
 <br>
 <a href="https://discord.gg/PzCZNqmybB"><img src="media/hajin-community-r2-en.svg" width="330" alt="Join the DMZ Tactical community on Discord for feedback and news."></a>
-<a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.42-beta.1"><img src="media/hajin-r3-notes-en.svg" width="330" alt="Release notes on GitHub: what's new in this beta."></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.43-beta.1"><img src="media/hajin-r3-notes-en.svg" width="330" alt="Release notes on GitHub: what's new in this beta."></a>
 </p>
 
 # DMZ Tactical – Hajin map, loot tracker and raid planner for MW4 DMZ
@@ -54,13 +54,13 @@
 
 ## Get started
 
-1. **Install.** Download [DMZT.APP-Installer.exe](https://github.com/DMZTactical/DMZT/releases/download/v0.9.42-beta.1/DMZT.APP-Installer.exe) and run it.
+1. **Install.** Download [DMZT.APP-Installer.exe](https://github.com/DMZTactical/DMZT/releases/download/v0.9.43-beta.1/DMZT.APP-Installer.exe) and run it.
 2. **Find.** Search for a key, an item, a location or a grid square.
 3. **Press F8.** Set the game to Borderless or Windowed mode, then press F8 in a raid.
 
 **Already using the beta?** Open Settings and choose **Check for updates**. If no update appears, download the installer above and run it. Your plans and settings stay.
 
-**On a Mac?** Download [DMZT.APP-0.9.42-beta.1-mac.dmg](https://github.com/DMZTactical/DMZT/releases/download/v0.9.42-beta.1/DMZT.APP-0.9.42-beta.1-mac.dmg), open it and drag DMZT onto Applications. The first time, open DMZT and choose Done, then open System Settings, Privacy & Security, choose Open Anyway next to DMZT and enter your password. The Mac version has the map, plans, the Loot List, X01, your profile and squad search; the F8 overlay is Windows only.
+**On a Mac?** Download [DMZT.APP-0.9.43-beta.1-mac.dmg](https://github.com/DMZTactical/DMZT/releases/download/v0.9.43-beta.1/DMZT.APP-0.9.43-beta.1-mac.dmg), open it and drag DMZT onto Applications. The first time, open DMZT and choose Done, then open System Settings, Privacy & Security, choose Open Anyway next to DMZT and enter your password. The Mac version has the map, plans, the Loot List, X01, your profile and squad search; the F8 overlay is Windows only.
 
 **Map not loading?** Install [Microsoft Edge WebView2](https://developer.microsoft.com/microsoft-edge/webview2/#download) and start the app again.
 
@@ -88,10 +88,10 @@ Open Terminal in the folder with the installer and run:
 Get-FileHash .\DMZT.APP-Installer.exe | Format-List
 ```
 
-The hash must match `48604D7FC3013C7CEA89234B9EF57E1AAEED4D3CA2AADDD4E109F0CDC4C48FFA`.
-[SHA256SUMS.txt](https://github.com/DMZTactical/DMZT/releases/download/v0.9.42-beta.1/SHA256SUMS.txt) · [VirusTotal report](https://www.virustotal.com/gui/file/48604d7fc3013c7cea89234b9ef57e1aaeed4d3ca2aaddd4e109f0cdc4c48ffa)
+The hash must match `33DEA6BE77D80ECE2486FD5B72855B37F3C033D18DABB5B1D7D813966B013579`.
+[SHA256SUMS.txt](https://github.com/DMZTactical/DMZT/releases/download/v0.9.43-beta.1/SHA256SUMS.txt) · [VirusTotal report](https://www.virustotal.com/gui/file/33dea6be77d80ece2486fd5b72855b37f3c033d18dabb5b1d7d813966b013579)
 
-On a Mac, run `shasum -a 256 DMZT.APP-0.9.42-beta.1-mac.dmg` in Terminal. The hash must match `494878F86F1AA18EDB403E69800C4BBC4D88F97DD321EF8F42EDF85DA16123CC`.
+On a Mac, run `shasum -a 256 DMZT.APP-0.9.43-beta.1-mac.dmg` in Terminal. The hash must match `55AB89A1971DE173C2F7B520029999F0D6A05745B8ADA94ED7A4035B03ACDC3C`.
 
 The installer isn't code-signed yet, so Windows SmartScreen or some antivirus apps may warn about it. The Mac app has no Apple developer signature yet, so macOS asks you once to allow it. Updates are verified with a signed manifest and file hashes.
 

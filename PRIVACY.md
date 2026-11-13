@@ -1,6 +1,6 @@
 # DMZ Tactical privacy policy
 
-Last updated: 10 November 2026 · [Lietuviškai](PRIVACY.lt.md)
+Last updated: 14 November 2026 · [Lietuviškai](PRIVACY.lt.md)
 
 DMZ Tactical is an independent, free companion app for Call of Duty DMZ. This policy explains what data the app and our Discord server handle, why, and how to remove it.
 
@@ -8,7 +8,7 @@ Contact for privacy requests: **dmztacticaltool@gmail.com**
 
 ## Summary
 
-* No account is needed. Without one, the map, plans, loot lists and settings stay on your computer. If you sign in, your raid plans, Orders progress and Loot List are also kept in your account, so they are the same on your other computers.
+* No account is needed. Without one, the map, plans, loot lists and settings stay on your computer. If you sign in, your raid plans, Orders progress, Loot List, saved weapon loadouts and Operator Traits build are also kept in your account, so they are the same on your other computers.
 * There are no ads. The app sends no analytics unless you turn on **Anonymous statistics** in Settings (off by default). The website has none.
 * Squad search is optional. Only the players the server puts in your squad see your Activision ID, playstyle and portrait.
 * DMZ Tactical never reads game files, game memory or your inventory.
@@ -40,7 +40,7 @@ An account is optional. It is used for squad search and to keep your plans on al
 
 * **From Discord:** your Discord user ID, username, avatar and email address. Discord shares the email address at every Discord sign-in through our sign-in provider. We don't show it to anyone or use it to contact you.
 * **Your operator profile:** Activision ID, portrait choice, playstyle, region, language and microphone preference.
-* **Your plans and Loot List:** raid plans (name, route, goals, keys and checklist), Orders progress, and Loot List goals and amounts, so they are the same on your other computers. A raid in progress and the stops you visited stay on the computer you play on.
+* **Your plans, lists and builds:** raid plans (name, route, goals, keys and checklist), Orders progress, Loot List goals and amounts, saved weapon loadouts (name, weapon and attachments) and your Operator Traits build, so they are the same on your other computers. A raid in progress and the stops you visited stay on the computer you play on.
 * **While you search:** your language, region, Duo or Trio, Discord voice choice and a queue entry that the app renews while it is running.
 * **Your squad:** its members, their Ready answers and, for voice squads, a link to the voice channel on our Discord server.
 * **Players you block:** so the server does not put them in your squad again.
@@ -82,7 +82,7 @@ We don't sell data or share it for advertising.
 | Data | Kept |
 | --- | --- |
 | Account and profile | Until you delete them |
-| Synced plans and Loot List | Until you delete them or your account; a removed entry is kept 90 days so your other computers remove it too |
+| Synced plans, lists and builds | Until you delete them or your account; a removed entry is kept 90 days so your other computers remove it too |
 | Queue entries | 90 seconds after the app last renewed them; up to 30 minutes for `/findsquad` |
 | Squads and their voice channel links | 1 hour |
 | Blocked players | Until you delete your account |
@@ -97,7 +97,7 @@ The [DMZ Tactical website](https://dmzt.app/) is hosted on Cloudflare Pages. It 
 
 ## Delete your data
 
-* **In the app:** open **Account settings**, choose **Delete account** and confirm. This removes your account, operator profile, synced plans and Loot List, stored Activision ID, queue entry and the players you blocked. The copies on your computers stay.
+* **In the app:** open **Account settings**, choose **Delete account** and confirm. This removes your account, operator profile, synced plans, lists and builds, stored Activision ID, queue entry and the players you blocked. The copies on your computers stay.
 * **Discord bot data:** open a ticket with `/ticket` or email dmztacticaltool@gmail.com. We answer within 30 days.
 
 ## Your rights

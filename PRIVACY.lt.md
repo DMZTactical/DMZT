@@ -1,6 +1,6 @@
 # DMZ Tactical privatumo politika
 
-Atnaujinta: 2026 m. lapkričio 10 d. · [English](PRIVACY.md)
+Atnaujinta: 2026 m. lapkričio 14 d. · [English](PRIVACY.md)
 
 DMZ Tactical yra nepriklausoma nemokama Call of Duty DMZ pagalbinė programa. Čia aprašyta, kokius duomenis tvarko programa ir mūsų Discord serveris, kodėl ir kaip juos ištrinti.
 
@@ -8,7 +8,7 @@ Kontaktas privatumo klausimais: **dmztacticaltool@gmail.com**
 
 ## Trumpai
 
-* Paskyros nereikia. Be jos žemėlapis, planai, daiktų sąrašai ir nustatymai lieka tavo kompiuteryje. Prisijungus reido planai, Orders progresas ir "Ką surinkti" sąrašas saugomi ir tavo paskyroje, kad kituose tavo kompiuteriuose būtų tokie patys.
+* Paskyros nereikia. Be jos žemėlapis, planai, daiktų sąrašai ir nustatymai lieka tavo kompiuteryje. Prisijungus reido planai, Orders progresas, "Ką surinkti" sąrašas, išsaugoti ginklų komplektai ir Operator Traits rinkinys saugomi ir tavo paskyroje, kad kituose tavo kompiuteriuose būtų tokie patys.
 * Reklamų nėra. Programa analitikos nesiunčia, nebent Nustatymuose įjungi **Anoniminę statistiką** (pagal nutylėjimą išjungta). Svetainėje jos nėra.
 * Komandos paieška neprivaloma. Tavo Activision ID, žaidimo stilių ir portretą mato tik žaidėjai, kuriuos serveris įtraukia į tavo komandą.
 * DMZ Tactical niekada neskaito žaidimo failų, atminties ar inventoriaus.
@@ -40,7 +40,7 @@ Paskyra neprivaloma. Ji naudojama komandos paieškai ir tam, kad planai būtų v
 
 * **Iš Discord:** Discord naudotojo ID, vardą, avatarą ir el. pašto adresą. Mūsų prisijungimo paslauga el. pašto adresą iš Discord gauna kiekvieną kartą, kai prisijungi per Discord. Jo niekam nerodome ir laiškų juo nesiunčiame.
 * **Operatoriaus profilį:** Activision ID, portretą, žaidimo stilių, regioną, kalbą ir mikrofono pasirinkimą.
-* **Tavo planus ir "Ką surinkti" sąrašą:** reido planus (pavadinimą, maršrutą, tikslus, raktus ir sąrašą), Orders progresą ir "Ką surinkti" tikslus bei kiekius, kad kituose tavo kompiuteriuose jie būtų tokie patys. Vykstantis reidas ir aplankytos vietos lieka kompiuteryje, kuriame žaidi.
+* **Tavo planus, sąrašus ir rinkinius:** reido planus (pavadinimą, maršrutą, tikslus, raktus ir sąrašą), Orders progresą, "Ką surinkti" tikslus bei kiekius, išsaugotus ginklų komplektus (pavadinimą, ginklą ir priedus) ir Operator Traits rinkinį, kad kituose tavo kompiuteriuose jie būtų tokie patys. Vykstantis reidas ir aplankytos vietos lieka kompiuteryje, kuriame žaidi.
 * **Paieškos metu:** kalbą, regioną, Duo ar Trio, Discord balso pasirinkimą ir eilės įrašą, kurį programa atnaujina, kol veikia.
 * **Tavo komandą:** jos narius, jų „Pasiruošęs“ atsakymus ir balso komandai nuorodą į balso kambarį mūsų Discord serveryje.
 * **Užblokuotus žaidėjus:** kad serveris jų daugiau nepriskirtų tavo komandai.
@@ -82,7 +82,7 @@ Duomenų neparduodame ir reklamai neperduodame.
 | Duomenys | Kiek saugome |
 | --- | --- |
 | Paskyra ir profilis | Kol juos ištrini |
-| Sinchronizuoti planai ir "Ką surinkti" | Kol juos ar paskyrą ištrini; ištrintas įrašas laikomas 90 dienų, kad jį ištrintų ir kiti tavo kompiuteriai |
+| Sinchronizuoti planai, sąrašai ir rinkiniai | Kol juos ar paskyrą ištrini; ištrintas įrašas laikomas 90 dienų, kad jį ištrintų ir kiti tavo kompiuteriai |
 | Eilės įrašai | 90 sekundžių po paskutinio programos atnaujinimo; `/findsquad` – iki 30 minučių |
 | Komandos ir jų balso kambarių nuorodos | 1 valandą |
 | Užblokuoti žaidėjai | Kol ištrini paskyrą |
@@ -97,7 +97,7 @@ Duomenų neparduodame ir reklamai neperduodame.
 
 ## Kaip ištrinti duomenis
 
-* **Programoje:** atverk **Paskyros nustatymus**, pasirink **Ištrinti paskyrą** ir patvirtink. Taip ištrinama paskyra, operatoriaus profilis, sinchronizuoti planai ir "Ką surinkti" sąrašas, išsaugotas Activision ID, eilės įrašas ir tavo užblokuoti žaidėjai. Kopijos tavo kompiuteriuose lieka.
+* **Programoje:** atverk **Paskyros nustatymus**, pasirink **Ištrinti paskyrą** ir patvirtink. Taip ištrinama paskyra, operatoriaus profilis, sinchronizuoti planai, sąrašai ir rinkiniai, išsaugotas Activision ID, eilės įrašas ir tavo užblokuoti žaidėjai. Kopijos tavo kompiuteriuose lieka.
 * **Boto duomenis:** atidaryk pagalbos pokalbį komanda `/ticket` arba rašyk dmztacticaltool@gmail.com. Atsakome per 30 dienų.
 
 ## Tavo teisės
