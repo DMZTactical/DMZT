@@ -8,7 +8,7 @@ Contact for privacy requests: **dmztacticaltool@gmail.com**
 
 ## Summary
 
-* No account is needed. The map, plans, loot lists and settings stay on your PC.
+* No account is needed. Without one, the map, plans, loot lists and settings stay on your computer. If you sign in, your raid plans, Orders progress and Loot List are also kept in your account, so they are the same on your other computers.
 * There are no ads. The app sends no analytics unless you turn on **Anonymous statistics** in Settings (off by default). The website has none.
 * Squad search is optional. Only the players the server puts in your squad see your Activision ID, playstyle and portrait.
 * DMZ Tactical never reads game files, game memory or your inventory.
@@ -16,7 +16,7 @@ Contact for privacy requests: **dmztacticaltool@gmail.com**
 
 ## Without an account
 
-The map, raid plans, loot lists, weapon builds and settings are stored only on your PC, in your Windows user profile. They are not sent to us.
+Without an account, the map, raid plans, loot lists, weapon builds and settings are stored only on your computer (your Windows user profile, or the Mac app's data on a Mac). They are not sent to us.
 
 To check for and download updates, the app contacts GitHub. GitHub receives your IP address as part of that request ([GitHub Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement)).
 
@@ -34,12 +34,13 @@ Off by default. If you turn on **Anonymous statistics** in the app's Settings, t
 
 No player, Discord or Activision ID, no install ID and no IP address is stored with it. It goes to Supabase in the EU and helps us find bugs (GDPR Art. 6(1)(a), your consent). Turn it off in Settings at any time; nothing more is sent after that.
 
-## With an account (squad search)
+## With an account (squad search and sync)
 
-An account is optional and only needed for squad search. You sign in with Discord, and we store:
+An account is optional. It is used for squad search and to keep your plans on all your computers. You sign in with Discord, and we store:
 
 * **From Discord:** your Discord user ID, username, avatar and email address. Discord shares the email address at every Discord sign-in through our sign-in provider. We don't show it to anyone or use it to contact you.
 * **Your operator profile:** Activision ID, portrait choice, playstyle, region, language and microphone preference.
+* **Your plans and Loot List:** raid plans (name, route, goals, keys and checklist), Orders progress, and Loot List goals and amounts, so they are the same on your other computers. A raid in progress and the stops you visited stay on the computer you play on.
 * **While you search:** your language, region, Duo or Trio, Discord voice choice and a queue entry that the app renews while it is running.
 * **Your squad:** its members, their Ready answers and, for voice squads, a link to the voice channel on our Discord server.
 * **Players you block:** so the server does not put them in your squad again.
@@ -49,7 +50,7 @@ Players in the queue do not see each other. When the server forms a squad, only 
 
 We check the Activision ID format only. DMZ Tactical never signs in to your Activision account.
 
-Your sign-in is kept on your PC, encrypted by Windows (DPAPI) for your Windows user only.
+Your sign-in is kept on your computer: on Windows encrypted by Windows (DPAPI) for your Windows user only, on a Mac in your login keychain.
 
 ## Discord server and bot
 
@@ -71,7 +72,7 @@ If you use our Discord server, the DMZ Tactical bot stores:
 
 We use your data:
 
-* to provide squad search and the Discord features you choose (GDPR Art. 6(1)(b));
+* to provide squad search, plan sync and the Discord features you choose (GDPR Art. 6(1)(b));
 * to keep support conversations and protect the service (Art. 6(1)(f)).
 
 We don't sell data or share it for advertising.
@@ -81,6 +82,7 @@ We don't sell data or share it for advertising.
 | Data | Kept |
 | --- | --- |
 | Account and profile | Until you delete them |
+| Synced plans and Loot List | Until you delete them or your account; a removed entry is kept 90 days so your other computers remove it too |
 | Queue entries | 90 seconds after the app last renewed them; up to 30 minutes for `/findsquad` |
 | Squads and their voice channel links | 1 hour |
 | Blocked players | Until you delete your account |
@@ -95,7 +97,7 @@ The [DMZ Tactical website](https://dmzt.app/) is hosted on Cloudflare Pages. It 
 
 ## Delete your data
 
-* **In the app:** open **Account settings**, choose **Delete account** and confirm. This removes your account, operator profile, stored Activision ID, queue entry and the players you blocked.
+* **In the app:** open **Account settings**, choose **Delete account** and confirm. This removes your account, operator profile, synced plans and Loot List, stored Activision ID, queue entry and the players you blocked. The copies on your computers stay.
 * **Discord bot data:** open a ticket with `/ticket` or email dmztacticaltool@gmail.com. We answer within 30 days.
 
 ## Your rights
