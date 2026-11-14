@@ -8,7 +8,7 @@ Contact for privacy requests: **dmztacticaltool@gmail.com**
 
 ## Summary
 
-* No account is needed. Without one, the map, plans, loot lists and settings stay on your computer. If you sign in, your raid plans, Orders progress, Loot List, saved weapon loadouts and Operator Traits build are also kept in your account, so they are the same on your other computers.
+* No account is needed. Without one, the map, plans, loot lists and settings stay on your computer. If you sign in, your raid plans, Orders progress, Loot List, saved weapon loadouts, Operator Traits build and the FOB upgrades, recipes and weapon manuals you mark in Progress are also kept in your account, so they are the same on your other computers.
 * There are no ads. The app sends no analytics unless you turn on **Anonymous statistics** in Settings (off by default). The website has none.
 * Squad search is optional. Only the players the server puts in your squad see your Activision ID, playstyle and portrait.
 * DMZ Tactical never reads game files, game memory or your inventory.
@@ -40,7 +40,7 @@ An account is optional. It is used for squad search and to keep your plans on al
 
 * **From Discord:** your Discord user ID, username, avatar and email address. Discord shares the email address at every Discord sign-in through our sign-in provider. We don't show it to anyone or use it to contact you.
 * **Your operator profile:** Activision ID, portrait choice, playstyle, region, language and microphone preference.
-* **Your plans, lists and builds:** raid plans (name, route, goals, keys and checklist), Orders progress, Loot List goals and amounts, saved weapon loadouts (name, weapon and attachments) and your Operator Traits build, so they are the same on your other computers. A raid in progress and the stops you visited stay on the computer you play on.
+* **Your plans, lists and builds:** raid plans (name, route, goals, keys and checklist), Orders progress, Loot List goals and amounts, saved weapon loadouts (name, weapon and attachments), your Operator Traits build and the FOB upgrades, 3D Printer recipes and weapon manuals you mark in Progress, so they are the same on your other computers. A raid in progress and the stops you visited stay on the computer you play on.
 * **While you search:** your language, region, Duo or Trio, Discord voice choice and a queue entry that the app renews while it is running.
 * **Your squad:** its members, their Ready answers and, for voice squads, a link to the voice channel on our Discord server.
 * **Players you block:** so the server does not put them in your squad again.

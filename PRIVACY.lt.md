@@ -8,7 +8,7 @@ Kontaktas privatumo klausimais: **dmztacticaltool@gmail.com**
 
 ## Trumpai
 
-* Paskyros nereikia. Be jos žemėlapis, planai, daiktų sąrašai ir nustatymai lieka tavo kompiuteryje. Prisijungus reido planai, Orders progresas, "Ką surinkti" sąrašas, išsaugoti ginklų komplektai ir Operator Traits rinkinys saugomi ir tavo paskyroje, kad kituose tavo kompiuteriuose būtų tokie patys.
+* Paskyros nereikia. Be jos žemėlapis, planai, daiktų sąrašai ir nustatymai lieka tavo kompiuteryje. Prisijungus reido planai, Orders progresas, "Ką surinkti" sąrašas, išsaugoti ginklų komplektai, Operator Traits rinkinys ir Progress skiltyje pažymėti FOB patobulinimai, receptai bei ginklų vadovai saugomi ir tavo paskyroje, kad kituose tavo kompiuteriuose būtų tokie patys.
 * Reklamų nėra. Programa analitikos nesiunčia, nebent Nustatymuose įjungi **Anoniminę statistiką** (pagal nutylėjimą išjungta). Svetainėje jos nėra.
 * Komandos paieška neprivaloma. Tavo Activision ID, žaidimo stilių ir portretą mato tik žaidėjai, kuriuos serveris įtraukia į tavo komandą.
 * DMZ Tactical niekada neskaito žaidimo failų, atminties ar inventoriaus.
@@ -40,7 +40,7 @@ Paskyra neprivaloma. Ji naudojama komandos paieškai ir tam, kad planai būtų v
 
 * **Iš Discord:** Discord naudotojo ID, vardą, avatarą ir el. pašto adresą. Mūsų prisijungimo paslauga el. pašto adresą iš Discord gauna kiekvieną kartą, kai prisijungi per Discord. Jo niekam nerodome ir laiškų juo nesiunčiame.
 * **Operatoriaus profilį:** Activision ID, portretą, žaidimo stilių, regioną, kalbą ir mikrofono pasirinkimą.
-* **Tavo planus, sąrašus ir rinkinius:** reido planus (pavadinimą, maršrutą, tikslus, raktus ir sąrašą), Orders progresą, "Ką surinkti" tikslus bei kiekius, išsaugotus ginklų komplektus (pavadinimą, ginklą ir priedus) ir Operator Traits rinkinį, kad kituose tavo kompiuteriuose jie būtų tokie patys. Vykstantis reidas ir aplankytos vietos lieka kompiuteryje, kuriame žaidi.
+* **Tavo planus, sąrašus ir rinkinius:** reido planus (pavadinimą, maršrutą, tikslus, raktus ir sąrašą), Orders progresą, "Ką surinkti" tikslus bei kiekius, išsaugotus ginklų komplektus (pavadinimą, ginklą ir priedus), Operator Traits rinkinį ir Progress skiltyje pažymėtus FOB patobulinimus, 3D Printer receptus bei ginklų vadovus, kad kituose tavo kompiuteriuose jie būtų tokie patys. Vykstantis reidas ir aplankytos vietos lieka kompiuteryje, kuriame žaidi.
 * **Paieškos metu:** kalbą, regioną, Duo ar Trio, Discord balso pasirinkimą ir eilės įrašą, kurį programa atnaujina, kol veikia.
 * **Tavo komandą:** jos narius, jų „Pasiruošęs“ atsakymus ir balso komandai nuorodą į balso kambarį mūsų Discord serveryje.
 * **Užblokuotus žaidėjus:** kad serveris jų daugiau nepriskirtų tavo komandai.
