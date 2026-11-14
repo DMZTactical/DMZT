@@ -50,7 +50,7 @@ Eilėje laukiantys žaidėjai vienas kito nemato. Kai serveris sudaro komandą, 
 
 Activision ID tikriname tik pagal formatą. DMZ Tactical niekada neprisijungia prie tavo Activision paskyros.
 
-Prisijungimo duomenys saugomi tavo kompiuteryje: Windows - užšifruoti Windows (DPAPI) tik tavo Windows naudotojui, Mac - tavo prisijungimo raktinėje (Keychain).
+Prisijungimo duomenys saugomi tavo kompiuteryje: Windows - užšifruoti Windows (DPAPI) tik tavo Windows naudotojui, Mac - tavo prisijungimo raktinėje (Keychain), o dmzt.app - šios naršyklės vietinėje saugykloje, kol atsijungi.
 
 ## Discord serveris ir botas
 

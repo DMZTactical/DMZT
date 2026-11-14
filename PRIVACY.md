@@ -50,7 +50,7 @@ Players in the queue do not see each other. When the server forms a squad, only 
 
 We check the Activision ID format only. DMZ Tactical never signs in to your Activision account.
 
-Your sign-in is kept on your computer: on Windows encrypted by Windows (DPAPI) for your Windows user only, on a Mac in your login keychain.
+Your sign-in is kept on your computer: on Windows encrypted by Windows (DPAPI) for your Windows user only, on a Mac in your login keychain, and on dmzt.app in this browser's local storage until you sign out.
 
 ## Discord server and bot
 
