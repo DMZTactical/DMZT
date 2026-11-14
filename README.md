@@ -101,7 +101,7 @@ The installer isn't code-signed yet, so Windows SmartScreen or some antivirus ap
 Yes. It's free to download and use. There are no ads and no paid features.
 
 **Is it safe to use with Call of Duty?**
-DMZ Tactical runs as a separate Windows app. It doesn't read or modify game files or memory, and it doesn't send input to the game. The F8 overlay is a standard window shown on top of the game. Activision hasn't reviewed DMZ Tactical, so we can't say how its security systems treat other apps.
+DMZ Tactical runs as a separate app. It doesn't read or modify game files or memory, and it doesn't send input to the game. The F8 overlay is a standard window shown on top of the game. Activision hasn't reviewed DMZ Tactical, so we can't say how its security systems treat other apps.
 
 **Which maps does it cover?**
 Hajin and the X01 Exclusion Zone, with both X01 Black Site floor plans.

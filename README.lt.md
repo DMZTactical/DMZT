@@ -101,7 +101,7 @@ Diegimo failas dar neturi skaitmeninio parašo, todėl Windows SmartScreen ar ka
 Taip. Ją galima atsisiųsti ir naudoti nemokamai. Nėra reklamų ir mokamų funkcijų.
 
 **Ar saugu naudoti su Call of Duty?**
-DMZ Tactical veikia kaip atskira Windows programa. Ji neskaito ir nekeičia žaidimo failų ar atminties ir nesiunčia žaidimui komandų. F8 langas yra įprastas Windows langas virš žaidimo. Activision DMZ Tactical neperžiūrėjo, todėl negalime pasakyti, kaip jų apsaugos sistemos vertina kitas programas.
+DMZ Tactical veikia kaip atskira programa. Ji neskaito ir nekeičia žaidimo failų ar atminties ir nesiunčia žaidimui komandų. F8 langas yra įprastas Windows langas virš žaidimo. Activision DMZ Tactical neperžiūrėjo, todėl negalime pasakyti, kaip jų apsaugos sistemos vertina kitas programas.
 
 **Kokie žemėlapiai yra programoje?**
 Hajin ir X01 Exclusion Zone su abiem X01 Black Site aukštų planais.
