@@ -1,6 +1,6 @@
 # DMZ Tactical privacy policy
 
-Last updated: 14 November 2026 · [Lietuviškai](PRIVACY.lt.md)
+Last updated: 15 November 2026 · [Lietuviškai](PRIVACY.lt.md)
 
 DMZ Tactical is an independent, free companion app for Call of Duty DMZ. This policy explains what data the app and our Discord server handle, why, and how to remove it.
 
@@ -57,7 +57,7 @@ Your sign-in is kept on your computer: on Windows encrypted by Windows (DPAPI) f
 If you use our Discord server, the DMZ Tactical bot stores:
 
 * the Activision ID you enter with `/activisionid`, which it syncs to your account;
-* marketplace listings, including your Activision ID (the bot tells you it will be public before you post);
+* marketplace listings, including your Activision ID (the bot tells you it will be public before you post). While a listing is open, the bot copies only the trade (items, amounts, language, dates and the link to the post, without your name or IDs) to Supabase, so the app and dmzt.app can show it;
 * trade alert settings;
 * closed support tickets, including messages and attachments, in a private archive;
 * while you queue with `/findsquad`: your queue entry in the same squad queue as the app, and a private voice channel for your squad that is removed once it is empty.
@@ -108,6 +108,8 @@ You can ask for:
 * correction or deletion of your data.
 
 You can also object to how your data is used.
+
+In the app, **Account settings**, **Data**, **Download** saves a copy of the plans, lists, builds and profile your account keeps as a JSON file.
 
 You can complain to a data protection authority. In Lithuania, that is the State Data Protection Inspectorate ([vdai.lrv.lt](https://vdai.lrv.lt)).
 

@@ -1,6 +1,6 @@
 # DMZ Tactical privatumo politika
 
-Atnaujinta: 2026 m. lapkričio 14 d. · [English](PRIVACY.md)
+Atnaujinta: 2026 m. lapkričio 15 d. · [English](PRIVACY.md)
 
 DMZ Tactical yra nepriklausoma nemokama Call of Duty DMZ pagalbinė programa. Čia aprašyta, kokius duomenis tvarko programa ir mūsų Discord serveris, kodėl ir kaip juos ištrinti.
 
@@ -57,7 +57,7 @@ Prisijungimo duomenys saugomi tavo kompiuteryje: Windows - užšifruoti Windows 
 Jei naudojiesi mūsų Discord serveriu, DMZ Tactical botas saugo:
 
 * Activision ID, kurį įvedi komanda `/activisionid` (botas jį perduoda į tavo paskyrą);
-* mainų skelbimus su Activision ID (prieš skelbiant botas įspėja, kad ID bus viešas);
+* mainų skelbimus su Activision ID (prieš skelbiant botas įspėja, kad ID bus viešas). Kol skelbimas atviras, botas į Supabase nukopijuoja tik mainus (daiktus, kiekius, kalbą, datas ir nuorodą į skelbimą, be tavo vardo ir ID), kad juos rodytų programa ir dmzt.app;
 * mainų pranešimų nustatymus;
 * uždarytus pagalbos pokalbius su žinutėmis ir priedais privačiame archyve;
 * kai ieškai komandos komanda `/findsquad`: eilės įrašą toje pačioje komandos paieškos eilėje kaip programa ir privatų tavo komandos balso kambarį, kuris ištrinamas, kai lieka tuščias.
@@ -108,6 +108,8 @@ Gali prašyti:
 * ištaisyti ar ištrinti savo duomenis.
 
 Taip pat gali nesutikti, kad tavo duomenys būtų naudojami.
+
+Programoje **Paskyros nustatymai**, **Duomenys**, **Atsisiųsti** išsaugo paskyroje laikomų planų, sąrašų, rinkinių ir profilio kopiją JSON faile.
 
 Skundą gali pateikti Valstybinei duomenų apsaugos inspekcijai ([vdai.lrv.lt](https://vdai.lrv.lt)).
 
