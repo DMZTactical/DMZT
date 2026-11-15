@@ -13,7 +13,7 @@ Contact for privacy requests: **dmztacticaltool@gmail.com**
 * Squad search is optional. Only the players the server puts in your squad see your Activision ID, playstyle and portrait.
 * DMZT EXP, the leaderboard and DMZT SOCIAL are optional. Only players signed in on dmzt.app see them, and you can hide yourself from the leaderboard.
 * DMZ Tactical never reads game files, game memory or your inventory.
-* You can delete your account in the app at any time.
+* You can delete your account in the app or on dmzt.app at any time.
 
 ## Without an account
 
@@ -113,7 +113,7 @@ The [DMZ Tactical website](https://dmzt.app/) is hosted on Cloudflare Pages. It 
 
 ## Delete your data
 
-* **In the app:** open **Account settings**, choose **Delete account** and confirm. This removes your account, operator profile, synced plans, lists and builds, stored Activision ID, queue entry, the players you blocked, your DMZT EXP and everything of yours in DMZT SOCIAL, including the pictures in your posts. The copies on your computers stay.
+* **In the app or on dmzt.app:** in the app open **Account settings**, on dmzt.app open **DMZT SOCIAL**, **My profile**, **Account**; choose **Delete account** and confirm. This removes your account, operator profile, synced plans, lists and builds, stored Activision ID, queue entry, the players you blocked, your DMZT EXP and everything of yours in DMZT SOCIAL, including the pictures in your posts. The copies on your computers stay.
 * **One post in DMZT SOCIAL:** open the post's menu and choose **Delete**. Its picture is deleted with it.
 * **Discord bot data:** open a ticket with `/ticket` or email dmztacticaltool@gmail.com. We answer within 30 days.
 
@@ -126,7 +126,7 @@ You can ask for:
 
 You can also object to how your data is used.
 
-In the app, **Account settings**, **Data**, **Download** saves a copy of the plans, lists, builds and profile your account keeps as a JSON file.
+In the app, **Account settings**, **Data**, **Download** saves a copy of the plans, lists, builds and profile your account keeps as a JSON file; on dmzt.app, **DMZT SOCIAL**, **My profile**, **Account**, **Download** does the same and adds your EXP.
 
 You can complain to a data protection authority. In Lithuania, that is the State Data Protection Inspectorate ([vdai.lrv.lt](https://vdai.lrv.lt)).
 

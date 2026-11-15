@@ -13,7 +13,7 @@ Kontaktas privatumo klausimais: **dmztacticaltool@gmail.com**
 * Komandos paieška neprivaloma. Tavo Activision ID, žaidimo stilių ir portretą mato tik žaidėjai, kuriuos serveris įtraukia į tavo komandą.
 * DMZT EXP, lyderių lentelė ir DMZT SOCIAL neprivalomi. Juos mato tik prisijungę dmzt.app žaidėjai, o iš lyderių lentelės gali pasislėpti.
 * DMZ Tactical niekada neskaito žaidimo failų, atminties ar inventoriaus.
-* Paskyrą programoje gali ištrinti bet kada.
+* Paskyrą programoje arba dmzt.app gali ištrinti bet kada.
 
 ## Be paskyros
 
@@ -113,7 +113,7 @@ Duomenų neparduodame ir reklamai neperduodame.
 
 ## Kaip ištrinti duomenis
 
-* **Programoje:** atverk **Paskyros nustatymus**, pasirink **Ištrinti paskyrą** ir patvirtink. Taip ištrinama paskyra, operatoriaus profilis, sinchronizuoti planai, sąrašai ir rinkiniai, išsaugotas Activision ID, eilės įrašas, tavo užblokuoti žaidėjai, tavo DMZT EXP ir viskas, kas tavo DMZT SOCIAL, kartu su įrašų paveikslėliais. Kopijos tavo kompiuteriuose lieka.
+* **Programoje arba dmzt.app:** programoje atverk **Paskyros nustatymus**, dmzt.app - **DMZT SOCIAL**, **Mano profilis**, **Paskyra**; pasirink **Ištrinti paskyrą** ir patvirtink. Taip ištrinama paskyra, operatoriaus profilis, sinchronizuoti planai, sąrašai ir rinkiniai, išsaugotas Activision ID, eilės įrašas, tavo užblokuoti žaidėjai, tavo DMZT EXP ir viskas, kas tavo DMZT SOCIAL, kartu su įrašų paveikslėliais. Kopijos tavo kompiuteriuose lieka.
 * **Vieną DMZT SOCIAL įrašą:** atverk įrašo meniu ir pasirink **Ištrinti**. Kartu ištrinamas ir jo paveikslėlis.
 * **Boto duomenis:** atidaryk pagalbos pokalbį komanda `/ticket` arba rašyk dmztacticaltool@gmail.com. Atsakome per 30 dienų.
 
@@ -126,7 +126,7 @@ Gali prašyti:
 
 Taip pat gali nesutikti, kad tavo duomenys būtų naudojami.
 
-Programoje **Paskyros nustatymai**, **Duomenys**, **Atsisiųsti** išsaugo paskyroje laikomų planų, sąrašų, rinkinių ir profilio kopiją JSON faile.
+Programoje **Paskyros nustatymai**, **Duomenys**, **Atsisiųsti** išsaugo paskyroje laikomų planų, sąrašų, rinkinių ir profilio kopiją JSON faile; dmzt.app tą patį ir dar EXP išsaugo **DMZT SOCIAL**, **Mano profilis**, **Paskyra**, **Atsisiųsti**.
 
 Skundą gali pateikti Valstybinei duomenų apsaugos inspekcijai ([vdai.lrv.lt](https://vdai.lrv.lt)).
 
