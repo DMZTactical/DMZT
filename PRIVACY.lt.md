@@ -11,6 +11,7 @@ Kontaktas privatumo klausimais: **dmztacticaltool@gmail.com**
 * Paskyros nereikia. Be jos žemėlapis, planai, daiktų sąrašai ir nustatymai lieka tavo kompiuteryje. Prisijungus reido planai, Orders progresas, "Ką surinkti" sąrašas, išsaugoti ginklų komplektai, Operator Traits rinkinys ir Progress skiltyje pažymėti FOB patobulinimai, receptai bei ginklų vadovai saugomi ir tavo paskyroje, kad kituose tavo kompiuteriuose būtų tokie patys.
 * Reklamų nėra. Programa analitikos nesiunčia, nebent Nustatymuose įjungi **Anoniminę statistiką** (pagal nutylėjimą išjungta). Svetainėje jos nėra.
 * Komandos paieška neprivaloma. Tavo Activision ID, žaidimo stilių ir portretą mato tik žaidėjai, kuriuos serveris įtraukia į tavo komandą.
+* DMZT EXP, lyderių lentelė ir DMZT SOCIAL neprivalomi. Juos mato tik prisijungę dmzt.app žaidėjai, o iš lyderių lentelės gali pasislėpti.
 * DMZ Tactical niekada neskaito žaidimo failų, atminties ar inventoriaus.
 * Paskyrą programoje gali ištrinti bet kada.
 
@@ -52,12 +53,24 @@ Activision ID tikriname tik pagal formatą. DMZ Tactical niekada neprisijungia p
 
 Prisijungimo duomenys saugomi tavo kompiuteryje: Windows - užšifruoti Windows (DPAPI) tik tavo Windows naudotojui, Mac - tavo prisijungimo raktinėje (Keychain), o dmzt.app - šios naršyklės vietinėje saugykloje, kol atsijungi.
 
+## DMZT EXP, lyderių lentelė ir DMZT SOCIAL
+
+Su paskyra taip pat saugome:
+
+* **DMZT EXP:** atliktas užduotis ir jų laiką (kasdienį apsilankymą dmzt.app, surinktą komandą ir tai, apie ką praneša Discord botas: pagalbą #mission-help, įrašą #raid-highlights, paskelbtus ar užbaigtus mainus), už kiekvieną gautą EXP, tavo lygį ir pasirinktą kortelės foną. Rangas ir lygis rodomi prie tavo vardo programoje, F8 komandos ekrane, DMZT SOCIAL ir kaip rolė mūsų Discord serveryje. Lygis rodomas ir prie tavo mainų.
+* **Lyderių lentelę:** prisijungę dmzt.app žaidėjai mato tavo Discord vardą, operatoriaus portretą, lygį ir savaitės, mėnesio bei viso laiko EXP. Iš lyderių lentelės gali pasislėpti; tada tavo nauji rangai nerodomi ir DMZT SOCIAL.
+* **DMZT SOCIAL:** tavo įrašus (iki 280 ženklų ir vienas paveikslėlis), tavo GG, sekamus žaidėjus ir tavo pranešimus (įrašą ir priežastį). Jei turi DMZT paskyrą, Discord botas taip pat prideda tavo #marketplace skelbimus, užbaigtus mainus ir #raid-highlights įrašus (tekstą ir nuorodą į pirmą paveikslėlį Discord'e). Discord'e ištrintas įrašas ar pašalintas skelbimas iš srauto dingsta. Sraute rodomi ir nauji rangai.
+
+DMZT SOCIAL ir lyderių lentelę mato tik prisijungę dmzt.app žaidėjai. Neprisijungę lankytojai šių duomenų negauna. Tavo pridėti paveikslėliai saugomi Supabase Storage Europos Sąjungoje, privačiame aplanke, kurį gali skaityti tik prisijungę žaidėjai. Trys pranešimai įrašą paslepia, kol jį peržiūri administratorius.
+
 ## Discord serveris ir botas
 
 Jei naudojiesi mūsų Discord serveriu, DMZ Tactical botas saugo:
 
 * Activision ID, kurį įvedi komanda `/activisionid` (botas jį perduoda į tavo paskyrą);
-* mainų skelbimus su Activision ID (prieš skelbiant botas įspėja, kad ID bus viešas). Kol skelbimas atviras, botas į Supabase nukopijuoja tik mainus (daiktus, kiekius, kalbą, datas ir nuorodą į skelbimą, be tavo vardo ir ID), kad juos rodytų programa ir dmzt.app;
+* mainų skelbimus su Activision ID (prieš skelbiant botas įspėja, kad ID bus viešas). Kol skelbimas atviras, botas į Supabase nukopijuoja tik mainus (daiktus, kiekius, kalbą, datas ir nuorodą į skelbimą, be tavo vardo ir ID), kad juos rodytų programa ir dmzt.app. Jei turi DMZT paskyrą, skelbimas ir užbaigti mainai rodomi ir DMZT SOCIAL su tavo vardu, rangu ir lygiu;
+* jei turi DMZT paskyrą, tavo #raid-highlights įrašų tekstą ir pirmo paveikslėlio nuorodą DMZT SOCIAL srautui;
+* tavo DMZT rangą, rodomą kaip rolė serveryje;
 * mainų pranešimų nustatymus;
 * uždarytus pagalbos pokalbius su žinutėmis ir priedais privačiame archyve;
 * kai ieškai komandos komanda `/findsquad`: eilės įrašą toje pačioje komandos paieškos eilėje kaip programa ir privatų tavo komandos balso kambarį, kuris ištrinamas, kai lieka tuščias.
@@ -72,7 +85,7 @@ Jei naudojiesi mūsų Discord serveriu, DMZ Tactical botas saugo:
 
 Duomenis naudojame:
 
-* komandos paieškai, planų sinchronizavimui ir tavo pasirinktoms Discord funkcijoms teikti (BDAR 6 straipsnio 1 dalies b punktas);
+* komandos paieškai, planų sinchronizavimui, DMZT EXP, lyderių lentelei, DMZT SOCIAL ir tavo pasirinktoms Discord funkcijoms teikti (BDAR 6 straipsnio 1 dalies b punktas);
 * pagalbos pokalbiams išsaugoti ir paslaugai apsaugoti (6 straipsnio 1 dalies f punktas).
 
 Duomenų neparduodame ir reklamai neperduodame.
@@ -86,6 +99,9 @@ Duomenų neparduodame ir reklamai neperduodame.
 | Eilės įrašai | 90 sekundžių po paskutinio programos atnaujinimo; `/findsquad` – iki 30 minučių |
 | Komandos ir jų balso kambarių nuorodos | 1 valandą |
 | Užblokuoti žaidėjai | Kol ištrini paskyrą |
+| DMZT EXP, lygis ir kortelės fonas | Kol ištrini paskyrą |
+| DMZT SOCIAL įrašai su paveikslėliais, GG, sekimai ir pranešimai | Kol juos ar paskyrą ištrini |
+| Discord mainai ir highlights DMZT SOCIAL sraute | Kol Discord įrašas ar skelbimas pašalinamas arba kol ištrini paskyrą |
 | Pranešimai apie komandos narius | 30 dienų |
 | Anoniminė statistika | 90 dienų |
 | Uždarytų pagalbos pokalbių archyvai | 12 mėnesių, paskui ištrinami |
@@ -97,7 +113,8 @@ Duomenų neparduodame ir reklamai neperduodame.
 
 ## Kaip ištrinti duomenis
 
-* **Programoje:** atverk **Paskyros nustatymus**, pasirink **Ištrinti paskyrą** ir patvirtink. Taip ištrinama paskyra, operatoriaus profilis, sinchronizuoti planai, sąrašai ir rinkiniai, išsaugotas Activision ID, eilės įrašas ir tavo užblokuoti žaidėjai. Kopijos tavo kompiuteriuose lieka.
+* **Programoje:** atverk **Paskyros nustatymus**, pasirink **Ištrinti paskyrą** ir patvirtink. Taip ištrinama paskyra, operatoriaus profilis, sinchronizuoti planai, sąrašai ir rinkiniai, išsaugotas Activision ID, eilės įrašas, tavo užblokuoti žaidėjai, tavo DMZT EXP ir viskas, kas tavo DMZT SOCIAL, kartu su įrašų paveikslėliais. Kopijos tavo kompiuteriuose lieka.
+* **Vieną DMZT SOCIAL įrašą:** atverk įrašo meniu ir pasirink **Ištrinti**. Kartu ištrinamas ir jo paveikslėlis.
 * **Boto duomenis:** atidaryk pagalbos pokalbį komanda `/ticket` arba rašyk dmztacticaltool@gmail.com. Atsakome per 30 dienų.
 
 ## Tavo teisės
