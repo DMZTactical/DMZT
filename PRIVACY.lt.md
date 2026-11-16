@@ -1,6 +1,6 @@
 # DMZ Tactical privatumo politika
 
-Atnaujinta: 2026 m. lapkričio 15 d. · [English](PRIVACY.md)
+Atnaujinta: 2026 m. lapkričio 16 d. · [English](PRIVACY.md)
 
 DMZ Tactical yra nepriklausoma nemokama Call of Duty DMZ pagalbinė programa. Čia aprašyta, kokius duomenis tvarko programa ir mūsų Discord serveris, kodėl ir kaip juos ištrinti.
 
@@ -126,7 +126,7 @@ Gali prašyti:
 
 Taip pat gali nesutikti, kad tavo duomenys būtų naudojami.
 
-Programoje **Paskyros nustatymai**, **Duomenys**, **Atsisiųsti** išsaugo paskyroje laikomų planų, sąrašų, rinkinių ir profilio kopiją JSON faile; dmzt.app tą patį ir dar EXP išsaugo **DMZT SOCIAL**, **Mano profilis**, **Paskyra**, **Atsisiųsti**.
+Programoje **Paskyros nustatymai**, **Duomenys**, **Atsisiųsti** išsaugo paskyroje laikomų planų, sąrašų, rinkinių ir profilio kopiją JSON faile; dmzt.app tą patį ir dar EXP, lyderių lentelės pasirinkimą bei DMZT SOCIAL įrašus išsaugo **DMZT SOCIAL**, **Mano profilis**, **Paskyra**, **Atsisiųsti**.
 
 Skundą gali pateikti Valstybinei duomenų apsaugos inspekcijai ([vdai.lrv.lt](https://vdai.lrv.lt)).
 

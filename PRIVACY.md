@@ -1,6 +1,6 @@
 # DMZ Tactical privacy policy
 
-Last updated: 15 November 2026 · [Lietuviškai](PRIVACY.lt.md)
+Last updated: 16 November 2026 · [Lietuviškai](PRIVACY.lt.md)
 
 DMZ Tactical is an independent, free companion app for Call of Duty DMZ. This policy explains what data the app and our Discord server handle, why, and how to remove it.
 
@@ -126,7 +126,7 @@ You can ask for:
 
 You can also object to how your data is used.
 
-In the app, **Account settings**, **Data**, **Download** saves a copy of the plans, lists, builds and profile your account keeps as a JSON file; on dmzt.app, **DMZT SOCIAL**, **My profile**, **Account**, **Download** does the same and adds your EXP.
+In the app, **Account settings**, **Data**, **Download** saves a copy of the plans, lists, builds and profile your account keeps as a JSON file; on dmzt.app, **DMZT SOCIAL**, **My profile**, **Account**, **Download** does the same and adds your EXP, leaderboard choice and DMZT SOCIAL posts.
 
 You can complain to a data protection authority. In Lithuania, that is the State Data Protection Inspectorate ([vdai.lrv.lt](https://vdai.lrv.lt)).
 
