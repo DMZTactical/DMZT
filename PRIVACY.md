@@ -10,6 +10,7 @@ Contact for privacy requests: **dmztacticaltool@gmail.com**
 
 * No account is needed. Without one, the map, plans, loot lists and settings stay on your computer. If you sign in, your raid plans, Orders progress, Loot List, saved weapon loadouts, Operator Traits build and the FOB upgrades, recipes and weapon manuals you mark in Progress are also kept in your account, so they are the same on your other computers.
 * There are no ads. The app sends no analytics unless you turn on **Anonymous statistics** in Settings (off by default). The website has none.
+* The DMZT Assistant saves your chats only after you agree, without your name or IDs. You can delete them with **Delete my chats**.
 * Squad search is optional. Only the players the server puts in your squad see your Activision ID, playstyle and portrait.
 * DMZT EXP, the leaderboard and DMZT SOCIAL are optional. Only players signed in on dmzt.app see them, and you can hide yourself from the leaderboard.
 * DMZ Tactical never reads game files, game memory or your inventory.
@@ -23,7 +24,7 @@ To check for and download updates, the app contacts GitHub. GitHub receives your
 
 To get map, item and mission updates between app versions, the app downloads a signed data pack from dmzt.app, which is hosted on Cloudflare. Cloudflare receives your IP address as part of that request; the request carries no account, profile or plan data.
 
-DMZ Tactical does not read or change game files, game memory or your inventory. It has no ads, and it sends nothing about how you use it unless you turn on anonymous statistics.
+DMZ Tactical does not read or change game files, game memory or your inventory. It has no ads, and it sends nothing about how you use it unless you turn on anonymous statistics or agree to save your DMZT Assistant chats.
 
 ## Anonymous statistics (optional)
 
@@ -34,6 +35,18 @@ Off by default. If you turn on **Anonymous statistics** in the app's Settings, t
 * the app version.
 
 No player, Discord or Activision ID, no install ID and no IP address is stored with it. It goes to Supabase in the EU and helps us find bugs (GDPR Art. 6(1)(a), your consent). Turn it off in Settings at any time; nothing more is sent after that.
+
+## DMZT Assistant chats (beta)
+
+The DMZT Assistant answers questions about items, recipes, keys, bosses and locations from DMZT game data. It is a beta and understands English only. Before your first message it asks you to agree that we save your chats. Without agreeing you can't write to it. If you agree, we store for each question:
+
+* your question and the assistant's answer, with email addresses, links and long numbers (like phone numbers) removed before they are sent and again on our server;
+* the topic it recognised (for example an item or a recipe) and your Yes/No rating, if you give one;
+* a random chat ID made in your browser, where you asked (the app, the map or dmzt.app), the app version and the time.
+
+The chat ID is not linked to your account, Discord or Activision ID, and no IP address is stored with it. Don't write personal details, passwords or account info in the chat. We read the chats to find questions the assistant can't answer yet and to improve its answers. They are stored in Supabase in the EU (GDPR Art. 6(1)(a), your consent).
+
+To stop, choose **Delete my chats** under the chat and confirm. This deletes the chats saved from that browser or app and asks for your agreement again before the next message.
 
 ## With an account (squad search and sync)
 
@@ -104,6 +117,7 @@ We don't sell data or share it for advertising.
 | Discord trades and highlights in DMZT SOCIAL | Until the Discord post or listing is removed, or you delete your account |
 | Reports about squad members | 30 days |
 | Anonymous statistics | 90 days |
+| DMZT Assistant chats | 90 days |
 | Closed ticket archives | 12 months, then deleted |
 | Bot database backups | Replaced daily; the last three copies are kept |
 
@@ -115,6 +129,7 @@ The [DMZ Tactical website](https://dmzt.app/) is hosted on Cloudflare Pages. It 
 
 * **In the app or on dmzt.app:** in the app open **Account settings**, on dmzt.app open **DMZT SOCIAL**, **My profile**, **Account**; choose **Delete account** and confirm. This removes your account, operator profile, synced plans, lists and builds, stored Activision ID, queue entry, the players you blocked, your DMZT EXP and everything of yours in DMZT SOCIAL, including the pictures in your posts. The copies on your computers stay.
 * **One post in DMZT SOCIAL:** open the post's menu and choose **Delete**. Its picture is deleted with it.
+* **DMZT Assistant chats:** choose **Delete my chats** under the chat and confirm. This deletes the chats saved from that browser or app.
 * **Discord bot data:** open a ticket with `/ticket` or email dmztacticaltool@gmail.com. We answer within 30 days.
 
 ## Your rights

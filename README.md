@@ -8,11 +8,11 @@
 <p align="center"><strong>English</strong> · <a href="README.lt.md">Lietuvių</a> · <a href="https://dmzt.app/">Website</a> · <a href="#faq">FAQ</a></p>
 
 <p align="center">
-<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.50-beta.1/DMZT.APP-Installer.exe"><img src="media/hajin-install-0-9-50-en.svg" width="330" alt="Download DMZT.APP-Installer.exe. Beta 0.9.50-beta.1 for Windows x64."></a>
-<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.50-beta.1/DMZT.APP-0.9.50-beta.1-mac.dmg"><img src="media/hajin-mac-0-9-50-en.svg" width="330" alt="Download for Mac. Beta 0.9.50-beta.1 for macOS 12 or later, Apple silicon and Intel."></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.51-beta.1/DMZT.APP-Installer.exe"><img src="media/hajin-install-0-9-51-en.svg" width="330" alt="Download DMZT.APP-Installer.exe. Beta 0.9.51-beta.1 for Windows x64."></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.51-beta.1/DMZT.APP-0.9.51-beta.1-mac.dmg"><img src="media/hajin-mac-0-9-51-en.svg" width="330" alt="Download for Mac. Beta 0.9.51-beta.1 for macOS 12 or later, Apple silicon and Intel."></a>
 <br>
 <a href="https://discord.gg/PzCZNqmybB"><img src="media/hajin-community-r2-en.svg" width="330" alt="Join the DMZ Tactical community on Discord for feedback and news."></a>
-<a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.50-beta.1"><img src="media/hajin-r3-notes-en.svg" width="330" alt="Release notes on GitHub: what's new in this beta."></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.51-beta.1"><img src="media/hajin-r3-notes-en.svg" width="330" alt="Release notes on GitHub: what's new in this beta."></a>
 </p>
 
 # DMZ Tactical – Hajin map, loot tracker and raid planner for MW4 DMZ
@@ -54,13 +54,13 @@
 
 ## Get started
 
-1. **Install.** Download [DMZT.APP-Installer.exe](https://github.com/DMZTactical/DMZT/releases/download/v0.9.50-beta.1/DMZT.APP-Installer.exe) and run it.
+1. **Install.** Download [DMZT.APP-Installer.exe](https://github.com/DMZTactical/DMZT/releases/download/v0.9.51-beta.1/DMZT.APP-Installer.exe) and run it.
 2. **Find.** Search for a key, an item, a location or a grid square.
 3. **Press F8.** Set the game to Borderless or Windowed mode, then press F8 in a raid.
 
 **Already using the beta?** Open Settings and choose **Check for updates**. If no update appears, download the installer above and run it. Your plans and settings stay.
 
-**On a Mac?** Download [DMZT.APP-0.9.50-beta.1-mac.dmg](https://github.com/DMZTactical/DMZT/releases/download/v0.9.50-beta.1/DMZT.APP-0.9.50-beta.1-mac.dmg), open it and drag DMZT onto Applications. The first time, open DMZT and choose Done, then open System Settings, Privacy & Security, choose Open Anyway next to DMZT and enter your password. The Mac version has the map, plans, the Loot List, X01, your profile and squad search; the F8 overlay is Windows only.
+**On a Mac?** Download [DMZT.APP-0.9.51-beta.1-mac.dmg](https://github.com/DMZTactical/DMZT/releases/download/v0.9.51-beta.1/DMZT.APP-0.9.51-beta.1-mac.dmg), open it and drag DMZT onto Applications. The first time, open DMZT and choose Done, then open System Settings, Privacy & Security, choose Open Anyway next to DMZT and enter your password. The Mac version has the map, plans, the Loot List, X01, your profile and squad search; the F8 overlay is Windows only.
 
 **Map not loading?** Install [Microsoft Edge WebView2](https://developer.microsoft.com/microsoft-edge/webview2/#download) and start the app again.
 
@@ -74,8 +74,8 @@
 ## What's next
 
 <picture>
-<source media="(max-width: 600px)" srcset="media/hajin-roadmap-1-0-r12-mobile-en.jpg">
-<img src="media/hajin-roadmap-1-0-r12-en.jpg" width="100%" alt="Roadmap to 1.0, drawn as a raid route on the Hajin map from infil to exfil. Stage 2 Weapon Builder: build your own weapons, Gunsmith prices, Season 1 weapons. Stage 3 Squad search: one queue for the app, F8 and Discord; Duo or Trio formed for you; old and new Activision IDs. Stage 4 Mac: DMZ Tactical on macOS and smaller updates. Stage 5 One account: plans and lists on every PC, the same account on dmzt.app, operators and traits saved. Stage 6 Assistant: loadout slots so you forget nothing, grab reminders in F8, and what to do next. Stage 7 Smart raid: a route built for your items, an exfil clock and a place card in F8. Stage 8 FOB: a stash advisor for what to sell or keep, operator MIA cost and Prestige. Stage 9 Squad: a live shared raid plan and who carries what. 1.0 Beta: final fixes before 1.0, tested on Windows and Mac. 1.0 Full release for Windows and Mac with code-signed installers and the full assistant. Plans are subject to change.">
+<source media="(max-width: 600px)" srcset="media/hajin-roadmap-1-0-r13-mobile-en.jpg">
+<img src="media/hajin-roadmap-1-0-r13-en.jpg" width="100%" alt="Roadmap to 1.0, drawn as a raid route on the Hajin map from infil to exfil. Stage 2 Weapon Builder: build your own weapons, Gunsmith prices, Season 1 weapons. Stage 3 Squad search: one queue for the app, F8 and Discord; Duo or Trio formed for you; old and new Activision IDs. Stage 4 Mac: DMZ Tactical on macOS and smaller updates. Stage 5 One account: plans and lists on every PC, the same account on dmzt.app, operators and traits saved. Stage 6 Assistant, in progress: the DMZT Assistant answers your questions in chat, loadout slots so you forget nothing, grab reminders in F8, and what to do next. Stage 7 Smart raid: a route built for your items, an exfil clock and a place card in F8. Stage 8 FOB: a stash advisor for what to sell or keep, operator MIA cost and Prestige. Stage 9 Squad: a live shared raid plan and who carries what. 1.0 Beta: final fixes before 1.0, tested on Windows and Mac. 1.0 Full release for Windows and Mac with code-signed installers and the full assistant. Plans are subject to change.">
 </picture>
 
 <p align="center">Follow progress on <a href="https://discord.gg/PzCZNqmybB">Discord</a>.</p>
@@ -88,10 +88,10 @@ Open Terminal in the folder with the installer and run:
 Get-FileHash .\DMZT.APP-Installer.exe | Format-List
 ```
 
-The hash must match `2DE43544267BF75D67D59BE39B44806E8E73FA1BE2AC1EBC2E62BA2FA06DCD21`.
-[SHA256SUMS.txt](https://github.com/DMZTactical/DMZT/releases/download/v0.9.50-beta.1/SHA256SUMS.txt) · [VirusTotal report](https://www.virustotal.com/gui/file/2de43544267bf75d67d59be39b44806e8e73fa1be2ac1ebc2e62ba2fa06dcd21)
+The hash must match `64E96A8EB755738EC13B5BC4972EC4D6BDDFFCDAF9ED66103AF03663AB0C17BD`.
+[SHA256SUMS.txt](https://github.com/DMZTactical/DMZT/releases/download/v0.9.51-beta.1/SHA256SUMS.txt) · [VirusTotal report](https://www.virustotal.com/gui/file/64e96a8eb755738ec13b5bc4972ec4d6bddffcdaf9ed66103af03663ab0c17bd)
 
-On a Mac, run `shasum -a 256 DMZT.APP-0.9.50-beta.1-mac.dmg` in Terminal. The hash must match `D2C843942840538EB515A16BB512C094186BE9641998981FC7D2F3FF7E7EA43A`.
+On a Mac, run `shasum -a 256 DMZT.APP-0.9.51-beta.1-mac.dmg` in Terminal. The hash must match `8CF8BF54F757714C3D18182A3AEC0E7332CC93AF5DF8E2F13A0EC2CE13FE314B`.
 
 The installer isn't code-signed yet, so Windows SmartScreen or some antivirus apps may warn about it. The Mac app has no Apple developer signature yet, so macOS asks you once to allow it. Updates are verified with a signed manifest and file hashes.
 

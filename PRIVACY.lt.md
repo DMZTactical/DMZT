@@ -10,6 +10,7 @@ Kontaktas privatumo klausimais: **dmztacticaltool@gmail.com**
 
 * Paskyros nereikia. Be jos žemėlapis, planai, daiktų sąrašai ir nustatymai lieka tavo kompiuteryje. Prisijungus reido planai, Orders progresas, "Ką surinkti" sąrašas, išsaugoti ginklų komplektai, Operator Traits rinkinys ir Progress skiltyje pažymėti FOB patobulinimai, receptai bei ginklų vadovai saugomi ir tavo paskyroje, kad kituose tavo kompiuteriuose būtų tokie patys.
 * Reklamų nėra. Programa analitikos nesiunčia, nebent Nustatymuose įjungi **Anoniminę statistiką** (pagal nutylėjimą išjungta). Svetainėje jos nėra.
+* DMZT Assistant pokalbius saugo tik tau sutikus, be tavo vardo ir ID. Juos gali ištrinti mygtuku **Ištrinti mano pokalbius**.
 * Komandos paieška neprivaloma. Tavo Activision ID, žaidimo stilių ir portretą mato tik žaidėjai, kuriuos serveris įtraukia į tavo komandą.
 * DMZT EXP, lyderių lentelė ir DMZT SOCIAL neprivalomi. Juos mato tik prisijungę dmzt.app žaidėjai, o iš lyderių lentelės gali pasislėpti.
 * DMZ Tactical niekada neskaito žaidimo failų, atminties ar inventoriaus.
@@ -23,7 +24,7 @@ Kad patikrintų ir atsisiųstų atnaujinimus, programa jungiasi prie GitHub. Git
 
 Kad tarp programos versijų gautų žemėlapio, daiktų ir misijų atnaujinimus, programa atsisiunčia pasirašytą duomenų paketą iš dmzt.app, kurią talpina Cloudflare. Cloudflare mato tavo IP adresą; užklausoje nėra paskyros, profilio ar planų duomenų.
 
-DMZ Tactical neskaito ir nekeičia žaidimo failų, atminties ar inventoriaus. Programoje nėra reklamos, ir ji nesiunčia nieko apie tai, kaip ja naudojiesi, nebent įjungi anoniminę statistiką.
+DMZ Tactical neskaito ir nekeičia žaidimo failų, atminties ar inventoriaus. Programoje nėra reklamos, ir ji nesiunčia nieko apie tai, kaip ja naudojiesi, nebent įjungi anoniminę statistiką arba sutinki saugoti DMZT Assistant pokalbius.
 
 ## Anoniminė statistika (neprivaloma)
 
@@ -34,6 +35,18 @@ Pagal nutylėjimą išjungta. Jei programos Nustatymuose įjungi **Anoniminę st
 * programos versiją.
 
 Kartu nesaugomas joks žaidėjo, Discord ar Activision ID, diegimo identifikatorius ar IP adresas. Duomenys keliauja į Supabase Europos Sąjungoje ir padeda mums rasti klaidas (BDAR 6 straipsnio 1 dalies a punktas, tavo sutikimas). Nustatymuose gali ją bet kada išjungti; nuo tada daugiau niekas nesiunčiama.
+
+## DMZT Assistant pokalbiai (bandomoji versija)
+
+DMZT Assistant atsako į klausimus apie daiktus, receptus, raktus, bosus ir vietoves pagal DMZT žaidimo duomenis. Tai bandomoji versija, ir ji supranta tik angliškai. Prieš pirmą žinutę asistentas paprašo sutikti, kad saugotume pokalbius. Nesutikus rašyti jam negalima. Jei sutinki, kiekvienam klausimui saugome:
+
+* tavo klausimą ir asistento atsakymą, iš kurių el. pašto adresai, nuorodos ir ilgi skaičiai (pvz., telefono numeriai) išvalomi prieš siunčiant ir dar kartą mūsų serveryje;
+* atpažintą temą (pvz., daiktą ar receptą) ir tavo Taip/Ne įvertinimą, jei jį pasirenki;
+* atsitiktinį pokalbio ID, sukurtą tavo naršyklėje, kur klausei (programoje, žemėlapyje ar dmzt.app), programos versiją ir laiką.
+
+Pokalbio ID nesusietas su tavo paskyra, Discord ar Activision ID, o IP adresas kartu nesaugomas. Pokalbyje nerašyk asmeninių duomenų, slaptažodžių ar paskyros informacijos. Pokalbius skaitome, kad rastume klausimus, į kuriuos asistentas dar neatsako, ir pagerintume atsakymus. Jie saugomi Supabase Europos Sąjungoje (BDAR 6 straipsnio 1 dalies a punktas, tavo sutikimas).
+
+Norėdamas nutraukti, po pokalbiu pasirink **Ištrinti mano pokalbius** ir patvirtink. Taip ištrinami toje naršyklėje ar programoje išsaugoti pokalbiai, o prieš kitą žinutę vėl paprašoma sutikimo.
 
 ## Su paskyra (komandos paieška ir sinchronizavimas)
 
@@ -104,6 +117,7 @@ Duomenų neparduodame ir reklamai neperduodame.
 | Discord mainai ir highlights DMZT SOCIAL sraute | Kol Discord įrašas ar skelbimas pašalinamas arba kol ištrini paskyrą |
 | Pranešimai apie komandos narius | 30 dienų |
 | Anoniminė statistika | 90 dienų |
+| DMZT Assistant pokalbiai | 90 dienų |
 | Uždarytų pagalbos pokalbių archyvai | 12 mėnesių, paskui ištrinami |
 | Boto duomenų bazės atsarginės kopijos | Kasdien pakeičiamos naujomis, saugomos paskutinės trys |
 
@@ -115,6 +129,7 @@ Duomenų neparduodame ir reklamai neperduodame.
 
 * **Programoje arba dmzt.app:** programoje atverk **Paskyros nustatymus**, dmzt.app - **DMZT SOCIAL**, **Mano profilis**, **Paskyra**; pasirink **Ištrinti paskyrą** ir patvirtink. Taip ištrinama paskyra, operatoriaus profilis, sinchronizuoti planai, sąrašai ir rinkiniai, išsaugotas Activision ID, eilės įrašas, tavo užblokuoti žaidėjai, tavo DMZT EXP ir viskas, kas tavo DMZT SOCIAL, kartu su įrašų paveikslėliais. Kopijos tavo kompiuteriuose lieka.
 * **Vieną DMZT SOCIAL įrašą:** atverk įrašo meniu ir pasirink **Ištrinti**. Kartu ištrinamas ir jo paveikslėlis.
+* **DMZT Assistant pokalbius:** po pokalbiu pasirink **Ištrinti mano pokalbius** ir patvirtink. Taip ištrinami toje naršyklėje ar programoje išsaugoti pokalbiai.
 * **Boto duomenis:** atidaryk pagalbos pokalbį komanda `/ticket` arba rašyk dmztacticaltool@gmail.com. Atsakome per 30 dienų.
 
 ## Tavo teisės
