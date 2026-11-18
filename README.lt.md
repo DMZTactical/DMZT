@@ -8,11 +8,11 @@
 <p align="center"><a href="README.md">English</a> · <strong>Lietuvių</strong> · <a href="https://dmzt.app/lt/">Svetainė</a> · <a href="#duk">DUK</a></p>
 
 <p align="center">
-<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.54-beta.1/DMZT.APP-Installer.exe"><img src="media/hajin-install-0-9-54-lt.svg" width="330" alt="Atsisiųsk DMZT.APP-Installer.exe. Bandomoji versija 0.9.54-beta.1, Windows x64."></a>
-<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.54-beta.1/DMZT.APP-0.9.54-beta.1-mac.dmg"><img src="media/hajin-mac-0-9-54-lt.svg" width="330" alt="Atsisiųsk Mac versiją. Bandomoji versija 0.9.54-beta.1, macOS 12 ar naujesnė, Apple silicon ir Intel."></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.55-beta.1/DMZT.APP-Installer.exe"><img src="media/hajin-install-0-9-55-lt.svg" width="330" alt="Atsisiųsk DMZT.APP-Installer.exe. Bandomoji versija 0.9.55-beta.1, Windows x64."></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/download/v0.9.55-beta.1/DMZT.APP-0.9.55-beta.1-mac.dmg"><img src="media/hajin-mac-0-9-55-lt.svg" width="330" alt="Atsisiųsk Mac versiją. Bandomoji versija 0.9.55-beta.1, macOS 12 ar naujesnė, Apple silicon ir Intel."></a>
 <br>
 <a href="https://discord.gg/PzCZNqmybB"><img src="media/hajin-community-r2-lt.svg" width="330" alt="Prisijunk prie DMZ Tactical bendruomenės Discord serveryje: pasiūlymai ir naujienos."></a>
-<a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.54-beta.1"><img src="media/hajin-r3-notes-lt.svg" width="330" alt="Kas naujo: šios versijos pakeitimai GitHub svetainėje."></a>
+<a href="https://github.com/DMZTactical/DMZT/releases/tag/v0.9.55-beta.1"><img src="media/hajin-r3-notes-lt.svg" width="330" alt="Kas naujo: šios versijos pakeitimai GitHub svetainėje."></a>
 </p>
 
 # DMZ Tactical – Hajin žemėlapis, daiktų paieška ir reido planas MW4 DMZ
@@ -54,13 +54,13 @@
 
 ## Nuo ko pradėti
 
-1. **Įdiek.** Atsisiųsk [DMZT.APP-Installer.exe](https://github.com/DMZTactical/DMZT/releases/download/v0.9.54-beta.1/DMZT.APP-Installer.exe) ir paleisk.
+1. **Įdiek.** Atsisiųsk [DMZT.APP-Installer.exe](https://github.com/DMZTactical/DMZT/releases/download/v0.9.55-beta.1/DMZT.APP-Installer.exe) ir paleisk.
 2. **Surask.** Ieškok rakto, daikto, vietovės ar langelio.
 3. **Spausk F8.** Žaidime nustatyk Borderless arba Windowed režimą ir reido metu paspausk F8.
 
 **Jau naudoji bandomąją versiją?** Atverk Nustatymus ir pasirink **Tikrinti atnaujinimus**. Jei atnaujinimas nepasirodo, atsisiųsk diegimo failą ir paleisk jį. Planai ir nustatymai išlieka.
 
-**Naudoji Mac?** Atsisiųsk [DMZT.APP-0.9.54-beta.1-mac.dmg](https://github.com/DMZTactical/DMZT/releases/download/v0.9.54-beta.1/DMZT.APP-0.9.54-beta.1-mac.dmg), atverk jį ir nutempk DMZT į Applications. Pirmą kartą paleisk DMZT, pasirink Done, tada atverk System Settings, skiltį Privacy & Security, prie DMZT pasirink Open Anyway ir įvesk slaptažodį. Mac versijoje yra žemėlapis, planai, "Ką surinkti", X01, profilis ir komandos paieška; langas virš žaidimo (F8) veikia tik Windows.
+**Naudoji Mac?** Atsisiųsk [DMZT.APP-0.9.55-beta.1-mac.dmg](https://github.com/DMZTactical/DMZT/releases/download/v0.9.55-beta.1/DMZT.APP-0.9.55-beta.1-mac.dmg), atverk jį ir nutempk DMZT į Applications. Pirmą kartą paleisk DMZT, pasirink Done, tada atverk System Settings, skiltį Privacy & Security, prie DMZT pasirink Open Anyway ir įvesk slaptažodį. Mac versijoje yra žemėlapis, planai, "Ką surinkti", X01, profilis ir komandos paieška; langas virš žaidimo (F8) veikia tik Windows.
 
 **Žemėlapis neįsikelia?** Įdiek [Microsoft Edge WebView2](https://developer.microsoft.com/microsoft-edge/webview2/#download) ir paleisk programą iš naujo.
 
@@ -88,10 +88,10 @@ Atverk Terminal aplanke su diegimo failu ir paleisk:
 Get-FileHash .\DMZT.APP-Installer.exe | Format-List
 ```
 
-Suma turi būti `898C1D4D23F8BE2BDAFDBB7E23D1F03022D027BBE3BD9FBB5C1157A90EF026D2`.
-[SHA256SUMS.txt](https://github.com/DMZTactical/DMZT/releases/download/v0.9.54-beta.1/SHA256SUMS.txt) · [VirusTotal ataskaita](https://www.virustotal.com/gui/file/898c1d4d23f8be2bdafdbb7e23d1f03022d027bbe3bd9fbb5c1157a90ef026d2)
+Suma turi būti `00CE560F31DAE26DE4D595458C023BBEAC52832617938C57BC078AA915F1AC55`.
+[SHA256SUMS.txt](https://github.com/DMZTactical/DMZT/releases/download/v0.9.55-beta.1/SHA256SUMS.txt) · [VirusTotal ataskaita](https://www.virustotal.com/gui/file/00ce560f31dae26de4d595458c023bbeac52832617938c57bc078aa915f1ac55)
 
-Mac kompiuteryje Terminal lange paleisk `shasum -a 256 DMZT.APP-0.9.54-beta.1-mac.dmg`. Suma turi būti `13D807C35C9275C5F2E2DD0369C9847D5001E76268AE99A56D84A8D6573807CD`.
+Mac kompiuteryje Terminal lange paleisk `shasum -a 256 DMZT.APP-0.9.55-beta.1-mac.dmg`. Suma turi būti `CE68C19F6FD849338C71E01B31E906D3A480D453A01F07F6E1564998779BAFD6`.
 
 Diegimo failas dar neturi skaitmeninio parašo, todėl Windows SmartScreen ar kai kurios antivirusinės programos gali įspėti. Mac programa dar neturi Apple kūrėjo parašo, todėl macOS vieną kartą paprašo ją leisti. Atnaujinimai tikrinami pagal pasirašytą sąrašą ir kontrolines sumas.
 
